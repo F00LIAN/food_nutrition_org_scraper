@@ -1,0 +1,626 @@
+[
+  {
+    "name": "7-Eleven",
+    "url": "https://fastfoodnutrition.org/7-eleven"
+  },
+  {
+    "name": "Applebee's",
+    "url": "https://fastfoodnutrition.org/applebees"
+  },
+  {
+    "name": "Arby's",
+    "url": "https://fastfoodnutrition.org/arbys"
+  },
+  {
+    "name": "Au Bon Pain",
+    "url": "https://fastfoodnutrition.org/au-bon-pain"
+  },
+  {
+    "name": "Auntie Anne's",
+    "url": "https://fastfoodnutrition.org/auntie-annes"
+  },
+  {
+    "name": "Baja Fresh",
+    "url": "https://fastfoodnutrition.org/baja-fresh"
+  },
+  {
+    "name": "Baskin-Robbins",
+    "url": "https://fastfoodnutrition.org/baskin-robbins"
+  },
+  {
+    "name": "Bibibop",
+    "url": "https://fastfoodnutrition.org/bibibop"
+  },
+  {
+    "name": "BJ's",
+    "url": "https://fastfoodnutrition.org/bjs"
+  },
+  {
+    "name": "Blaze Pizza",
+    "url": "https://fastfoodnutrition.org/blaze-pizza"
+  },
+  {
+    "name": "Blimpie",
+    "url": "https://fastfoodnutrition.org/blimpie"
+  },
+  {
+    "name": "Bob Evans",
+    "url": "https://fastfoodnutrition.org/bob-evans"
+  },
+  {
+    "name": "Bojangles",
+    "url": "https://fastfoodnutrition.org/bojangles"
+  },
+  {
+    "name": "Boston Market",
+    "url": "https://fastfoodnutrition.org/boston-market"
+  },
+  {
+    "name": "Bruegger's",
+    "url": "https://fastfoodnutrition.org/brueggers"
+  },
+  {
+    "name": "Buffalo Wild Wings",
+    "url": "https://fastfoodnutrition.org/buffalo-wild-wings"
+  },
+  {
+    "name": "Burger King",
+    "url": "https://fastfoodnutrition.org/burger-king"
+  },
+  {
+    "name": "BurgerFi",
+    "url": "https://fastfoodnutrition.org/burgerfi"
+  },
+  {
+    "name": "Cafe Rio",
+    "url": "https://fastfoodnutrition.org/cafe-rio"
+  },
+  {
+    "name": "California Pizza Kitchen",
+    "url": "https://fastfoodnutrition.org/california-pizza-kitchen"
+  },
+  {
+    "name": "Captain D's",
+    "url": "https://fastfoodnutrition.org/captain-ds"
+  },
+  {
+    "name": "Caribou Coffee",
+    "url": "https://fastfoodnutrition.org/caribou-coffee"
+  },
+  {
+    "name": "Carl's Jr",
+    "url": "https://fastfoodnutrition.org/carls-jr"
+  },
+  {
+    "name": "Carrabba's",
+    "url": "https://fastfoodnutrition.org/carrabbas"
+  },
+  {
+    "name": "Casey's",
+    "url": "https://fastfoodnutrition.org/caseys"
+  },
+  {
+    "name": "Cava",
+    "url": "https://fastfoodnutrition.org/cava"
+  },
+  {
+    "name": "Checkers",
+    "url": "https://fastfoodnutrition.org/checkers"
+  },
+  {
+    "name": "The Cheesecake Factory",
+    "url": "https://fastfoodnutrition.org/cheesecake-factory"
+  },
+  {
+    "name": "Chick-fil-A",
+    "url": "https://fastfoodnutrition.org/chick-fil-a"
+  },
+  {
+    "name": "Chicken Express",
+    "url": "https://fastfoodnutrition.org/chicken-express"
+  },
+  {
+    "name": "Chicken Salad Chick",
+    "url": "https://fastfoodnutrition.org/chicken-salad-chick"
+  },
+  {
+    "name": "Chili's",
+    "url": "https://fastfoodnutrition.org/chilis"
+  },
+  {
+    "name": "Chipotle",
+    "url": "https://fastfoodnutrition.org/chipotle"
+  },
+  {
+    "name": "Church's Chicken",
+    "url": "https://fastfoodnutrition.org/churchs-chicken"
+  },
+  {
+    "name": "Chuy's",
+    "url": "https://fastfoodnutrition.org/chuys"
+  },
+  {
+    "name": "Cinnabon",
+    "url": "https://fastfoodnutrition.org/cinnabon"
+  },
+  {
+    "name": "Cold Stone Creamery",
+    "url": "https://fastfoodnutrition.org/cold-stone-creamery"
+  },
+  {
+    "name": "Cookout",
+    "url": "https://fastfoodnutrition.org/cookout"
+  },
+  {
+    "name": "Corner Bakery",
+    "url": "https://fastfoodnutrition.org/corner-bakery"
+  },
+  {
+    "name": "Costa Vida",
+    "url": "https://fastfoodnutrition.org/costa-vida"
+  },
+  {
+    "name": "Costco Food Court",
+    "url": "https://fastfoodnutrition.org/costco"
+  },
+  {
+    "name": "Cracker Barrel",
+    "url": "https://fastfoodnutrition.org/cracker-barrel"
+  },
+  {
+    "name": "Culvers",
+    "url": "https://fastfoodnutrition.org/culvers"
+  },
+  {
+    "name": "Dairy Queen",
+    "url": "https://fastfoodnutrition.org/dairy-queen"
+  },
+  {
+    "name": "Dave's Hot Chicken",
+    "url": "https://fastfoodnutrition.org/daves-hot-chicken"
+  },
+  {
+    "name": "Del Taco",
+    "url": "https://fastfoodnutrition.org/del-taco"
+  },
+  {
+    "name": "Denny's",
+    "url": "https://fastfoodnutrition.org/dennys"
+  },
+  {
+    "name": "Domino's Pizza",
+    "url": "https://fastfoodnutrition.org/dominos-pizza"
+  },
+  {
+    "name": "Donatos",
+    "url": "https://fastfoodnutrition.org/donatos"
+  },
+  {
+    "name": "Dunkin Donuts",
+    "url": "https://fastfoodnutrition.org/dunkin-donuts"
+  },
+  {
+    "name": "El Pollo Loco",
+    "url": "https://fastfoodnutrition.org/el-pollo-loco"
+  },
+  {
+    "name": "Famous Dave's",
+    "url": "https://fastfoodnutrition.org/famous-daves"
+  },
+  {
+    "name": "Fazoli's",
+    "url": "https://fastfoodnutrition.org/fazolis"
+  },
+  {
+    "name": "Firehouse Subs",
+    "url": "https://fastfoodnutrition.org/firehouse-subs"
+  },
+  {
+    "name": "First Watch",
+    "url": "https://fastfoodnutrition.org/first-watch"
+  },
+  {
+    "name": "Five Guys",
+    "url": "https://fastfoodnutrition.org/five-guys"
+  },
+  {
+    "name": "Freddy's",
+    "url": "https://fastfoodnutrition.org/freddys"
+  },
+  {
+    "name": "Freebirds",
+    "url": "https://fastfoodnutrition.org/freebirds"
+  },
+  {
+    "name": "Freshii",
+    "url": "https://fastfoodnutrition.org/freshii"
+  },
+  {
+    "name": "Fuddruckers",
+    "url": "https://fastfoodnutrition.org/fuddruckers"
+  },
+  {
+    "name": "Godfather's Pizza",
+    "url": "https://fastfoodnutrition.org/godfathers-pizza"
+  },
+  {
+    "name": "Golden Corral",
+    "url": "https://fastfoodnutrition.org/golden-corral"
+  },
+  {
+    "name": "The Habit",
+    "url": "https://fastfoodnutrition.org/habit"
+  },
+  {
+    "name": "Hardee's",
+    "url": "https://fastfoodnutrition.org/hardees"
+  },
+  {
+    "name": "Honeygrow",
+    "url": "https://fastfoodnutrition.org/honeygrow"
+  },
+  {
+    "name": "Hooters",
+    "url": "https://fastfoodnutrition.org/hooters"
+  },
+  {
+    "name": "Hungry Howie's",
+    "url": "https://fastfoodnutrition.org/hungry-howies"
+  },
+  {
+    "name": "IHOP",
+    "url": "https://fastfoodnutrition.org/ihop"
+  },
+  {
+    "name": "In-N-Out Burger",
+    "url": "https://fastfoodnutrition.org/in-n-out-burger"
+  },
+  {
+    "name": "Jack in the Box",
+    "url": "https://fastfoodnutrition.org/jack-in-the-box"
+  },
+  {
+    "name": "Jamba Juice",
+    "url": "https://fastfoodnutrition.org/jamba-juice"
+  },
+  {
+    "name": "Jason's Deli",
+    "url": "https://fastfoodnutrition.org/jasons-deli"
+  },
+  {
+    "name": "Jersey Mike's",
+    "url": "https://fastfoodnutrition.org/jersey-mikes"
+  },
+  {
+    "name": "Jet's Pizza",
+    "url": "https://fastfoodnutrition.org/jets-pizza"
+  },
+  {
+    "name": "Jimmy Johns",
+    "url": "https://fastfoodnutrition.org/jimmy-johns"
+  },
+  {
+    "name": "KFC",
+    "url": "https://fastfoodnutrition.org/kfc"
+  },
+  {
+    "name": "Krispy Kreme",
+    "url": "https://fastfoodnutrition.org/krispy-kreme"
+  },
+  {
+    "name": "Krystal",
+    "url": "https://fastfoodnutrition.org/krystal"
+  },
+  {
+    "name": "Kwik Trip",
+    "url": "https://fastfoodnutrition.org/kwik-trip"
+  },
+  {
+    "name": "La Madeleine",
+    "url": "https://fastfoodnutrition.org/la-madeleine"
+  },
+  {
+    "name": "Little Caesars",
+    "url": "https://fastfoodnutrition.org/little-caesars"
+  },
+  {
+    "name": "Long John Silver's",
+    "url": "https://fastfoodnutrition.org/long-john-silvers"
+  },
+  {
+    "name": "Longhorn",
+    "url": "https://fastfoodnutrition.org/longhorn"
+  },
+  {
+    "name": "Manchu Wok",
+    "url": "https://fastfoodnutrition.org/manchu-wok"
+  },
+  {
+    "name": "Marco's Pizza",
+    "url": "https://fastfoodnutrition.org/marcos-pizza"
+  },
+  {
+    "name": "McAlister's",
+    "url": "https://fastfoodnutrition.org/mcalisters-deli"
+  },
+  {
+    "name": "McDonald's",
+    "url": "https://fastfoodnutrition.org/mcdonalds"
+  },
+  {
+    "name": "Mellow Mushroom",
+    "url": "https://fastfoodnutrition.org/mellow-mushroom"
+  },
+  {
+    "name": "Mission BBQ",
+    "url": "https://fastfoodnutrition.org/mission-bbq"
+  },
+  {
+    "name": "Mod Pizza",
+    "url": "https://fastfoodnutrition.org/mod-pizza"
+  },
+  {
+    "name": "Moe's",
+    "url": "https://fastfoodnutrition.org/moes"
+  },
+  {
+    "name": "Newk's",
+    "url": "https://fastfoodnutrition.org/newks-eatery"
+  },
+  {
+    "name": "Noodles & Company",
+    "url": "https://fastfoodnutrition.org/noodles-company"
+  },
+  {
+    "name": "Nothing Bundt Cakes",
+    "url": "https://fastfoodnutrition.org/nothing-bundt-cakes"
+  },
+  {
+    "name": "O'Charley's",
+    "url": "https://fastfoodnutrition.org/o-charleys"
+  },
+  {
+    "name": "Olive Garden",
+    "url": "https://fastfoodnutrition.org/olive-garden"
+  },
+  {
+    "name": "On The Border",
+    "url": "https://fastfoodnutrition.org/on-the-border"
+  },
+  {
+    "name": "Outback",
+    "url": "https://fastfoodnutrition.org/outback"
+  },
+  {
+    "name": "Panda Express",
+    "url": "https://fastfoodnutrition.org/panda-express"
+  },
+  {
+    "name": "Panera",
+    "url": "https://fastfoodnutrition.org/panera-bread"
+  },
+  {
+    "name": "Papa John's",
+    "url": "https://fastfoodnutrition.org/papa-johns"
+  },
+  {
+    "name": "Papa Murphy's",
+    "url": "https://fastfoodnutrition.org/papa-murphys"
+  },
+  {
+    "name": "PDQ",
+    "url": "https://fastfoodnutrition.org/pdq"
+  },
+  {
+    "name": "Pei Wei",
+    "url": "https://fastfoodnutrition.org/pei-wei"
+  },
+  {
+    "name": "Penn Station",
+    "url": "https://fastfoodnutrition.org/penn-station"
+  },
+  {
+    "name": "Perkin's",
+    "url": "https://fastfoodnutrition.org/perkins"
+  },
+  {
+    "name": "P.F. Chang's",
+    "url": "https://fastfoodnutrition.org/pf-changs"
+  },
+  {
+    "name": "Pinkberry",
+    "url": "https://fastfoodnutrition.org/pinkberry"
+  },
+  {
+    "name": "Pita Pit",
+    "url": "https://fastfoodnutrition.org/pita-pit"
+  },
+  {
+    "name": "Pizza Hut",
+    "url": "https://fastfoodnutrition.org/pizza-hut"
+  },
+  {
+    "name": "Pizza Ranch",
+    "url": "https://fastfoodnutrition.org/pizza-ranch"
+  },
+  {
+    "name": "Pollo Tropical",
+    "url": "https://fastfoodnutrition.org/pollo-tropical"
+  },
+  {
+    "name": "Popeyes",
+    "url": "https://fastfoodnutrition.org/popeyes"
+  },
+  {
+    "name": "Portillo's",
+    "url": "https://fastfoodnutrition.org/portillos"
+  },
+  {
+    "name": "Potbelly",
+    "url": "https://fastfoodnutrition.org/potbelly"
+  },
+  {
+    "name": "Qdoba",
+    "url": "https://fastfoodnutrition.org/qdoba"
+  },
+  {
+    "name": "Quiznos",
+    "url": "https://fastfoodnutrition.org/quiznos"
+  },
+  {
+    "name": "Raising Cane's",
+    "url": "https://fastfoodnutrition.org/raising-canes"
+  },
+  {
+    "name": "Red Lobster",
+    "url": "https://fastfoodnutrition.org/red-lobster"
+  },
+  {
+    "name": "Red Robin",
+    "url": "https://fastfoodnutrition.org/red-robin"
+  },
+  {
+    "name": "Rubio's",
+    "url": "https://fastfoodnutrition.org/rubios"
+  },
+  {
+    "name": "Ruby Tuesday",
+    "url": "https://fastfoodnutrition.org/ruby-tuesday"
+  },
+  {
+    "name": "Saladworks",
+    "url": "https://fastfoodnutrition.org/saladworks"
+  },
+  {
+    "name": "Salsarita's",
+    "url": "https://fastfoodnutrition.org/salsaritas"
+  },
+  {
+    "name": "Sbarro",
+    "url": "https://fastfoodnutrition.org/sbarro"
+  },
+  {
+    "name": "Schlotzsky's",
+    "url": "https://fastfoodnutrition.org/schlotzskys"
+  },
+  {
+    "name": "Shake Shack",
+    "url": "https://fastfoodnutrition.org/shake-shack"
+  },
+  {
+    "name": "Sheetz",
+    "url": "https://fastfoodnutrition.org/sheetz"
+  },
+  {
+    "name": "Smashburger",
+    "url": "https://fastfoodnutrition.org/smashburger"
+  },
+  {
+    "name": "Smoothie King",
+    "url": "https://fastfoodnutrition.org/smoothie-king"
+  },
+  {
+    "name": "Sonic",
+    "url": "https://fastfoodnutrition.org/sonic"
+  },
+  {
+    "name": "Starbucks",
+    "url": "https://fastfoodnutrition.org/starbucks"
+  },
+  {
+    "name": "Steak 'n Shake",
+    "url": "https://fastfoodnutrition.org/steak-n-shake"
+  },
+  {
+    "name": "Subway",
+    "url": "https://fastfoodnutrition.org/subway"
+  },
+  {
+    "name": "Sweetgreen",
+    "url": "https://fastfoodnutrition.org/sweetgreen"
+  },
+  {
+    "name": "Taco Bell",
+    "url": "https://fastfoodnutrition.org/taco-bell"
+  },
+  {
+    "name": "Taco Cabana",
+    "url": "https://fastfoodnutrition.org/taco-cabana"
+  },
+  {
+    "name": "Taco John's",
+    "url": "https://fastfoodnutrition.org/taco-johns"
+  },
+  {
+    "name": "Taco Time",
+    "url": "https://fastfoodnutrition.org/taco-time"
+  },
+  {
+    "name": "Texas Roadhouse",
+    "url": "https://fastfoodnutrition.org/texas-roadhouse"
+  },
+  {
+    "name": "TGI Fridays",
+    "url": "https://fastfoodnutrition.org/tgi-fridays"
+  },
+  {
+    "name": "Tijuana Flats",
+    "url": "https://fastfoodnutrition.org/tijuana-flats"
+  },
+  {
+    "name": "Tim Hortons",
+    "url": "https://fastfoodnutrition.org/tim-hortons"
+  },
+  {
+    "name": "Tropical Smoothie Cafe",
+    "url": "https://fastfoodnutrition.org/tropical-smoothie-cafe"
+  },
+  {
+    "name": "WaBa Grill",
+    "url": "https://fastfoodnutrition.org/waba-grill"
+  },
+  {
+    "name": "Waffle House",
+    "url": "https://fastfoodnutrition.org/waffle-house"
+  },
+  {
+    "name": "Wawa",
+    "url": "https://fastfoodnutrition.org/wawa"
+  },
+  {
+    "name": "Wendy's",
+    "url": "https://fastfoodnutrition.org/wendys"
+  },
+  {
+    "name": "Whataburger",
+    "url": "https://fastfoodnutrition.org/whataburger"
+  },
+  {
+    "name": "Which Wich",
+    "url": "https://fastfoodnutrition.org/which-wich"
+  },
+  {
+    "name": "White Castle",
+    "url": "https://fastfoodnutrition.org/white-castle"
+  },
+  {
+    "name": "Wienerschnitzel",
+    "url": "https://fastfoodnutrition.org/wienerschnitzel"
+  },
+  {
+    "name": "Wingstop",
+    "url": "https://fastfoodnutrition.org/wingstop"
+  },
+  {
+    "name": "Yard House",
+    "url": "https://fastfoodnutrition.org/yard-house"
+  },
+  {
+    "name": "Zaxby's",
+    "url": "https://fastfoodnutrition.org/zaxbys"
+  },
+  {
+    "name": "Zoes Kitchen",
+    "url": "https://fastfoodnutrition.org/zoes-kitchen"
+  }
+]
