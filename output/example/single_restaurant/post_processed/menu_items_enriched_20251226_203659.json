@@ -1,0 +1,1043 @@
+[
+  {
+    "_id": "7e4bf3edc6fff808eb026613ba2f812b",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Bacon Buffalo Ranch Deluxe McCrispy",
+    "description": "Indulge in the Bacon Buffalo Ranch Deluxe McCrispy, featuring crispy chicken, zesty buffalo sauce, creamy ranch, and topped with crispy bacon for a flavor explosion.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Fat",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/bacon-buffalo-ranch-deluxe-mccrispy",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x320/176219431863748.png"
+  },
+  {
+    "_id": "03d339b476efd04d6951f061e4f9616b",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Bacon Buffalo Ranch McCrispy",
+    "description": "Savor the crunch of crispy bacon paired with spicy buffalo sauce and creamy ranch, all nestled in a perfectly grilled chicken fillet on a toasted bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Fat",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/bacon-buffalo-ranch-mccrispy",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x293/176219433813318.png"
+  },
+  {
+    "_id": "51995e36ce48dcbde89ede4ffb420f87",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Bacon McDouble",
+    "description": "Savor the juicy Bacon McDouble, featuring two beef patties, crispy bacon, melted cheese, and tangy pickles, all nestled in a soft bun for a flavor-packed bite.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/bacon-mcdouble",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+  },
+  {
+    "_id": "39fd035a1741b5f669a6cfd509f99a6a",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Bacon Ranch Deluxe McCrispy",
+    "description": "Indulge in the Bacon Ranch Deluxe McCrispy, featuring crispy chicken, smoky bacon, and creamy ranch, all nestled in a toasted bun for a flavor explosion.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Fat",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/bacon-ranch-deluxe-mccrispy",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x323/167797398828051.png"
+  },
+  {
+    "_id": "2cdbb27e3176d2af7432c2b18a7f4d24",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Bacon Ranch McCrispy",
+    "description": "Indulge in our Bacon Ranch McCrispy, featuring a juicy chicken patty topped with crispy bacon, zesty ranch sauce, and fresh lettuce on a toasted bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/bacon-ranch-mccrispy",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x309/167797307932007.png"
+  },
+  {
+    "_id": "c3f77af0a77347fffae52cd16c63c4e5",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Bacon Special Edition Gold Deluxe McCrispy",
+    "description": "Indulge in our Bacon Special Edition Gold Deluxe McCrispy, featuring crispy fried chicken, smoky bacon, and a luscious gold sauce, all nestled in a toasted brioche bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/bacon-special-edition-gold-deluxe-mccrispy",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x317/175771002670095.png"
+  },
+  {
+    "_id": "6cad6ea381ac1f37924063dccc72ba4d",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Bacon Special Edition Gold McCrispy",
+    "description": "Indulge in the Bacon Special Edition Gold McCrispy, featuring crispy chicken, smoky bacon, and a rich gold sauce, all nestled in a toasted bun for a savory delight.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/bacon-special-edition-gold-mccrispy",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x286/175770979893305.png"
+  },
+  {
+    "_id": "f2722e2bfad59b844833947b2444caf9",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Big Mac",
+    "description": "Indulge in our Big Mac, featuring two juicy beef patties, special sauce, crisp lettuce, pickles, and cheese, all nestled between a toasted sesame seed bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/big-mac",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x433/825_s.jpg"
+  },
+  {
+    "_id": "de7b23fc1b3448f4575d323da4bc8f70",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Big Mac Bacon",
+    "description": "Savor the classic Big Mac with a smoky twist! Crispy bacon adds a savory crunch to the iconic layers of beef, cheese, and special sauce, delivering a flavor explosion in every bite.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/big-mac-bacon",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+  },
+  {
+    "_id": "092c6a4c98260441824c829fbf337fa0",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Cardi B & Offset Meal",
+    "description": "Indulge in the Cardi B & Offset Meal, featuring a juicy double cheeseburger topped with spicy jalapeños, creamy guacamole, and a zesty chipotle sauce, all on a toasted brioche bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Carb",
+      "High Calorie",
+      "High Sodium",
+      "High Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/cardi-b-offset-meal",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x275/167640437022172.png"
+  },
+  {
+    "_id": "469af409505363cd59f973e90f47f009",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Cheeseburger",
+    "description": "Savor our juicy cheeseburger, featuring a perfectly grilled beef patty topped with melted cheddar, fresh lettuce, ripe tomatoes, and our signature sauce on a toasted bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "Low Calorie",
+      "High Sodium",
+      "Low Sugar",
+      "Balanced"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/cheeseburger",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/1823.jpg"
+  },
+  {
+    "_id": "1301feb02d5bc76eb3b2bf04f096b32c",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Cheesy Jalapeno Bacon Quarter Pounder",
+    "description": "Indulge in our Cheesy Jalapeno Bacon Quarter Pounder, featuring a juicy beef patty topped with crispy bacon, zesty jalapenos, and melted cheese for a flavor explosion.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Fat",
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/cheesy-jalapeno-bacon-quarter-pounder",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x291/168900861367415.jpg"
+  },
+  {
+    "_id": "c73420b9683445681eabdd218e6167ec",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Chicken Big Mac",
+    "description": "Indulge in our Chicken Big Mac, featuring crispy chicken patties, creamy special sauce, and fresh lettuce, all stacked between fluffy sesame seed buns.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Calorie",
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/chicken-big-mac",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x355/172970936644841.jpg"
+  },
+  {
+    "_id": "cfa08697cc47108fa0f84d0a1b8f040d",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Daily Double",
+    "description": "Savor the juicy double patty, melted cheddar, crisp lettuce, and zesty special sauce, all sandwiched between a toasted brioche bun for the ultimate burger experience.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/daily-double",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+  },
+  {
+    "_id": "6f0da7710bcedc4f8e8301d58c796401",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Deluxe McCrispy",
+    "description": "Indulge in the Deluxe McCrispy, featuring a perfectly fried chicken fillet, zesty pickles, and creamy mayo, all nestled in a toasted bun for a burst of flavor.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/deluxe-crispy-chicken-sandwich",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x222/161353478436185.jpg"
+  },
+  {
+    "_id": "e209f7ca516cb7febe861265e2967abc",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Double Cheeseburger",
+    "description": "Indulge in our Double Cheeseburger, featuring two juicy beef patties, melted cheddar, crisp lettuce, and our signature sauce, all nestled in a toasted brioche bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/double-cheeseburger",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/820_s.jpg"
+  },
+  {
+    "_id": "447dd18a86c11a870a37d42c5a3e66d3",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Double Filet-O-Fish",
+    "description": "Indulge in our Double Filet-O-Fish, featuring two crispy fish fillets, creamy tartar sauce, and fresh lettuce, all nestled in a soft, toasted bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Seafood"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/double-filet-o-fish",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/160524388426452.jpg"
+  },
+  {
+    "_id": "866cccd6d775a9d62057d9271652cd65",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Double Hamburger",
+    "description": "Indulge in our juicy double hamburger, stacked high with two grilled patties, melted cheese, fresh lettuce, and our secret sauce, all nestled in a toasted bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "Low Calorie",
+      "High Sodium",
+      "Low Sugar",
+      "Balanced"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/double-hamburger",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+  },
+  {
+    "_id": "40a5352b3ea4133c6ccff5cd1ef2ead4",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Double Quarter Pounder with Cheese",
+    "description": "Savor the indulgence of two juicy quarter-pound beef patties, melted cheddar cheese, crisp lettuce, and tangy pickles, all nestled in a soft sesame seed bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Fat",
+      "High Calorie",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/double-quarter-pounder-with-cheese",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/823_s.jpg"
+  },
+  {
+    "_id": "86c3285b379da8c54669a8a5422d85c1",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Double Quarter Pounder with Cheese Deluxe",
+    "description": "Indulge in our Double Quarter Pounder with Cheese Deluxe, featuring two juicy beef patties, melted cheese, crisp lettuce, and tangy pickles, all nestled in a toasted sesame bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Fat",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/double-quarter-pounder-with-cheese-deluxe",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x222/8738_s.jpg"
+  },
+  {
+    "_id": "c6f8a1ed29825cade1dd6a5c723bc595",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Filet-O-Fish®",
+    "description": "Savor the crispy, golden-battered fish fillet, topped with creamy tartar sauce and crisp lettuce, all nestled in a soft, toasted bun for a delightful bite.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Seafood"
+    ],
+    "macronutrient_profile": [
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/filet-o-fish",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/1826.jpg"
+  },
+  {
+    "_id": "8d7275d8b911c0c8f31cb502fee84559",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Hamburger",
+    "description": "Savor our juicy, grilled hamburger topped with fresh lettuce, ripe tomatoes, and a tangy special sauce, all nestled in a toasted brioche bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "Low Calorie",
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/hamburger",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/1822.jpg"
+  },
+  {
+    "_id": "7019ea3f9df890f878a7696ac5b01d55",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Hot 'n Spicy McChicken",
+    "description": "Bite into our Hot 'n Spicy McChicken, featuring a crispy, fiery chicken patty topped with zesty mayo and fresh lettuce, all nestled in a soft bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Sodium",
+      "High Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/hot-n-spicy-mcchicken",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+  },
+  {
+    "_id": "483df2de30c27550fa597391af251ed3",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "McChicken",
+    "description": "Savor the classic McChicken, featuring a crispy chicken patty, fresh lettuce, and creamy mayo, all nestled in a soft, toasted bun for the ultimate comfort bite.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/mcchicken",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/1836.jpg"
+  },
+  {
+    "_id": "f19c78f7916ff0732882e2c3cd187ace",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "McCrispy Chicken Sandwich",
+    "description": "Savor the crunch of our McCrispy Chicken Sandwich, featuring a juicy, golden-fried chicken breast topped with fresh lettuce, ripe tomatoes, and our signature sauce on a toasted bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium",
+      "Balanced"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/crispy-chicken-sandwich",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/161353448979398.jpg"
+  },
+  {
+    "_id": "91fb4050c8f9b48cb627c00c4e364fab",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "McDouble",
+    "description": "Savor the juicy layers of two perfectly grilled beef patties, melted cheese, and tangy pickles, all nestled in a soft sesame seed bun for a classic flavor explosion.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/mcdouble",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/1825.jpg"
+  },
+  {
+    "_id": "8c07cc4dfc8203931b47f7660fff9e33",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "McRib",
+    "description": "Savor the smoky, tangy flavor of our McRib, featuring tender pork slathered in a rich barbecue sauce, topped with crisp pickles and onions on a soft, toasted bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/mcrib",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/160761381083267i.jpg"
+  },
+  {
+    "_id": "930cfe4893472f9260f57f663b27e829",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Minecraft Movie Meal",
+    "description": "Dive into our Minecraft Movie Meal featuring a juicy beef patty topped with cheddar, crispy bacon, and a zesty avocado sauce, all nestled in a toasted bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Calorie",
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/minecraft-movie-meal",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x400/174363058134415i.png"
+  },
+  {
+    "_id": "b57e8c4bb7ee5245a9b2fcf0451a10dc",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Quarter Pounder Bacon",
+    "description": "Savor the juicy quarter pound beef patty topped with crispy bacon, melted cheese, and fresh veggies, all nestled in a toasted bun for a delicious bite every time.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-bacon",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/12469.jpg"
+  },
+  {
+    "_id": "4e00ce8baabab0a8cfd8a36665efb3a1",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Quarter Pounder Deluxe",
+    "description": "Indulge in our Quarter Pounder Deluxe, featuring a juicy beef patty, crisp lettuce, fresh tomatoes, and creamy mayo, all nestled in a toasted bun for the ultimate bite.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Fat",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-deluxe",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/6000.jpg"
+  },
+  {
+    "_id": "358ea090107b3e1c4fc7fa55aaa88b72",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Quarter Pounder® with Cheese",
+    "description": "Savor the juicy goodness of a quarter pound beef patty, melted cheese, crisp lettuce, and tangy pickles, all nestled in a toasted sesame seed bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-with-cheese",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/824_s.jpg"
+  },
+  {
+    "_id": "788f763666e99ec9fa2e25fc411bf39a",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Smoky BLT Quarter Pounder with Cheese",
+    "description": "Savor the bold flavors of our Smoky BLT Quarter Pounder with Cheese, featuring crispy bacon, fresh lettuce, and ripe tomatoes, all melted together with rich cheddar on a juicy beef patty.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Fat",
+      "High Calorie",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/smoky-blt-quarter-pounder-with-cheese",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x338/166905220792191i.png"
+  },
+  {
+    "_id": "c86246388e2ca93fa706665fff9823ce",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Spicy Deluxe McCrispy",
+    "description": "Bite into the Spicy Deluxe McCrispy, featuring a succulent chicken patty, zesty jalapeños, and creamy chipotle mayo, all nestled in a toasted bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/spicy-deluxe-crispy-chicken-sandwich",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x312/167167831842086.png"
+  },
+  {
+    "_id": "c5431efbb2f94ea35d67483a2a747e08",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Spicy McCrispy",
+    "description": "Bite into our Spicy McCrispy, featuring a perfectly fried chicken patty, zesty chipotle mayo, and fresh toppings, all nestled in a toasted bun for a fiery flavor explosion.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/spicy-crispy-chicken-sandwich",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x222/161353465962204.jpg"
+  },
+  {
+    "_id": "902fad92e18f86dbd13c46c9e4e70c07",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Triple Cheeseburger",
+    "description": "Indulge in our Triple Cheeseburger, stacked high with three juicy beef patties, melted cheddar, and a tangy special sauce, all nestled in a toasted brioche bun.",
+    "category": "Burgers & Sandwiches",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Fast Food"
+    ],
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/triple-cheeseburger",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x325/12493.jpg"
+  },
+  {
+    "_id": "df05f1d50a2fca1e764b5ffc8f5f8458",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "1% Low Fat Milk Jug",
+    "description": "Enjoy the creamy goodness of our 1% Low Fat Milk, perfectly chilled for a refreshing sip that complements any meal.",
+    "category": "Beverages",
+    "estimated_price": "2.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Mediterranean"
+    ],
+    "macronutrient_profile": [
+      "Low Carb",
+      "Low Calorie",
+      "Low Sodium"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/1-low-fat-milk-jug",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x222/1895.jpg"
+  },
+  {
+    "_id": "fe52387a0f3e55f36b1a41231c3dbcf2",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Apple Juice Box",
+    "description": "Savor the refreshing taste of pure, crisp apple juice, perfectly chilled and bursting with sweet, natural flavors that delight every sip.",
+    "category": "Beverages",
+    "estimated_price": "3.50",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Beverages"
+    ],
+    "macronutrient_profile": [
+      "Low Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/minute-maid-apple-juice-box",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x222/592_s.jpg"
+  },
+  {
+    "_id": "2433c8e3458964c0bbf48fe9cb32ba09",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Coca-Cola Classic",
+    "description": "Quench your thirst with the classic, refreshing taste of Coca-Cola Classic, perfectly carbonated to enhance every sip with its iconic sweetness.",
+    "category": "Beverages",
+    "estimated_price": "2.50",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Beverages"
+    ],
+    "macronutrient_profile": [
+      "High Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/coca-cola-classic",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/589_s.jpg"
+  },
+  {
+    "_id": "b657570cc4ed3f11fc6535d021df6e77",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Dasani© Water",
+    "description": "Quench your thirst with the crisp and refreshing taste of Dasani© Water, perfectly purified for a clean finish that revitalizes your senses.",
+    "category": "Beverages",
+    "estimated_price": "2.50",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Healthy"
+    ],
+    "macronutrient_profile": [],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/dasanicopy-water",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x222/1898.jpg"
+  },
+  {
+    "_id": "497f40b31a76c57d25a27c09effb4c8e",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Diet Coke",
+    "description": "Quench your thirst with a perfectly chilled Diet Coke, offering a refreshing burst of classic cola flavor without the calories.",
+    "category": "Beverages",
+    "estimated_price": "2.50",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Beverages"
+    ],
+    "macronutrient_profile": [],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/diet-coke",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x222/587_s.jpg"
+  },
+  {
+    "_id": "47f007e54b677deb29f918da195524d1",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Diet Dr Pepper",
+    "description": "Quench your thirst with the crisp, refreshing taste of Diet Dr Pepper, a delightful blend of 23 flavors that tantalizes your taste buds without the calories.",
+    "category": "Beverages",
+    "estimated_price": "2.50",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Beverage"
+    ],
+    "macronutrient_profile": [],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/diet-dr-pepper",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+  },
+  {
+    "_id": "6d6b18889710d951f3cfee228ee14660",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Dr Pepper",
+    "description": "Enjoy the bold and unique blend of 23 flavors in our chilled Dr Pepper, a refreshing companion to any meal.",
+    "category": "Beverages",
+    "estimated_price": "2.49",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Beverages"
+    ],
+    "macronutrient_profile": [
+      "High Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/dr-pepper",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x222/586_s.jpg"
+  },
+  {
+    "_id": "8622560935cdb14c5cecb2c0558bbe44",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Fanta Orange",
+    "description": "Quench your thirst with the vibrant, citrusy burst of Fanta Orange, a fizzy delight that dances on your palate with every sip.",
+    "category": "Beverages",
+    "estimated_price": "2.50",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/fanta-orange",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/8556_s.jpg"
+  },
+  {
+    "_id": "126e0d0d301232a98dec40c8ecd48bee",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Fat Free Chocolate Milk Jug",
+    "description": "Indulge guilt-free with our rich and creamy Fat Free Chocolate Milk, crafted with premium cocoa for a delightful chocolate experience without the calories.",
+    "category": "Beverages",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Beverages"
+    ],
+    "macronutrient_profile": [
+      "High Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/fat-free-chocolate-milk-jug",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x222/6081.jpg"
+  },
+  {
+    "_id": "d9771d4e234eacb3a06135b2088daca4",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Hi-C Orange Lavaburst",
+    "description": "Quench your thirst with the vibrant and zesty Hi-C Orange Lavaburst, bursting with refreshing citrus flavor that dances on your palate.",
+    "category": "Beverages",
+    "estimated_price": "2.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Beverages"
+    ],
+    "macronutrient_profile": [
+      "High Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/hi-c-orange-lavaburst",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+  },
+  {
+    "_id": "9b6ad9ecd81edb7719bfca627b4a3804",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Iced Tea",
+    "description": "Refreshingly brewed and served over ice, our Iced Tea is a perfect blend of robust tea leaves with a hint of citrus and sweetness, ideal for cooling down on a warm day.",
+    "category": "Beverages",
+    "estimated_price": "3.50",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Mediterranean"
+    ],
+    "macronutrient_profile": [
+      "Low Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "Low Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/iced-tea",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x222/583_s.jpg"
+  },
+  {
+    "_id": "f53155c63b267a6780487fbff3c527e3",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Lemonade",
+    "description": "Refreshingly tart and sweet, our homemade lemonade bursts with zesty lemon flavor, perfectly balanced with just the right amount of sweetness to quench your thirst.",
+    "category": "Beverages",
+    "estimated_price": "4.99",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/lemonade",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x578/167822780088745.png"
+  },
+  {
+    "_id": "1620fd94170dc17cc1c5067c8d1ce788",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Mango Pineapple Smoothie",
+    "description": "Indulge in our Mango Pineapple Smoothie, a tropical blend of ripe mangoes and juicy pineapples, perfectly chilled for a refreshing escape.",
+    "category": "Beverages",
+    "estimated_price": "8.99",
+    "cuisine_types": [
+      "American",
+      "Mexican",
+      "International"
+    ],
+    "macronutrient_profile": [
+      "High Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/mango-pineapple-smoothie",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/4386_s.jpg"
+  },
+  {
+    "_id": "cd51a474d3bfc5f63c63aba74240cb48",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Minute Maid Orange Juice",
+    "description": "Savor the refreshing burst of our Minute Maid Orange Juice, freshly squeezed for a vibrant, tangy flavor that awakens your senses with every sip.",
+    "category": "Beverages",
+    "estimated_price": "3.50",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Mediterranean"
+    ],
+    "macronutrient_profile": [
+      "High Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/minute-maid-orange-juice",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x222/590_s.jpg"
+  },
+  {
+    "_id": "e108ecb669964b910a30a2283b8a66cc",
+    "restaurant_brand_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "name": "Sprite",
+    "description": "Quench your thirst with the crisp, refreshing taste of Sprite, a bubbly citrus delight that invigorates your senses with every sip.",
+    "category": "Beverages",
+    "estimated_price": "2.50",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Beverages"
+    ],
+    "macronutrient_profile": [
+      "High Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ],
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/mcdonalds/sprite",
+    "menu_item_image_url": "https://fastfoodnutrition.org/item-photos/400x228/581_s.jpg"
+  }
+]

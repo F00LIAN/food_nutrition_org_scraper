@@ -1,0 +1,9 @@
+{
+  "_id": "str_32323",
+  "location_id": "str_32323",
+  "variation_id": "str_32323", // points to menu_item_variations
+  "price": { "amount": 13.99, "currency": "USD" },
+  "is_available": true,
+  /*"availability": { "days": ["mon","tue"], "start": "09:00", "end": "14:00" },*/ // optional
+  "updated_at": "datetime"
+}

@@ -1,0 +1,939 @@
+[
+    {
+      "name": "7-Eleven",
+      "restaurant_category": "Convenience Store",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/7-eleven"
+    },
+    {
+      "name": "Applebee's",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/applebees"
+    },
+    {
+      "name": "Arby's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/arbys"
+    },
+    {
+      "name": "Au Bon Pain",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "French-American",
+      "url": "https://fastfoodnutrition.org/au-bon-pain"
+    },
+    {
+      "name": "Auntie Anne's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/auntie-annes"
+    },
+    {
+      "name": "Baja Fresh",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/baja-fresh"
+    },
+    {
+      "name": "Baskin-Robbins",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/baskin-robbins"
+    },
+    {
+      "name": "Bibibop",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Asian",
+      "url": "https://fastfoodnutrition.org/bibibop"
+    },
+    {
+      "name": "BJ's",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/bjs"
+    },
+    {
+      "name": "Blaze Pizza",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/blaze-pizza"
+    },
+    {
+      "name": "Blimpie",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/blimpie"
+    },
+    {
+      "name": "Bob Evans",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/bob-evans"
+    },
+    {
+      "name": "Bojangles",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Southern American",
+      "url": "https://fastfoodnutrition.org/bojangles"
+    },
+    {
+      "name": "Boston Market",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/boston-market"
+    },
+    {
+      "name": "Bruegger's",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/brueggers"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/buffalo-wild-wings"
+    },
+    {
+      "name": "Burger King",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/burger-king"
+    },
+    {
+      "name": "BurgerFi",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/burgerfi"
+    },
+    {
+      "name": "Cafe Rio",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/cafe-rio"
+    },
+    {
+      "name": "California Pizza Kitchen",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/california-pizza-kitchen"
+    },
+    {
+      "name": "Captain D's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/captain-ds"
+    },
+    {
+      "name": "Caribou Coffee",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/caribou-coffee"
+    },
+    {
+      "name": "Carl's Jr",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/carls-jr"
+    },
+    {
+      "name": "Carrabba's",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "Italian",
+      "url": "https://fastfoodnutrition.org/carrabbas"
+    },
+    {
+      "name": "Casey's",
+      "restaurant_category": "Convenience Store",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/caseys"
+    },
+    {
+      "name": "Cava",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mediterranean",
+      "url": "https://fastfoodnutrition.org/cava"
+    },
+    {
+      "name": "Checkers",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/checkers"
+    },
+    {
+      "name": "The Cheesecake Factory",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/cheesecake-factory"
+    },
+    {
+      "name": "Chick-fil-A",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/chick-fil-a"
+    },
+    {
+      "name": "Chicken Express",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/chicken-express"
+    },
+    {
+      "name": "Chicken Salad Chick",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/chicken-salad-chick"
+    },
+    {
+      "name": "Chili's",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "Tex-Mex",
+      "url": "https://fastfoodnutrition.org/chilis"
+    },
+    {
+      "name": "Chipotle",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/chipotle"
+    },
+    {
+      "name": "Church's Chicken",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/churchs-chicken"
+    },
+    {
+      "name": "Chuy's",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "Tex-Mex",
+      "url": "https://fastfoodnutrition.org/chuys"
+    },
+    {
+      "name": "Cinnabon",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/cinnabon"
+    },
+    {
+      "name": "Cold Stone Creamery",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/cold-stone-creamery"
+    },
+    {
+      "name": "Cookout",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/cookout"
+    },
+    {
+      "name": "Corner Bakery",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/corner-bakery"
+    },
+    {
+      "name": "Costa Vida",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/costa-vida"
+    },
+    {
+      "name": "Costco Food Court",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/costco"
+    },
+    {
+      "name": "Cracker Barrel",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "Southern American",
+      "url": "https://fastfoodnutrition.org/cracker-barrel"
+    },
+    {
+      "name": "Culvers",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/culvers"
+    },
+    {
+      "name": "Dairy Queen",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/dairy-queen"
+    },
+    {
+      "name": "Dave's Hot Chicken",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/daves-hot-chicken"
+    },
+    {
+      "name": "Del Taco",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/del-taco"
+    },
+    {
+      "name": "Denny's",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/dennys"
+    },
+    {
+      "name": "Domino's Pizza",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/dominos-pizza"
+    },
+    {
+      "name": "Donatos",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/donatos"
+    },
+    {
+      "name": "Dunkin Donuts",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/dunkin-donuts"
+    },
+    {
+      "name": "El Pollo Loco",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/el-pollo-loco"
+    },
+    {
+      "name": "Famous Dave's",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American BBQ",
+      "url": "https://fastfoodnutrition.org/famous-daves"
+    },
+    {
+      "name": "Fazoli's",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/fazolis"
+    },
+    {
+      "name": "Firehouse Subs",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/firehouse-subs"
+    },
+    {
+      "name": "First Watch",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/first-watch"
+    },
+    {
+      "name": "Five Guys",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/five-guys"
+    },
+    {
+      "name": "Freddy's",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/freddys"
+    },
+    {
+      "name": "Freebirds",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/freebirds"
+    },
+    {
+      "name": "Freshii",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "International",
+      "url": "https://fastfoodnutrition.org/freshii"
+    },
+    {
+      "name": "Fuddruckers",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/fuddruckers"
+    },
+    {
+      "name": "Godfather's Pizza",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/godfathers-pizza"
+    },
+    {
+      "name": "Golden Corral",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/golden-corral"
+    },
+    {
+      "name": "The Habit",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/habit"
+    },
+    {
+      "name": "Hardee's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/hardees"
+    },
+    {
+      "name": "Honeygrow",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Asian",
+      "url": "https://fastfoodnutrition.org/honeygrow"
+    },
+    {
+      "name": "Hooters",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/hooters"
+    },
+    {
+      "name": "Hungry Howie's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/hungry-howies"
+    },
+    {
+      "name": "IHOP",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/ihop"
+    },
+    {
+      "name": "In-N-Out Burger",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/in-n-out-burger"
+    },
+    {
+      "name": "Jack in the Box",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/jack-in-the-box"
+    },
+    {
+      "name": "Jamba Juice",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/jamba-juice"
+    },
+    {
+      "name": "Jason's Deli",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/jasons-deli"
+    },
+    {
+      "name": "Jersey Mike's",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/jersey-mikes"
+    },
+    {
+      "name": "Jet's Pizza",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/jets-pizza"
+    },
+    {
+      "name": "Jimmy Johns",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/jimmy-johns"
+    },
+    {
+      "name": "KFC",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/kfc"
+    },
+    {
+      "name": "Krispy Kreme",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/krispy-kreme"
+    },
+    {
+      "name": "Krystal",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/krystal"
+    },
+    {
+      "name": "Kwik Trip",
+      "restaurant_category": "Convenience Store",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/kwik-trip"
+    },
+    {
+      "name": "La Madeleine",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "French",
+      "url": "https://fastfoodnutrition.org/la-madeleine"
+    },
+    {
+      "name": "Little Caesars",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/little-caesars"
+    },
+    {
+      "name": "Long John Silver's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/long-john-silvers"
+    },
+    {
+      "name": "Longhorn",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/longhorn"
+    },
+    {
+      "name": "Manchu Wok",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Chinese",
+      "url": "https://fastfoodnutrition.org/manchu-wok"
+    },
+    {
+      "name": "Marco's Pizza",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/marcos-pizza"
+    },
+    {
+      "name": "McAlister's",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/mcalisters-deli"
+    },
+    {
+      "name": "McDonald's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/mcdonalds"
+    },
+    {
+      "name": "Mellow Mushroom",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/mellow-mushroom"
+    },
+    {
+      "name": "Mission BBQ",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American BBQ",
+      "url": "https://fastfoodnutrition.org/mission-bbq"
+    },
+    {
+      "name": "Mod Pizza",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/mod-pizza"
+    },
+    {
+      "name": "Moe's",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/moes"
+    },
+    {
+      "name": "Newk's",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/newks-eatery"
+    },
+    {
+      "name": "Noodles & Company",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "International",
+      "url": "https://fastfoodnutrition.org/noodles-company"
+    },
+    {
+      "name": "Nothing Bundt Cakes",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/nothing-bundt-cakes"
+    },
+    {
+      "name": "O'Charley's",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/o-charleys"
+    },
+    {
+      "name": "Olive Garden",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/olive-garden"
+    },
+    {
+      "name": "On The Border",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "Tex-Mex",
+      "url": "https://fastfoodnutrition.org/on-the-border"
+    },
+    {
+      "name": "Outback",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/outback"
+    },
+    {
+      "name": "Panda Express",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Chinese-American",
+      "url": "https://fastfoodnutrition.org/panda-express"
+    },
+    {
+      "name": "Panera",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/panera-bread"
+    },
+    {
+      "name": "Papa John's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/papa-johns"
+    },
+    {
+      "name": "Papa Murphy's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/papa-murphys"
+    },
+    {
+      "name": "PDQ",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/pdq"
+    },
+    {
+      "name": "Pei Wei",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Asian",
+      "url": "https://fastfoodnutrition.org/pei-wei"
+    },
+    {
+      "name": "Penn Station",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/penn-station"
+    },
+    {
+      "name": "Perkin's",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/perkins"
+    },
+    {
+      "name": "P.F. Chang's",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "Asian",
+      "url": "https://fastfoodnutrition.org/pf-changs"
+    },
+    {
+      "name": "Pinkberry",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/pinkberry"
+    },
+    {
+      "name": "Pita Pit",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mediterranean",
+      "url": "https://fastfoodnutrition.org/pita-pit"
+    },
+    {
+      "name": "Pizza Hut",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/pizza-hut"
+    },
+    {
+      "name": "Pizza Ranch",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/pizza-ranch"
+    },
+    {
+      "name": "Pollo Tropical",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Caribbean",
+      "url": "https://fastfoodnutrition.org/pollo-tropical"
+    },
+    {
+      "name": "Popeyes",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Cajun",
+      "url": "https://fastfoodnutrition.org/popeyes"
+    },
+    {
+      "name": "Portillo's",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/portillos"
+    },
+    {
+      "name": "Potbelly",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/potbelly"
+    },
+    {
+      "name": "Qdoba",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/qdoba"
+    },
+    {
+      "name": "Quiznos",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/quiznos"
+    },
+    {
+      "name": "Raising Cane's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/raising-canes"
+    },
+    {
+      "name": "Red Lobster",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/red-lobster"
+    },
+    {
+      "name": "Red Robin",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/red-robin"
+    },
+    {
+      "name": "Rubio's",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/rubios"
+    },
+    {
+      "name": "Ruby Tuesday",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/ruby-tuesday"
+    },
+    {
+      "name": "Saladworks",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/saladworks"
+    },
+    {
+      "name": "Salsarita's",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/salsaritas"
+    },
+    {
+      "name": "Sbarro",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Italian-American",
+      "url": "https://fastfoodnutrition.org/sbarro"
+    },
+    {
+      "name": "Schlotzsky's",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/schlotzskys"
+    },
+    {
+      "name": "Shake Shack",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/shake-shack"
+    },
+    {
+      "name": "Sheetz",
+      "restaurant_category": "Convenience Store",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/sheetz"
+    },
+    {
+      "name": "Smashburger",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/smashburger"
+    },
+    {
+      "name": "Smoothie King",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/smoothie-king"
+    },
+    {
+      "name": "Sonic",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/sonic"
+    },
+    {
+      "name": "Starbucks",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/starbucks"
+    },
+    {
+      "name": "Steak 'n Shake",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/steak-n-shake"
+    },
+    {
+      "name": "Subway",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/subway"
+    },
+    {
+      "name": "Sweetgreen",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/sweetgreen"
+    },
+    {
+      "name": "Taco Bell",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Tex-Mex",
+      "url": "https://fastfoodnutrition.org/taco-bell"
+    },
+    {
+      "name": "Taco Cabana",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Tex-Mex",
+      "url": "https://fastfoodnutrition.org/taco-cabana"
+    },
+    {
+      "name": "Taco John's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Tex-Mex",
+      "url": "https://fastfoodnutrition.org/taco-johns"
+    },
+    {
+      "name": "Taco Time",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Mexican",
+      "url": "https://fastfoodnutrition.org/taco-time"
+    },
+    {
+      "name": "Texas Roadhouse",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/texas-roadhouse"
+    },
+    {
+      "name": "TGI Fridays",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/tgi-fridays"
+    },
+    {
+      "name": "Tijuana Flats",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Tex-Mex",
+      "url": "https://fastfoodnutrition.org/tijuana-flats"
+    },
+    {
+      "name": "Tim Hortons",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "Canadian",
+      "url": "https://fastfoodnutrition.org/tim-hortons"
+    },
+    {
+      "name": "Tropical Smoothie Cafe",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/tropical-smoothie-cafe"
+    },
+    {
+      "name": "WaBa Grill",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Asian",
+      "url": "https://fastfoodnutrition.org/waba-grill"
+    },
+    {
+      "name": "Waffle House",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "Southern American",
+      "url": "https://fastfoodnutrition.org/waffle-house"
+    },
+    {
+      "name": "Wawa",
+      "restaurant_category": "Convenience Store",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/wawa"
+    },
+    {
+      "name": "Wendy's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/wendys"
+    },
+    {
+      "name": "Whataburger",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/whataburger"
+    },
+    {
+      "name": "Which Wich",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/which-wich"
+    },
+    {
+      "name": "White Castle",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/white-castle"
+    },
+    {
+      "name": "Wienerschnitzel",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/wienerschnitzel"
+    },
+    {
+      "name": "Wingstop",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/wingstop"
+    },
+    {
+      "name": "Yard House",
+      "restaurant_category": "Casual Dining",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/yard-house"
+    },
+    {
+      "name": "Zaxby's",
+      "restaurant_category": "Fast Food",
+      "restaurant_cultural_cuisine": "American",
+      "url": "https://fastfoodnutrition.org/zaxbys"
+    },
+    {
+      "name": "Zoes Kitchen",
+      "restaurant_category": "Fast Casual",
+      "restaurant_cultural_cuisine": "Mediterranean",
+      "url": "https://fastfoodnutrition.org/zoes-kitchen"
+    }
+  ]
+  

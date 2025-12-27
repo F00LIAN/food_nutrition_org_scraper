@@ -1,0 +1,1457 @@
+{
+  "Honeygrow": {
+    "url": "https://fastfoodnutrition.org/honeygrow",
+    "restaurant_logo": "https://fastfoodnutrition.org/logos/honeygrow.jpg",
+    "items": [
+      {
+        "name": "Apple Pie Honeybar",
+        "url": "https://fastfoodnutrition.org/honeygrow/apple-pie-honeybar",
+        "category": "Honeybar Desserts",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "319",
+                "total_fat": "5g",
+                "saturated_fat": "3.5g",
+                "trans_fat": "0g",
+                "cholesterol": "15mg",
+                "sodium": "205mg",
+                "total_carbohydrates": "58g",
+                "dietary_fiber": "2g",
+                "sugars": "45g",
+                "added_sugars": null,
+                "protein": "1.5g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "80"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/16893074336248.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "tree nuts",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Apple Pie Honeybar from Honeygrow contains the following ingredients: Apples, roasted apples, streusel crumble, candied pecans, whipped cream, and wildflower honey."
+      },
+      {
+        "name": "Brownie Crumble Honeybar",
+        "url": "https://fastfoodnutrition.org/honeygrow/brownie-crumble-honeybar",
+        "category": "Honeybar Desserts",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "289",
+                "total_fat": "7g",
+                "saturated_fat": "1.5g",
+                "trans_fat": "0g",
+                "cholesterol": "11mg",
+                "sodium": "92mg",
+                "total_carbohydrates": "48g",
+                "dietary_fiber": "2g",
+                "sugars": "46g",
+                "added_sugars": null,
+                "protein": "1g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "64"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168930751966159.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Brownie Crumble Honeybar from Honeygrow contains the following ingredients: Strawberries, grapes, milk chocolate chips, brownie crumbles, whipped cream and clover honey."
+      },
+      {
+        "name": "Cheesecake Honeybar",
+        "url": "https://fastfoodnutrition.org/honeygrow/cheesecake-honeybar",
+        "category": "Honeybar Desserts",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "300",
+                "total_fat": "18g",
+                "saturated_fat": "11g",
+                "trans_fat": "0g",
+                "cholesterol": "55mg",
+                "sodium": "330mg",
+                "total_carbohydrates": "32g",
+                "dietary_fiber": "2g",
+                "sugars": "19g",
+                "added_sugars": null,
+                "protein": "3g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "55"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x304/168930765891660.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Cheesecake Honeybar from Honeygrow contains the following ingredients: Strawberries, blueberries, streusel crumble, and Cheesecake filling."
+      },
+      {
+        "name": "Cobbler Honeybar",
+        "url": "https://fastfoodnutrition.org/honeygrow/cobbler-honeybar",
+        "category": "Honeybar Desserts",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "190",
+                "total_fat": "5g",
+                "saturated_fat": "3g",
+                "trans_fat": "0g",
+                "cholesterol": "16mg",
+                "sodium": "173mg",
+                "total_carbohydrates": "32g",
+                "dietary_fiber": "1g",
+                "sugars": "21g",
+                "added_sugars": null,
+                "protein": "4g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "45"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168930718750842.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Cobbler Honeybar from Honeygrow contains the following ingredients: Vanilla yogurt, apples, roasted apples, streusel crumble, and whipped cream."
+      },
+      {
+        "name": "Fruit + Granola Honeybar",
+        "url": "https://fastfoodnutrition.org/honeygrow/fruit-granola-honeybar",
+        "category": "Honeybar Desserts",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "253",
+                "total_fat": "4.5g",
+                "saturated_fat": "3g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "65mg",
+                "total_carbohydrates": "46g",
+                "dietary_fiber": "5g",
+                "sugars": "45g",
+                "added_sugars": null,
+                "protein": "1g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "41"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168930731279526.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "tree nuts",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "milk",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Fruit + Granola Honeybar from Honeygrow contains the following ingredients: Strawberries, blueberries, apples, grapes, granola, coconut shavings, buckwheat honey."
+      },
+      {
+        "name": "Asian Sesame Ginger Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/asian-sesame-ginger-salad",
+        "category": "Salads",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 salad",
+                "calories": "550",
+                "total_fat": "32g",
+                "saturated_fat": "11.5g",
+                "trans_fat": "0g",
+                "cholesterol": "15mg",
+                "sodium": "988mg",
+                "total_carbohydrates": "46g",
+                "dietary_fiber": "11g",
+                "sugars": "7g",
+                "added_sugars": null,
+                "protein": "30g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "284"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x293/168930627155389.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "sesame",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "shellfish"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Asian Sesame Ginger Salad from Honeygrow contains the following ingredients: Organic arugula, roasted tofu, roasted mushrooms, roasted broccoli, roasted walnuts, whole wheat noodles and topped with parmesan crisps, served with Asian sesame ginger dressing."
+      },
+      {
+        "name": "Classic Shrimp Caesar Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/classic-shrimp-caesar-salad",
+        "category": "Salads",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 salad",
+                "calories": "322",
+                "total_fat": "15g",
+                "saturated_fat": "4.5g",
+                "trans_fat": "0g",
+                "cholesterol": "137mg",
+                "sodium": "1121mg",
+                "total_carbohydrates": "24g",
+                "dietary_fiber": "3g",
+                "sugars": "2g",
+                "added_sugars": null,
+                "protein": "25g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "136"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168930669963159.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "shellfish",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "peanuts",
+            "sesame",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Classic Shrimp Caesar Salad from Honeygrow contains the following ingredients: Chopped romaine, roasted shrimp, seasoned croutons, shaved parmesan, and seasoned breadcrumbs, served with Classic Caesar dressing."
+      },
+      {
+        "name": "Cobb Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/cobb-salad",
+        "category": "Salads",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 salad",
+                "calories": "610",
+                "total_fat": "45g",
+                "saturated_fat": "12g",
+                "trans_fat": "0g",
+                "cholesterol": "247mg",
+                "sodium": "1133mg",
+                "total_carbohydrates": "18g",
+                "dietary_fiber": "9g",
+                "sugars": "9g",
+                "added_sugars": null,
+                "protein": "34g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "392"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/16893061316234.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "milk"
+          ],
+          "does_not_contain": [
+            "fish",
+            "gluten",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Cobb Salad from Honeygrow contains the following ingredients: Chopped romaine, roasted chicken, hard boiled egg, crispy bacon, apples, grape tomatoes, avocado, and crumbled blue cheese, served with white balsamic vinaigrette"
+      },
+      {
+        "name": "Greek Out Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/greek-out-salad",
+        "category": "Salads",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 salad",
+                "calories": "529",
+                "total_fat": "30g",
+                "saturated_fat": "5.5g",
+                "trans_fat": "0g",
+                "cholesterol": "90mg",
+                "sodium": "1730mg",
+                "total_carbohydrates": "32g",
+                "dietary_fiber": "16g",
+                "sugars": "3g",
+                "added_sugars": null,
+                "protein": "32g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "265"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168930642659775.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "milk",
+            "soy"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Greek Out Salad from Honeygrow contains the following ingredients: Chopped romaine, roasted chicken, crunchy chickpeas, feta cheese, grape tomatoes, red onions, Kalamata olives, banana peppers, and Mediterranean herbs, served with Tuscan herb dressing."
+      },
+      {
+        "name": "High Protein Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/high-protein-salad",
+        "category": "Salads",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 salad",
+                "calories": "533",
+                "total_fat": "37g",
+                "saturated_fat": "5.5g",
+                "trans_fat": "0g",
+                "cholesterol": "330mg",
+                "sodium": "923mg",
+                "total_carbohydrates": "12g",
+                "dietary_fiber": "5.5g",
+                "sugars": "4g",
+                "added_sugars": null,
+                "protein": "33g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "336"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168937394928756.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "tree nuts"
+          ],
+          "does_not_contain": [
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A High Protein Salad from Honeygrow contains the following ingredients: Chopped romaine, roasted chicken, double hard-boiled egg, grape tomatoes, red onions, carrots, and roasted walnuts, served with olive oil and balsamic vinegar."
+      },
+      {
+        "name": "Kale Chicken Caesar Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/kale-chicken-caesar-salad",
+        "category": "Salads",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 salad",
+                "calories": "379",
+                "total_fat": "18g",
+                "saturated_fat": "5g",
+                "trans_fat": "0g",
+                "cholesterol": "82mg",
+                "sodium": "1523mg",
+                "total_carbohydrates": "27g",
+                "dietary_fiber": "4g",
+                "sugars": "1.5g",
+                "added_sugars": null,
+                "protein": "29g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "158"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168930656626869.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Kale Chicken Caesar Salad from Honeygrow contains the following ingredients: Curly kale, roasted chicken, grape tomatoes, cucumbers, seasoned croutons, shaved parmesan, fresh lime, and breadcrumbs served with Classic Caesar dressing."
+      },
+      {
+        "name": "Keto Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/keto-salad",
+        "category": "Salads",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 salad",
+                "calories": "431",
+                "total_fat": "29g",
+                "saturated_fat": "9.5g",
+                "trans_fat": "0g",
+                "cholesterol": "115mg",
+                "sodium": "1241mg",
+                "total_carbohydrates": "15g",
+                "dietary_fiber": "8g",
+                "sugars": "1g",
+                "added_sugars": null,
+                "protein": "30g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "247"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168937386534300.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "milk"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Keto Salad from Honeygrow contains the following ingredients: Curly kale, roasted chicken, crispy bacon, grape tomatoes, red onions, shaved parmesan, and avocado, served with fresh lime squeeze."
+      },
+      {
+        "name": "Paleo Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/paleo-salad",
+        "category": "Salads",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 salad",
+                "calories": "557",
+                "total_fat": "41g",
+                "saturated_fat": "4.5g",
+                "trans_fat": "0g",
+                "cholesterol": "60mg",
+                "sodium": "857mg",
+                "total_carbohydrates": "26g",
+                "dietary_fiber": "13g",
+                "sugars": "6g",
+                "added_sugars": null,
+                "protein": "27g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "353"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168937377127523.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "tree nuts"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Paleo Salad from Honeygrow contains the following ingredients: Organic baby spinach, roasted chicken, cucumber, scallions, strawberries, blueberries, avocado, and roasted walnuts, served with olive oil and balsamic vinegar."
+      },
+      {
+        "name": "Whole Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/whole-salad",
+        "category": "Salads",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 salad",
+                "calories": "221",
+                "total_fat": "10g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "115mg",
+                "sodium": "327mg",
+                "total_carbohydrates": "16g",
+                "dietary_fiber": "9g",
+                "sugars": "3.5g",
+                "added_sugars": null,
+                "protein": "17g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "92"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168937326635909.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "shellfish"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "sesame",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Whole Salad from Honeygrow contains the following ingredients: Chopped romaine, roasted shrimp, grape tomatoes, red onions, jalapeños, cilantro, and avocado, topped with a squeeze of lime."
+      },
+      {
+        "name": "Chesapeake Crab Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/chesapeake-crab-stir-fry",
+        "category": "Stir-Fry",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "546",
+                "total_fat": "9g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "59mg",
+                "sodium": "1656mg",
+                "total_carbohydrates": "86g",
+                "dietary_fiber": "4g",
+                "sugars": "2g",
+                "added_sugars": null,
+                "protein": "22g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "87"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x293/168930522391845.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "shellfish",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "sesame",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Chesapeake Crab Stir-Fry from Honeygrow contains the following ingredients: Egg white noodles, crab topped with Old Bay, bell peppers, red onions, grape tomatoes, scallions, parsley, seasoned breadcrumbs, and Old Bay sauce."
+      },
+      {
+        "name": "Garlic Butter Chicken Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/garlic-butter-chicken-stir-fry",
+        "category": "Stir-Fry",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "746",
+                "total_fat": "26g",
+                "saturated_fat": "1.5g",
+                "trans_fat": "0g",
+                "cholesterol": "60mg",
+                "sodium": "1978mg",
+                "total_carbohydrates": "84g",
+                "dietary_fiber": "4g",
+                "sugars": "3g",
+                "added_sugars": null,
+                "protein": "33g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "245"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x293/16893049001083.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "sesame",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Garlic Butter Chicken Stir-Fry from Honeygrow contains the following ingredients: Egg white noodles, roasted chicken, snow peas, scallions, mushrooms, toasted sesame seeds, chili crisps and garlic butter sauce"
+      },
+      {
+        "name": "Garlic Butter Shrimp Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/garlic-butter-shrimp-stir-fry",
+        "category": "Stir-Fry",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "704",
+                "total_fat": "24g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "105mg",
+                "sodium": "1592mg",
+                "total_carbohydrates": "84g",
+                "dietary_fiber": "4g",
+                "sugars": "3g",
+                "added_sugars": null,
+                "protein": "28g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "225"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/16893057343611.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "sesame",
+            "shellfish",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "milk",
+            "peanuts",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Garlic Butter Shrimp Stir-Fry from Honeygrow contains the following ingredients: Egg white noodles, roasted shrimp, snow peas, scallions, mushrooms, toasted sesame seeds, chili crisps, and garlic butter sauce."
+      },
+      {
+        "name": "High Protein Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/high-protein-stir-fry",
+        "category": "Stir-Fry",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "820",
+                "total_fat": "68g",
+                "saturated_fat": "25g",
+                "trans_fat": "0g",
+                "cholesterol": "408mg",
+                "sodium": "665mg",
+                "total_carbohydrates": "20g",
+                "dietary_fiber": "9g",
+                "sugars": "8g",
+                "added_sugars": null,
+                "protein": "33g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "608"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168937367848138.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "sesame",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A High Protein Stir-Fry from Honeygrow contains the following ingredients: Curly kale, double roasted steak, grape tomatoes, scallions, fried onions, fresh lime, avocado, and sesame garlic sauce"
+      },
+      {
+        "name": "Kids Garlic Butter & Parm Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/kids-garlic-butter-parm-stir-fry",
+        "category": "Stir-Fry",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "448",
+                "total_fat": "19g",
+                "saturated_fat": "4.5g",
+                "trans_fat": "0g",
+                "cholesterol": "20mg",
+                "sodium": "1155mg",
+                "total_carbohydrates": "45g",
+                "dietary_fiber": "2g",
+                "sugars": "8g",
+                "added_sugars": null,
+                "protein": "13g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "175"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": ""
+      },
+      {
+        "name": "Paleo Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/paleo-stir-fry",
+        "category": "Stir-Fry",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "271",
+                "total_fat": "11g",
+                "saturated_fat": ".5g",
+                "trans_fat": "0g",
+                "cholesterol": "60mg",
+                "sodium": "1022mg",
+                "total_carbohydrates": "19g",
+                "dietary_fiber": "3g",
+                "sugars": "10g",
+                "added_sugars": null,
+                "protein": "22g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "106"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x268/16893735373308.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Paleo Stir-Fry from Honeygrow contains the following ingredients: Curly kale, roasted chicken, broccoli, bell peppers, red onions, and spicy garlic sauce."
+      },
+      {
+        "name": "Red Coconut Curry Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/red-coconut-curry-stir-fry",
+        "category": "Stir-Fry",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "362",
+                "total_fat": "13g",
+                "saturated_fat": "1g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "390mg",
+                "total_carbohydrates": "51g",
+                "dietary_fiber": "3g",
+                "sugars": "12g",
+                "added_sugars": null,
+                "protein": "13g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "126"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168930501647425.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "soy",
+            "tree nuts"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Red Coconut Curry Stir-Fry from Honeygrow contains the following ingredients: Red coconut curry sauce, rice noodles, roasted tofu, pineapples, jalapeños, carrots, scallions, cilantro."
+      },
+      {
+        "name": "Sesame Garlic Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/sesame-garlic-stir-fry",
+        "category": "Stir-Fry",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "742",
+                "total_fat": "34g",
+                "saturated_fat": "12g",
+                "trans_fat": "0g",
+                "cholesterol": "204mg",
+                "sodium": "717mg",
+                "total_carbohydrates": "84g",
+                "dietary_fiber": "18g",
+                "sugars": "6g",
+                "added_sugars": null,
+                "protein": "31g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "313"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/1689304426643.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "sesame",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": ""
+      },
+      {
+        "name": "Spicy Garlic Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/spicy-garlic-stir-fry",
+        "category": "Stir-Fry",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "669",
+                "total_fat": "12g",
+                "saturated_fat": ".5g",
+                "trans_fat": "0g",
+                "cholesterol": "60mg",
+                "sodium": "1790mg",
+                "total_carbohydrates": "102g",
+                "dietary_fiber": "5g",
+                "sugars": "18g",
+                "added_sugars": null,
+                "protein": "32g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "111"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168930412887431.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "milk",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Spicy Garlic Stir-Fry from Honeygrow contains the following ingredients: Egg white noodles, roasted chicken, bell peppers, broccoli, red onions, pineapples, parsley, and spicy garlic sauce."
+      },
+      {
+        "name": "Sweet Soy Five Spice Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/sweet-soy-five-spice-stir-fry",
+        "category": "Stir-Fry",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "428",
+                "total_fat": "15g",
+                "saturated_fat": "2g",
+                "trans_fat": "0g",
+                "cholesterol": "65mg",
+                "sodium": "1308mg",
+                "total_carbohydrates": "45g",
+                "dietary_fiber": "3g",
+                "sugars": "14g",
+                "added_sugars": null,
+                "protein": "24g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "147"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168930467220257.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "sesame",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Sweet Soy Five Spice Stir-Fry from Honeygrow contains the following ingredients: Sweet soy five spice sauce, brown rice, turkey meatballs, green beans, red onions, sesame seeds."
+      },
+      {
+        "name": "Vegan Sesame Garlic Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/vegan-sesame-garlic-stir-fry",
+        "category": "Stir-Fry",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 bowl",
+                "calories": "524",
+                "total_fat": "14g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "707mg",
+                "total_carbohydrates": "85g",
+                "dietary_fiber": "19g",
+                "sugars": "6g",
+                "added_sugars": null,
+                "protein": "25g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "127"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x267/168930537580948.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "sesame",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Vegan Sesame Garlic Stir-Fry from Honeygrow contains the following ingredients: Whole wheat noodles, roasted tofu, mushrooms, broccoli, scallions, toasted sesame seeds, and our sesame garlic sauce."
+      }
+    ]
+  }
+}

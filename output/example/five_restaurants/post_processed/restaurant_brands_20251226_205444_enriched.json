@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "e8436b101c560fa673302fc623f04ced",
+    "brand_name": "Applebee's",
+    "brand_image_url": "https://fastfoodnutrition.org/logos/applebees.jpg",
+    "source_url": "https://fastfoodnutrition.org/applebees",
+    "restaurant_category": "Casual Dining",
+    "restaurant_cultural_cuisine": "American",
+    "category_source": "lookup",
+    "eatery_full_verification_status": false,
+    "creation_date": "2025-12-27 04:54:44.318149",
+    "last_updated": "2025-12-26T20:54:44.641188"
+  },
+  {
+    "_id": "93046104fbbde0866d21ca7b3dcb3891",
+    "brand_name": "Chick-fil-A",
+    "brand_image_url": "https://fastfoodnutrition.org/logos/chick-fil-a.jpg",
+    "source_url": "https://fastfoodnutrition.org/chick-fil-a",
+    "restaurant_category": "Fast Food",
+    "restaurant_cultural_cuisine": "American",
+    "category_source": "lookup",
+    "eatery_full_verification_status": false,
+    "creation_date": "2025-12-27 04:54:44.323522",
+    "last_updated": "2025-12-26T20:54:44.641188"
+  },
+  {
+    "_id": "203cc29fa01a41488fd6fc29d7e4c293",
+    "brand_name": "Honeygrow",
+    "brand_image_url": "https://fastfoodnutrition.org/logos/honeygrow.jpg",
+    "source_url": "https://fastfoodnutrition.org/honeygrow",
+    "restaurant_category": "Fast Casual",
+    "restaurant_cultural_cuisine": "Asian",
+    "category_source": "lookup",
+    "eatery_full_verification_status": false,
+    "creation_date": "2025-12-27 04:54:44.331965",
+    "last_updated": "2025-12-26T20:54:44.642184"
+  },
+  {
+    "_id": "1081fdaaeceae9d9b76c9d3931d85438",
+    "brand_name": "McDonald's",
+    "brand_image_url": "https://fastfoodnutrition.org/logos/mcdonalds.jpg",
+    "source_url": "https://fastfoodnutrition.org/mcdonalds",
+    "restaurant_category": "Fast Food",
+    "restaurant_cultural_cuisine": "American",
+    "category_source": "lookup",
+    "eatery_full_verification_status": false,
+    "creation_date": "2025-12-27 04:54:44.333966",
+    "last_updated": "2025-12-26T20:54:44.642184"
+  },
+  {
+    "_id": "c655d276e580dfb32653d79df765153c",
+    "brand_name": "Taco Bell",
+    "brand_image_url": "https://fastfoodnutrition.org/logos/taco-bell.jpg",
+    "source_url": "https://fastfoodnutrition.org/taco-bell",
+    "restaurant_category": "Fast Food",
+    "restaurant_cultural_cuisine": "Tex-Mex",
+    "category_source": "lookup",
+    "eatery_full_verification_status": false,
+    "creation_date": "2025-12-27 04:54:44.340350",
+    "last_updated": "2025-12-26T20:54:44.642184"
+  }
+]

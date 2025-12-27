@@ -1,0 +1,2137 @@
+{
+  "Applebee's": {
+    "url": "https://fastfoodnutrition.org/applebees",
+    "restaurant_logo": "https://fastfoodnutrition.org/logos/applebees.jpg",
+    "items": [
+      {
+        "name": "Bleu Cheese Dressing for Wings",
+        "url": "https://fastfoodnutrition.org/applebees/bleu-cheese-dressing-for-wings",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Boneless Wings",
+        "url": "https://fastfoodnutrition.org/applebees/boneless-wings",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Brew Pub Pretzels & Beer Cheese Dip",
+        "url": "https://fastfoodnutrition.org/applebees/brew-pub-pretzels-beer-cheese-dip",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Brisket Quesadilla",
+        "url": "https://fastfoodnutrition.org/applebees/brisket-quesadilla",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Cheeseburger Eggrolls",
+        "url": "https://fastfoodnutrition.org/applebees/cheeseburger-eggrolls",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Cheetos Boneless Wings",
+        "url": "https://fastfoodnutrition.org/applebees/cheetos-boneless-wings",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Cheetos Fried Cheese Bites",
+        "url": "https://fastfoodnutrition.org/applebees/cheetos-fried-cheese-bites",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Chicken Wonton Tacos",
+        "url": "https://fastfoodnutrition.org/applebees/chicken-wonton-tacos",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Chipotle Lime Chicken Quesadillas",
+        "url": "https://fastfoodnutrition.org/applebees/chipotle-lime-chicken-quesadillas",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Chips & Salsa",
+        "url": "https://fastfoodnutrition.org/applebees/chips-salsa",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Classic Combo with Brisket Quesadilla",
+        "url": "https://fastfoodnutrition.org/applebees/classic-combo-with-brisket-quesadilla",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Classic Combo without Sauce or Dressing",
+        "url": "https://fastfoodnutrition.org/applebees/classic-combo-without-sauce-or-dressing",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Crunchy Onion Rings",
+        "url": "https://fastfoodnutrition.org/applebees/crunchy-onion-rings",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Double Crunch Bone-In wings",
+        "url": "https://fastfoodnutrition.org/applebees/double-crunch-bone-in-wings",
+        "category": "Appetizers"
+      },
+      {
+        "name": "French Fries Basket",
+        "url": "https://fastfoodnutrition.org/applebees/french-fries-basket",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Mozzarella Sticks",
+        "url": "https://fastfoodnutrition.org/applebees/mozzarella-sticks",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Neighborhood Nachos with Beef",
+        "url": "https://fastfoodnutrition.org/applebees/neighborhood-nachos",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Neighborhood Nachos with Chipotle Lime Chicken",
+        "url": "https://fastfoodnutrition.org/applebees/neighborhood-nachos-with-chipotle-lime-chicken",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Spinach & Artichoke Dip, with Salsa & Chips",
+        "url": "https://fastfoodnutrition.org/applebees/spinach-artichoke-dip-with-salsa-chips",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Taco Topped Queso & Chips",
+        "url": "https://fastfoodnutrition.org/applebees/taco-topped-queso-chips",
+        "category": "Appetizers"
+      },
+      {
+        "name": "White Queso Dip & Chips",
+        "url": "https://fastfoodnutrition.org/applebees/white-queso-dip-chips",
+        "category": "Appetizers"
+      },
+      {
+        "name": "Brunch Burger",
+        "url": "https://fastfoodnutrition.org/applebees/brunch-burger",
+        "category": "Burgers"
+      },
+      {
+        "name": "Classic Bacon Cheeseburger",
+        "url": "https://fastfoodnutrition.org/applebees/classic-bacon-cheeseburger",
+        "category": "Burgers"
+      },
+      {
+        "name": "Classic Burger",
+        "url": "https://fastfoodnutrition.org/applebees/classic-burger",
+        "category": "Burgers"
+      },
+      {
+        "name": "Classic Cheeseburger",
+        "url": "https://fastfoodnutrition.org/applebees/classic-cheeseburger",
+        "category": "Burgers"
+      },
+      {
+        "name": "Quesadilla Burger",
+        "url": "https://fastfoodnutrition.org/applebees/quesadilla-burger",
+        "category": "Burgers"
+      },
+      {
+        "name": "Triple Bacon Burger",
+        "url": "https://fastfoodnutrition.org/applebees/triple-bacon-burger",
+        "category": "Burgers"
+      },
+      {
+        "name": "Whisky Bacon Burger",
+        "url": "https://fastfoodnutrition.org/applebees/whisky-bacon-burger",
+        "category": "Burgers"
+      },
+      {
+        "name": "Blue Ribbon Brownie, with Vanilla Ice Cream",
+        "url": "https://fastfoodnutrition.org/applebees/blue-ribbon-brownie-with-vanilla-ice-cream",
+        "category": "Desserts"
+      },
+      {
+        "name": "Brownie Bite with Vanilla Ice Cream",
+        "url": "https://fastfoodnutrition.org/applebees/brownie-bite-with-vanilla-ice-cream",
+        "category": "Desserts"
+      },
+      {
+        "name": "Chocolate Chip Cookie Sundae",
+        "url": "https://fastfoodnutrition.org/applebees/chocolate-chip-cookie-sundae",
+        "category": "Desserts"
+      },
+      {
+        "name": "Hot Fudge Sundae Shooter",
+        "url": "https://fastfoodnutrition.org/applebees/hot-fudge-sundae-shooter",
+        "category": "Desserts"
+      },
+      {
+        "name": "Oreo Cookie Shake",
+        "url": "https://fastfoodnutrition.org/applebees/oreo-cookie-shake",
+        "category": "Desserts"
+      },
+      {
+        "name": "Southwestern Apple Fritter with Vanilla Ice Cream",
+        "url": "https://fastfoodnutrition.org/applebees/southwestern-apple-fritter-with-vanilla-ice-cream",
+        "category": "Desserts"
+      },
+      {
+        "name": "Triple Chocolate Meltdown with Vanilla Ice Cream",
+        "url": "https://fastfoodnutrition.org/applebees/triple-chocolate-meltdown-with-vanilla-ice-cream",
+        "category": "Desserts"
+      },
+      {
+        "name": "Broccoli Cheddar Mac 'n Cheese Bowl",
+        "url": "https://fastfoodnutrition.org/applebees/broccoli-cheddar-mac-n-cheese-bowl",
+        "category": "Irresist-A-Bowls"
+      },
+      {
+        "name": "Crispy Orange Chicken Bowl",
+        "url": "https://fastfoodnutrition.org/applebees/crispy-orange-chicken-bowl",
+        "category": "Irresist-A-Bowls"
+      },
+      {
+        "name": "Grilled Chicken & Spinach Alfredo Bowl",
+        "url": "https://fastfoodnutrition.org/applebees/grilled-chicken-spinach-alfredo-bowl",
+        "category": "Irresist-A-Bowls"
+      },
+      {
+        "name": "Southwest Chicken Bowl",
+        "url": "https://fastfoodnutrition.org/applebees/southwest-chicken-bowl",
+        "category": "Irresist-A-Bowls"
+      },
+      {
+        "name": "Southwest Steak Bowl",
+        "url": "https://fastfoodnutrition.org/applebees/southwest-steak-bowl",
+        "category": "Irresist-A-Bowls"
+      },
+      {
+        "name": "Tex-Mex Shrimp Bowl",
+        "url": "https://fastfoodnutrition.org/applebees/tex-mex-shrimp-bowl",
+        "category": "Irresist-A-Bowls"
+      },
+      {
+        "name": "Kid's Apple Juice",
+        "url": "https://fastfoodnutrition.org/applebees/kids-apple-juice",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Applesauce Cup",
+        "url": "https://fastfoodnutrition.org/applebees/kids-applesauce-cup",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Broccoli Trees",
+        "url": "https://fastfoodnutrition.org/applebees/kids-broccoli-trees",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Cheeseburger",
+        "url": "https://fastfoodnutrition.org/applebees/kids-cheeseburger",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Cheesy Pizza",
+        "url": "https://fastfoodnutrition.org/applebees/kids-cheesy-pizza",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Chicken Alfredo",
+        "url": "https://fastfoodnutrition.org/applebees/kids-chicken-alfredo",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Chicken Quesadilla",
+        "url": "https://fastfoodnutrition.org/applebees/kids-chicken-quesadilla",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Chicken Taco",
+        "url": "https://fastfoodnutrition.org/applebees/kids-chicken-taco",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Chicken Tenders",
+        "url": "https://fastfoodnutrition.org/applebees/kids-chicken-tenders",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Chocolate Milk",
+        "url": "https://fastfoodnutrition.org/applebees/kids-chocolate-milk",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Chocolate Shake",
+        "url": "https://fastfoodnutrition.org/applebees/kids-chocolate-shake",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Corn Dog",
+        "url": "https://fastfoodnutrition.org/applebees/kids-corn-dog",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Crispy Shrimp",
+        "url": "https://fastfoodnutrition.org/applebees/kids-crispy-shrimp",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's French Fries",
+        "url": "https://fastfoodnutrition.org/applebees/kids-french-fries",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Garlic Mashed Potatoes",
+        "url": "https://fastfoodnutrition.org/applebees/kids-garlic-mashed-potatoes",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Grape Juice",
+        "url": "https://fastfoodnutrition.org/applebees/kids-grape-juice",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Hot Fudge Sundae",
+        "url": "https://fastfoodnutrition.org/applebees/kids-hot-fudge-sundae",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Lemonade",
+        "url": "https://fastfoodnutrition.org/applebees/kids-lemonade",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Macaroni & Cheese",
+        "url": "https://fastfoodnutrition.org/applebees/kids-macaroni-cheese",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Mozzarella Sticks",
+        "url": "https://fastfoodnutrition.org/applebees/kids-mozzarella-sticks",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Orange Tangerine Juice",
+        "url": "https://fastfoodnutrition.org/applebees/kids-orange-tangerine-juice",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Oreo Cookie Shake",
+        "url": "https://fastfoodnutrition.org/applebees/kids-oreo-cookie-shake",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Oreo Sundae",
+        "url": "https://fastfoodnutrition.org/applebees/kids-oreo-sundae",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Strawberry Shake",
+        "url": "https://fastfoodnutrition.org/applebees/kids-strawberry-shake",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Strawberry Sundae",
+        "url": "https://fastfoodnutrition.org/applebees/kids-strawberry-sundae",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Vanilla Shake",
+        "url": "https://fastfoodnutrition.org/applebees/kids-vanilla-shake",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kid's Vanilla Yogurt with Strawberries",
+        "url": "https://fastfoodnutrition.org/applebees/kids-vanilla-yogurt-with-strawberries",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Kidf's 1% Milk",
+        "url": "https://fastfoodnutrition.org/applebees/kidfs-1-milk",
+        "category": "Kids Menu"
+      },
+      {
+        "name": "Blackened Tilapia",
+        "url": "https://fastfoodnutrition.org/applebees/blackened-tilapia",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Bourbon Street Chicken & Shrimp",
+        "url": "https://fastfoodnutrition.org/applebees/bourbon-street-chicken-shrimp",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Cedar Grilled Lemon Chicken",
+        "url": "https://fastfoodnutrition.org/applebees/cedar-grilled-lemon-chicken",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Chicken Fried Chicken",
+        "url": "https://fastfoodnutrition.org/applebees/chicken-fried-chicken",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Chicken Tenders Plate",
+        "url": "https://fastfoodnutrition.org/applebees/chicken-tenders-plate",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Chicken Tenders Platter",
+        "url": "https://fastfoodnutrition.org/applebees/chicken-tenders-platter",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Chicken Wonton Stir Fry",
+        "url": "https://fastfoodnutrition.org/applebees/chicken-wonton-stir-fry",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Classic Three Cheese Chicken Penne",
+        "url": "https://fastfoodnutrition.org/applebees/classic-three-cheese-chicken-penne",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Double-Glazed Baby Back Ribs",
+        "url": "https://fastfoodnutrition.org/applebees/double-glazed-baby-back-ribs",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Fiesta Lime Chicken",
+        "url": "https://fastfoodnutrition.org/applebees/fiesta-lime-chicken",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Grilled Chicken Breast",
+        "url": "https://fastfoodnutrition.org/applebees/grilled-chicken-breast",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Shrimp 'N Parmesan Sirloin Steak",
+        "url": "https://fastfoodnutrition.org/applebees/shrimp-n-parmesan-sirloin-steak",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Shrimp Wonton Stir Fry",
+        "url": "https://fastfoodnutrition.org/applebees/shrimp-wonton-stir-fry",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Signature Southwest Chicken Salad, with Oriental Dressing",
+        "url": "https://fastfoodnutrition.org/applebees/signature-southwest-chicken-salad-with-oriental-dressing",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "Sirloin Steak",
+        "url": "https://fastfoodnutrition.org/applebees/sirloin-steak",
+        "category": "Main Dishes"
+      },
+      {
+        "name": "American Cheese",
+        "url": "https://fastfoodnutrition.org/applebees/american-cheese",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Bacon",
+        "url": "https://fastfoodnutrition.org/applebees/bacon",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Beef Patty",
+        "url": "https://fastfoodnutrition.org/applebees/beef-patty",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Black Bean Patty",
+        "url": "https://fastfoodnutrition.org/applebees/black-bean-patty",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Breadstick",
+        "url": "https://fastfoodnutrition.org/applebees/breadstick",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Cheddar Cheese",
+        "url": "https://fastfoodnutrition.org/applebees/cheddar-cheese",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Fried Egg",
+        "url": "https://fastfoodnutrition.org/applebees/fried-egg",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Fried Shrimp",
+        "url": "https://fastfoodnutrition.org/applebees/fried-shrimp",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Grilled Shrimp",
+        "url": "https://fastfoodnutrition.org/applebees/grilled-shrimp",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Grilled Shrimp Skewer",
+        "url": "https://fastfoodnutrition.org/applebees/grilled-shrimp-skewer",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Pepper Jack Cheese",
+        "url": "https://fastfoodnutrition.org/applebees/pepper-jack-cheese",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Swiss Cheese",
+        "url": "https://fastfoodnutrition.org/applebees/swiss-cheese",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Turkey Patty",
+        "url": "https://fastfoodnutrition.org/applebees/turkey-patty",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Veggie Patty",
+        "url": "https://fastfoodnutrition.org/applebees/veggie-patty",
+        "category": "Meal Components"
+      },
+      {
+        "name": "Blackened Shrimp Alfredo Pasta",
+        "url": "https://fastfoodnutrition.org/applebees/blackened-shrimp-alfredo-pasta",
+        "category": "Pastas"
+      },
+      {
+        "name": "Classic Broccoli Chicken Alfredo Pasta",
+        "url": "https://fastfoodnutrition.org/applebees/classic-broccoli-chicken-alfredo-pasta",
+        "category": "Pastas"
+      }
+    ]
+  },
+  "Chick-fil-A": {
+    "url": "https://fastfoodnutrition.org/chick-fil-a",
+    "restaurant_logo": "https://fastfoodnutrition.org/logos/chick-fil-a.jpg",
+    "items": [
+      {
+        "name": "Chick-n-Strips",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chick-n-strips",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Chicken Deluxe Sandwich",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chicken-deluxe",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Chicken Nuggets",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chicken-nuggets",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Chicken Sandwich",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chicken-sandwich",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Grilled Chicken Club Sandwich",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chargrilled-chicken-club-sandwich",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Grilled Chicken Nuggets",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/grilled-chicken-nuggets",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Grilled Chicken Sandwich",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chargrilled-chicken-sandwich",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Grilled Chicken Sub Sandwich",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/grilled-chicken-sub-sandwich",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Honey Pepper Pimento Chicken Sandwich",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/honey-pepper-pimento-chicken-sandwich",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Pretzel Cheddar Club Sandwich",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/pretzel-cheddar-club-sandwich",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Smokehouse BBQ Bacon Sandwich",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/smokehouse-bbq-bacon-sandwich",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Spicy Chicken Sandwich",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/spicy-chicken-sandwich",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Spicy Deluxe",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/spicy-deluxe",
+        "category": "Classic Chicken"
+      },
+      {
+        "name": "Apple Juice Box",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/minute-maid-apple-juice-box",
+        "category": "Beverages"
+      },
+      {
+        "name": "Coca-Cola",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/coca-cola-classic-small",
+        "category": "Beverages"
+      },
+      {
+        "name": "Coffee",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/coffee",
+        "category": "Beverages"
+      },
+      {
+        "name": "Dasani Bottled Water",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/dasani-bottled-water",
+        "category": "Beverages"
+      },
+      {
+        "name": "Diet Coke",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/diet-coke",
+        "category": "Beverages"
+      },
+      {
+        "name": "Diet Lemonade",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/diet-lemonade-small",
+        "category": "Beverages"
+      },
+      {
+        "name": "Dr Pepper",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/dr-pepper",
+        "category": "Beverages"
+      },
+      {
+        "name": "Iced Coffee",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/iced-coffee",
+        "category": "Beverages"
+      },
+      {
+        "name": "Key Lime Lemonade",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/key-lime-lemonade",
+        "category": "Beverages"
+      },
+      {
+        "name": "Lemonade",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/lemonade-small",
+        "category": "Beverages"
+      },
+      {
+        "name": "Mango Passion Tea Lemonade",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/mango-passion-tea-lemonade",
+        "category": "Beverages"
+      },
+      {
+        "name": "Mocha Cream Cold Brew",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/mocha-cream-cold-brew",
+        "category": "Beverages"
+      },
+      {
+        "name": "Simply Orange Juice",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/simply-orange-juice",
+        "category": "Beverages"
+      },
+      {
+        "name": "Sprite",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/sprite",
+        "category": "Beverages"
+      },
+      {
+        "name": "Sweet Tea",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/sweet-tea-small",
+        "category": "Beverages"
+      },
+      {
+        "name": "Unsweetened Iced Tea",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/unsweetened-iced-tea",
+        "category": "Beverages"
+      },
+      {
+        "name": "Vanilla Iced Coffee",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/vanilla-iced-coffee",
+        "category": "Beverages"
+      },
+      {
+        "name": "Watermelon Mint Lemonade",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/watermelon-mint-lemonade",
+        "category": "Beverages"
+      },
+      {
+        "name": "Watermelon Mint Sweet Tea",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/watermelon-mint-tea",
+        "category": "Beverages"
+      },
+      {
+        "name": "Bacon, Egg & Cheese Biscuit",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/bacon-egg-cheese-biscuit",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Chick-n-Minis",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chick-n-minis",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Chicken Biscuit",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chicken-biscuit",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Chicken, Egg & Cheese Biscuit",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chicken-egg-cheese-biscuit",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Chicken, Egg, & Cheese Muffin",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chicken-egg-cheese-muffin",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Egg & Cheese English Muffin",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/egg-cheese-english-muffin",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Egg White Grill",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/egg-white-grill",
+        "category": "Breakfast"
+      },
+      {
+        "name": "English Muffin",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/english-muffin",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Hash Brown Scramble Bowl",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/hash-brown-scramble-bowl",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Hash Brown Scramble Burrito",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/hash-brown-scramble-burrito",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Hash Browns",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/hash-browns",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Hot Buttered Biscuit",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/hot-buttered-biscuit",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Sausage Egg and Cheese Biscuit",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/sausage-egg-and-cheese-biscuit",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Spicy Chicken Biscuit",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/spicy-chicken-biscuit",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Yogurt Parfait w/ Cookie Cumbs",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/yogurt-parfait-w-cookie-cumbs",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Yogurt Parfait with Harvest Nut Granola",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/yogurt-parfait-with-harvest-nut-granola",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Grilled Chicken Cool Wrap",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chargrilled-chicken-cool-wrap",
+        "category": "Cool Wraps"
+      },
+      {
+        "name": "Banana Pudding Milkshake",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/banana-pudding-milkshake",
+        "category": "Desserts"
+      },
+      {
+        "name": "Caramel Crumble Milkshake",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/caramel-crumble-milkshake",
+        "category": "Desserts"
+      },
+      {
+        "name": "Chocolate Chunk Cookie",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chocolate-chunk-cookie",
+        "category": "Desserts"
+      },
+      {
+        "name": "Chocolate Fudge Brownie",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chocolate-fudge-brownie",
+        "category": "Desserts"
+      },
+      {
+        "name": "Chocolate Milkshake",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chocolate-milkshake",
+        "category": "Desserts"
+      },
+      {
+        "name": "Cookies & Cream Milkshake",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/cookies-cream-milkshake",
+        "category": "Desserts"
+      },
+      {
+        "name": "Frosted Coffee",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/frosted-coffee",
+        "category": "Desserts"
+      },
+      {
+        "name": "Frosted Lemonade",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/frosted-lemonade",
+        "category": "Desserts"
+      },
+      {
+        "name": "Icedream Ice Cream",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/icedream-ice-cream",
+        "category": "Desserts"
+      },
+      {
+        "name": "Peppermint Chip Milkshake",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/peppermint-chocolate-chip-milkshake",
+        "category": "Desserts"
+      },
+      {
+        "name": "Strawberry Milkshake",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/strawberry-milkshake",
+        "category": "Desserts"
+      },
+      {
+        "name": "Vanilla Milkshake",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/vanilla-milkshake",
+        "category": "Desserts"
+      },
+      {
+        "name": "Buddy Fruits Cinnamon Apple Sauce",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/buddy-fruits-cinnamon-apple-sauce",
+        "category": "Kid's Meal"
+      },
+      {
+        "name": "Chick-n-Strips Kid's Meal",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chick-n-strips-kids-meal",
+        "category": "Kid's Meal"
+      },
+      {
+        "name": "Chocolate Milk",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chocolate-milk",
+        "category": "Kid's Meal"
+      },
+      {
+        "name": "Grilled Nuggets Kid's Meal",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/grilled-nuggets-kids-meal-4",
+        "category": "Kid's Meal"
+      },
+      {
+        "name": "Kids Fruit Cup",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/kids-fruit-cup",
+        "category": "Kid's Meal"
+      },
+      {
+        "name": "Kids Waffle Potato Fries",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/kids-waffle-potato-fries",
+        "category": "Kid's Meal"
+      },
+      {
+        "name": "Milk",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/milk",
+        "category": "Kid's Meal"
+      },
+      {
+        "name": "Nuggets Kid's Meal",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/nuggets-kids-meal",
+        "category": "Kid's Meal"
+      },
+      {
+        "name": "Avocado Lime Ranch Dressing",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/avocado-lime-ranch-dressing",
+        "category": "Salad Dressings"
+      },
+      {
+        "name": "Creamy Salsa Dressing",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/creamy-salsa-dressing",
+        "category": "Salad Dressings"
+      },
+      {
+        "name": "Garden Herb Ranch Dressing",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/garden-herb-ranch-dressing",
+        "category": "Salad Dressings"
+      },
+      {
+        "name": "Honey Mustard Dressing",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/honey-mustard-dressing",
+        "category": "Salad Dressings"
+      },
+      {
+        "name": "Light Balsamic Vinaigrette",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/light-balsamic-vinaigrette",
+        "category": "Salad Dressings"
+      },
+      {
+        "name": "Light Italian Dressing",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/light-italian-dressing",
+        "category": "Salad Dressings"
+      },
+      {
+        "name": "Zesty Apple Cider Vinaigrette",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/zesty-apple-cider-vinaigrette",
+        "category": "Salad Dressings"
+      },
+      {
+        "name": "Cobb Salad",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/cobb-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "Market Salad",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/grilled-market-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "Spicy Southwest Salad",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/spicy-southwest-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "Barbecue Sauce",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/barbecue-sauce",
+        "category": "Sauces"
+      },
+      {
+        "name": "Chick-fil-A Sauce",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chick-fil-a-sauce",
+        "category": "Sauces"
+      },
+      {
+        "name": "Garden Herb Ranch Sauce",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/garlic-herb-ranch-sauce",
+        "category": "Sauces"
+      },
+      {
+        "name": "Honey Mustard Sauce",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/honey-mustard-sauce",
+        "category": "Sauces"
+      },
+      {
+        "name": "Honey Roasted BBQ Sauce",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/honey-roasted-bbq-sauce",
+        "category": "Sauces"
+      },
+      {
+        "name": "Polynesian Sauce",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/polynesian-sauce",
+        "category": "Sauces"
+      },
+      {
+        "name": "Sriracha Sauce",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/sriracha-sauce",
+        "category": "Sauces"
+      },
+      {
+        "name": "Zesty Buffalo Sauce",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/zesty-buffalo-sauce",
+        "category": "Sauces"
+      },
+      {
+        "name": "Chick-fil-A Sauce Flavored Waffle Chips",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chick-fil-a-sauce-flavored-waffle-chips",
+        "category": "Sides"
+      },
+      {
+        "name": "Chicken Noodle Soup",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/hearty-breast-of-chicken-soup",
+        "category": "Sides"
+      },
+      {
+        "name": "Chicken Tortilla Soup",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/chicken-tortilla-soup",
+        "category": "Sides"
+      },
+      {
+        "name": "Fruit Cup",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/fruit-cup",
+        "category": "Sides"
+      },
+      {
+        "name": "Kale Crunch Side",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/kale-crunch-side",
+        "category": "Sides"
+      },
+      {
+        "name": "Mac & Cheese",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/mac-cheese",
+        "category": "Sides"
+      },
+      {
+        "name": "Side Salad",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/side-salad",
+        "category": "Sides"
+      },
+      {
+        "name": "Waffle Fries",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/waffle-fries-small",
+        "category": "Sides"
+      },
+      {
+        "name": "Waffle Potato Chips",
+        "url": "https://fastfoodnutrition.org/chick-fil-a/waffle-potato-chips",
+        "category": "Sides"
+      }
+    ]
+  },
+  "Honeygrow": {
+    "url": "https://fastfoodnutrition.org/honeygrow",
+    "restaurant_logo": "https://fastfoodnutrition.org/logos/honeygrow.jpg",
+    "items": [
+      {
+        "name": "Apple Pie Honeybar",
+        "url": "https://fastfoodnutrition.org/honeygrow/apple-pie-honeybar",
+        "category": "Honeybar Desserts"
+      },
+      {
+        "name": "Brownie Crumble Honeybar",
+        "url": "https://fastfoodnutrition.org/honeygrow/brownie-crumble-honeybar",
+        "category": "Honeybar Desserts"
+      },
+      {
+        "name": "Cheesecake Honeybar",
+        "url": "https://fastfoodnutrition.org/honeygrow/cheesecake-honeybar",
+        "category": "Honeybar Desserts"
+      },
+      {
+        "name": "Cobbler Honeybar",
+        "url": "https://fastfoodnutrition.org/honeygrow/cobbler-honeybar",
+        "category": "Honeybar Desserts"
+      },
+      {
+        "name": "Fruit + Granola Honeybar",
+        "url": "https://fastfoodnutrition.org/honeygrow/fruit-granola-honeybar",
+        "category": "Honeybar Desserts"
+      },
+      {
+        "name": "Asian Sesame Ginger Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/asian-sesame-ginger-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "Classic Shrimp Caesar Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/classic-shrimp-caesar-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "Cobb Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/cobb-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "Greek Out Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/greek-out-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "High Protein Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/high-protein-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "Kale Chicken Caesar Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/kale-chicken-caesar-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "Keto Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/keto-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "Paleo Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/paleo-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "Whole Salad",
+        "url": "https://fastfoodnutrition.org/honeygrow/whole-salad",
+        "category": "Salads"
+      },
+      {
+        "name": "Chesapeake Crab Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/chesapeake-crab-stir-fry",
+        "category": "Stir-Fry"
+      },
+      {
+        "name": "Garlic Butter Chicken Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/garlic-butter-chicken-stir-fry",
+        "category": "Stir-Fry"
+      },
+      {
+        "name": "Garlic Butter Shrimp Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/garlic-butter-shrimp-stir-fry",
+        "category": "Stir-Fry"
+      },
+      {
+        "name": "High Protein Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/high-protein-stir-fry",
+        "category": "Stir-Fry"
+      },
+      {
+        "name": "Kids Garlic Butter & Parm Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/kids-garlic-butter-parm-stir-fry",
+        "category": "Stir-Fry"
+      },
+      {
+        "name": "Paleo Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/paleo-stir-fry",
+        "category": "Stir-Fry"
+      },
+      {
+        "name": "Red Coconut Curry Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/red-coconut-curry-stir-fry",
+        "category": "Stir-Fry"
+      },
+      {
+        "name": "Sesame Garlic Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/sesame-garlic-stir-fry",
+        "category": "Stir-Fry"
+      },
+      {
+        "name": "Spicy Garlic Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/spicy-garlic-stir-fry",
+        "category": "Stir-Fry"
+      },
+      {
+        "name": "Sweet Soy Five Spice Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/sweet-soy-five-spice-stir-fry",
+        "category": "Stir-Fry"
+      },
+      {
+        "name": "Vegan Sesame Garlic Stir-Fry",
+        "url": "https://fastfoodnutrition.org/honeygrow/vegan-sesame-garlic-stir-fry",
+        "category": "Stir-Fry"
+      }
+    ]
+  },
+  "McDonald's": {
+    "url": "https://fastfoodnutrition.org/mcdonalds",
+    "restaurant_logo": "https://fastfoodnutrition.org/logos/mcdonalds.jpg",
+    "items": [
+      {
+        "name": "Bacon Buffalo Ranch Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-buffalo-ranch-deluxe-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon Buffalo Ranch McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-buffalo-ranch-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon McDouble",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-mcdouble",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon Ranch Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-ranch-deluxe-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon Ranch McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-ranch-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon Special Edition Gold Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-special-edition-gold-deluxe-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon Special Edition Gold McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-special-edition-gold-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Big Mac",
+        "url": "https://fastfoodnutrition.org/mcdonalds/big-mac",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Big Mac Bacon",
+        "url": "https://fastfoodnutrition.org/mcdonalds/big-mac-bacon",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Cardi B & Offset Meal",
+        "url": "https://fastfoodnutrition.org/mcdonalds/cardi-b-offset-meal",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Cheeseburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/cheeseburger",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Cheesy Jalapeno Bacon Quarter Pounder",
+        "url": "https://fastfoodnutrition.org/mcdonalds/cheesy-jalapeno-bacon-quarter-pounder",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Chicken Big Mac",
+        "url": "https://fastfoodnutrition.org/mcdonalds/chicken-big-mac",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Daily Double",
+        "url": "https://fastfoodnutrition.org/mcdonalds/daily-double",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/deluxe-crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Double Cheeseburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-cheeseburger",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Double Filet-O-Fish",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-filet-o-fish",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Double Hamburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-hamburger",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Double Quarter Pounder with Cheese",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-quarter-pounder-with-cheese",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Double Quarter Pounder with Cheese Deluxe",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-quarter-pounder-with-cheese-deluxe",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Filet-O-Fish®",
+        "url": "https://fastfoodnutrition.org/mcdonalds/filet-o-fish",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Hamburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hamburger",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Hot 'n Spicy McChicken",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hot-n-spicy-mcchicken",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "McChicken",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mcchicken",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "McCrispy Chicken Sandwich",
+        "url": "https://fastfoodnutrition.org/mcdonalds/crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "McDouble",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mcdouble",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "McRib",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mcrib",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Minecraft Movie Meal",
+        "url": "https://fastfoodnutrition.org/mcdonalds/minecraft-movie-meal",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Quarter Pounder Bacon",
+        "url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-bacon",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Quarter Pounder Deluxe",
+        "url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-deluxe",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Quarter Pounder® with Cheese",
+        "url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-with-cheese",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Smoky BLT Quarter Pounder with Cheese",
+        "url": "https://fastfoodnutrition.org/mcdonalds/smoky-blt-quarter-pounder-with-cheese",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Spicy Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/spicy-deluxe-crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Spicy McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/spicy-crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Triple Cheeseburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/triple-cheeseburger",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "1% Low Fat Milk Jug",
+        "url": "https://fastfoodnutrition.org/mcdonalds/1-low-fat-milk-jug",
+        "category": "Beverages"
+      },
+      {
+        "name": "Apple Juice Box",
+        "url": "https://fastfoodnutrition.org/mcdonalds/minute-maid-apple-juice-box",
+        "category": "Beverages"
+      },
+      {
+        "name": "Coca-Cola Classic",
+        "url": "https://fastfoodnutrition.org/mcdonalds/coca-cola-classic",
+        "category": "Beverages"
+      },
+      {
+        "name": "Dasani© Water",
+        "url": "https://fastfoodnutrition.org/mcdonalds/dasanicopy-water",
+        "category": "Beverages"
+      },
+      {
+        "name": "Diet Coke",
+        "url": "https://fastfoodnutrition.org/mcdonalds/diet-coke",
+        "category": "Beverages"
+      },
+      {
+        "name": "Diet Dr Pepper",
+        "url": "https://fastfoodnutrition.org/mcdonalds/diet-dr-pepper",
+        "category": "Beverages"
+      },
+      {
+        "name": "Dr Pepper",
+        "url": "https://fastfoodnutrition.org/mcdonalds/dr-pepper",
+        "category": "Beverages"
+      },
+      {
+        "name": "Fanta Orange",
+        "url": "https://fastfoodnutrition.org/mcdonalds/fanta-orange",
+        "category": "Beverages"
+      },
+      {
+        "name": "Fat Free Chocolate Milk Jug",
+        "url": "https://fastfoodnutrition.org/mcdonalds/fat-free-chocolate-milk-jug",
+        "category": "Beverages"
+      },
+      {
+        "name": "Hi-C Orange Lavaburst",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hi-c-orange-lavaburst",
+        "category": "Beverages"
+      },
+      {
+        "name": "Iced Tea",
+        "url": "https://fastfoodnutrition.org/mcdonalds/iced-tea",
+        "category": "Beverages"
+      },
+      {
+        "name": "Lemonade",
+        "url": "https://fastfoodnutrition.org/mcdonalds/lemonade",
+        "category": "Beverages"
+      },
+      {
+        "name": "Mango Pineapple Smoothie",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mango-pineapple-smoothie",
+        "category": "Beverages"
+      },
+      {
+        "name": "Minute Maid Orange Juice",
+        "url": "https://fastfoodnutrition.org/mcdonalds/minute-maid-orange-juice",
+        "category": "Beverages"
+      },
+      {
+        "name": "Sprite",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sprite",
+        "category": "Beverages"
+      },
+      {
+        "name": "Strawberry Banana Smoothie",
+        "url": "https://fastfoodnutrition.org/mcdonalds/strawberry-banana-smoothie",
+        "category": "Beverages"
+      },
+      {
+        "name": "Sweet Tea",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sweet-tea",
+        "category": "Beverages"
+      },
+      {
+        "name": "Apple Fritter",
+        "url": "https://fastfoodnutrition.org/mcdonalds/apple-fritter",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Bacon, Egg & Cheese Bagel",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-egg-cheese-bagel",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Bacon, Egg & Cheese Biscuit",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-egg-cheese-biscuit",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Bacon, Egg & Cheese McGriddles",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-egg-cheese-mcgriddles",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Big Breakfast with Hotcakes",
+        "url": "https://fastfoodnutrition.org/mcdonalds/big-breakfast-with-hotcakes",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Big Breakfast®",
+        "url": "https://fastfoodnutrition.org/mcdonalds/big-breakfast",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Blueberry Muffin",
+        "url": "https://fastfoodnutrition.org/mcdonalds/blueberry-muffin",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Cinnamon Roll",
+        "url": "https://fastfoodnutrition.org/mcdonalds/cinnamon-roll",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Egg McMuffin",
+        "url": "https://fastfoodnutrition.org/mcdonalds/egg-mcmuffin",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Fruit & Maple Oatmeal",
+        "url": "https://fastfoodnutrition.org/mcdonalds/fruit-maple-oatmeal",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Hash Brown",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hash-brown",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Hotcakes",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hotcakes",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Hotcakes and Sausage",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hotcakes-and-sausage",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Sausage Biscuit",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sausage-biscuit",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Sausage Biscuit with Egg",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sausage-biscuit-with-egg",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Sausage Burrito",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sausage-burrito",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Sausage McGriddles®",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sausage-mcgriddles",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Sausage McMuffin®",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sausage-mcmuffin",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Sausage McMuffin® with Egg",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sausage-mcmuffin-with-egg",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Sausage, Egg & Cheese McGriddles",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sausage-egg-cheese-mcgriddles",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Chicken McNuggets",
+        "url": "https://fastfoodnutrition.org/mcdonalds/chicken-mcnuggets",
+        "category": "Chicken Nuggets and Strips"
+      },
+      {
+        "name": "McCrispy Strips",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mccrispy-strips",
+        "category": "Chicken Nuggets and Strips"
+      },
+      {
+        "name": "Big Mac Sauce",
+        "url": "https://fastfoodnutrition.org/mcdonalds/big-mac-sauce",
+        "category": "Condiments"
+      },
+      {
+        "name": "Chipotle Barbeque Sauce",
+        "url": "https://fastfoodnutrition.org/mcdonalds/chipotle-barbeque-sauce",
+        "category": "Condiments"
+      },
+      {
+        "name": "Coffee Cream",
+        "url": "https://fastfoodnutrition.org/mcdonalds/coffee-cream",
+        "category": "Condiments"
+      },
+      {
+        "name": "Creamy Ranch Sauce",
+        "url": "https://fastfoodnutrition.org/mcdonalds/creamy-ranch-sauce",
+        "category": "Condiments"
+      },
+      {
+        "name": "EQUAL® 0 Calorie Sweetener",
+        "url": "https://fastfoodnutrition.org/mcdonalds/equal-0-calorie-sweetener",
+        "category": "Condiments"
+      },
+      {
+        "name": "Grape Jam",
+        "url": "https://fastfoodnutrition.org/mcdonalds/grape-jam",
+        "category": "Condiments"
+      },
+      {
+        "name": "Honey",
+        "url": "https://fastfoodnutrition.org/mcdonalds/honey",
+        "category": "Condiments"
+      },
+      {
+        "name": "Honey Mustard Sauce",
+        "url": "https://fastfoodnutrition.org/mcdonalds/honey-mustard-sauce",
+        "category": "Condiments"
+      },
+      {
+        "name": "Hot Habanero Sauce",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hot-habanero-sauce",
+        "category": "Condiments"
+      },
+      {
+        "name": "Hotcake Syrup",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hotcake-syrup",
+        "category": "Condiments"
+      },
+      {
+        "name": "Ketchup Packet",
+        "url": "https://fastfoodnutrition.org/mcdonalds/ketchup-packet",
+        "category": "Condiments"
+      },
+      {
+        "name": "Mambo Sauce",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mambo-sauce",
+        "category": "Condiments"
+      },
+      {
+        "name": "Marinara Sauce",
+        "url": "https://fastfoodnutrition.org/mcdonalds/marinara-sauce",
+        "category": "Condiments"
+      },
+      {
+        "name": "Nether Flame Sauce",
+        "url": "https://fastfoodnutrition.org/mcdonalds/nether-flame-sauce",
+        "category": "Condiments"
+      },
+      {
+        "name": "Newman's Own® Creamy Southwest Dressing",
+        "url": "https://fastfoodnutrition.org/mcdonalds/newmans-own-creamy-southwest-dressing",
+        "category": "Condiments"
+      },
+      {
+        "name": "Newman's Own® Low Fat Balsamic Vinaigrette",
+        "url": "https://fastfoodnutrition.org/mcdonalds/newmans-own-low-fat-balsamic-vinaigrette",
+        "category": "Condiments"
+      },
+      {
+        "name": "Newman's Own® Low Fat Italian Dressing",
+        "url": "https://fastfoodnutrition.org/mcdonalds/newmans-own-low-fat-italian-dressing",
+        "category": "Condiments"
+      },
+      {
+        "name": "Newman's Own® Low Fat Sesame Ginger Dressing",
+        "url": "https://fastfoodnutrition.org/mcdonalds/newmans-own-low-fat-sesame-ginger-dressing",
+        "category": "Condiments"
+      },
+      {
+        "name": "Newman's Own® Ranch Dressing",
+        "url": "https://fastfoodnutrition.org/mcdonalds/newmans-own-ranch-dressing",
+        "category": "Condiments"
+      },
+      {
+        "name": "Peanuts for Sundaes",
+        "url": "https://fastfoodnutrition.org/mcdonalds/peanuts-for-sundaes",
+        "category": "Condiments"
+      },
+      {
+        "name": "Salt Packet",
+        "url": "https://fastfoodnutrition.org/mcdonalds/salt-packet",
+        "category": "Condiments"
+      },
+      {
+        "name": "Spicy Buffalo Sauce",
+        "url": "https://fastfoodnutrition.org/mcdonalds/spicy-buffalo-sauce",
+        "category": "Condiments"
+      },
+      {
+        "name": "SPLENDA® No Calorie Sweetener",
+        "url": "https://fastfoodnutrition.org/mcdonalds/splenda-no-calorie-sweetener",
+        "category": "Condiments"
+      },
+      {
+        "name": "Strawberry Preserves",
+        "url": "https://fastfoodnutrition.org/mcdonalds/strawberry-preserves",
+        "category": "Condiments"
+      },
+      {
+        "name": "Sugar Packet",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sugar-packet",
+        "category": "Condiments"
+      },
+      {
+        "name": "Sweet & Spicy Jam",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sweet-spicy-jam",
+        "category": "Condiments"
+      }
+    ]
+  },
+  "Taco Bell": {
+    "url": "https://fastfoodnutrition.org/taco-bell",
+    "restaurant_logo": "https://fastfoodnutrition.org/logos/taco-bell.jpg",
+    "items": [
+      {
+        "name": "Bean Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/bean-burrito",
+        "category": "Burritos"
+      },
+      {
+        "name": "Beefy 5-Layer Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/beefy-5-layer-burrito",
+        "category": "Burritos"
+      },
+      {
+        "name": "Burrito Supreme - Chicken",
+        "url": "https://fastfoodnutrition.org/taco-bell/burrito-supreme-chicken",
+        "category": "Burritos"
+      },
+      {
+        "name": "Burrito Supreme - Steak",
+        "url": "https://fastfoodnutrition.org/taco-bell/burrito-supreme-steak",
+        "category": "Burritos"
+      },
+      {
+        "name": "Burrito Supreme – Beef",
+        "url": "https://fastfoodnutrition.org/taco-bell/burrito-supreme-beef",
+        "category": "Burritos"
+      },
+      {
+        "name": "Cheesy Bean and Rice Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/cheesy-bean-and-rice-burrito",
+        "category": "Burritos"
+      },
+      {
+        "name": "Chicken Enchilada Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/chicken-enchilada-burrito",
+        "category": "Burritos"
+      },
+      {
+        "name": "Chili Cheese Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/chili-cheese-burrito",
+        "category": "Burritos"
+      },
+      {
+        "name": "Frank's RedHot Diablo Crispy Chicken Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/franks-redhot-diablo-crispy-chicken-burrito",
+        "category": "Burritos"
+      },
+      {
+        "name": "Fritos Flamin' Hot Grilled Cheese Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/fritos-flamin-hot-grilled-cheese-burrito",
+        "category": "Burritos"
+      },
+      {
+        "name": "Green Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/green-burrito",
+        "category": "Burritos"
+      },
+      {
+        "name": "Grilled Cheese Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/grilled-cheese-burrito",
+        "category": "Burritos"
+      },
+      {
+        "name": "Veggie Burrito Supreme",
+        "url": "https://fastfoodnutrition.org/taco-bell/veggie-burrito-supreme",
+        "category": "Burritos"
+      },
+      {
+        "name": "Black Bean Soft Taco",
+        "url": "https://fastfoodnutrition.org/taco-bell/black-bean-soft-taco",
+        "category": "Tacos"
+      },
+      {
+        "name": "Cool Ranch Doritos Locos Taco",
+        "url": "https://fastfoodnutrition.org/taco-bell/cool-ranch-doritos-locos-taco",
+        "category": "Tacos"
+      },
+      {
+        "name": "Cool Ranch Doritos Locos Taco Supreme",
+        "url": "https://fastfoodnutrition.org/taco-bell/cool-ranch-doritos-locos-taco-supreme",
+        "category": "Tacos"
+      },
+      {
+        "name": "Crunchy Taco",
+        "url": "https://fastfoodnutrition.org/taco-bell/crunchy-taco",
+        "category": "Tacos"
+      },
+      {
+        "name": "Crunchy Taco Supreme",
+        "url": "https://fastfoodnutrition.org/taco-bell/crunchy-taco-supreme",
+        "category": "Tacos"
+      },
+      {
+        "name": "Double Decker Taco",
+        "url": "https://fastfoodnutrition.org/taco-bell/double-decker-taco",
+        "category": "Tacos"
+      },
+      {
+        "name": "Double Decker Taco Supreme",
+        "url": "https://fastfoodnutrition.org/taco-bell/double-decker-taco-supreme",
+        "category": "Tacos"
+      },
+      {
+        "name": "Frank's RedHot Diablo Crispy Chicken Soft Taco",
+        "url": "https://fastfoodnutrition.org/taco-bell/franks-redhot-diablo-crispy-chicken-soft-taco",
+        "category": "Tacos"
+      },
+      {
+        "name": "Nacho Cheese Doritos Locos Taco",
+        "url": "https://fastfoodnutrition.org/taco-bell/nacho-cheese-doritos-locos-tacos",
+        "category": "Tacos"
+      },
+      {
+        "name": "Nacho Cheese Doritos Locos Taco Supreme",
+        "url": "https://fastfoodnutrition.org/taco-bell/nacho-cheese-doritos-locos-tacos-supreme",
+        "category": "Tacos"
+      },
+      {
+        "name": "Soft Taco - Beef",
+        "url": "https://fastfoodnutrition.org/taco-bell/soft-taco-beef",
+        "category": "Tacos"
+      },
+      {
+        "name": "Soft Taco Supreme – Beef",
+        "url": "https://fastfoodnutrition.org/taco-bell/soft-taco-supreme-beef",
+        "category": "Tacos"
+      },
+      {
+        "name": "Spicy Potato Soft Taco",
+        "url": "https://fastfoodnutrition.org/taco-bell/spicy-potato-soft-taco",
+        "category": "Tacos"
+      },
+      {
+        "name": "Aquafina Sparkling Berry Breeze",
+        "url": "https://fastfoodnutrition.org/taco-bell/aquafina-sparkling-berry-breeze",
+        "category": "Beverages"
+      },
+      {
+        "name": "Blue Raspberry Breeze Freeze",
+        "url": "https://fastfoodnutrition.org/taco-bell/blue-raspberry-breeze-freeze",
+        "category": "Beverages"
+      },
+      {
+        "name": "Blue Raspberry Freeze",
+        "url": "https://fastfoodnutrition.org/taco-bell/blue-raspberry-freeze",
+        "category": "Beverages"
+      },
+      {
+        "name": "Brisk Mango Fiesta",
+        "url": "https://fastfoodnutrition.org/taco-bell/brisk-mango-fiesta",
+        "category": "Beverages"
+      },
+      {
+        "name": "Cinnabon Delights Coffee",
+        "url": "https://fastfoodnutrition.org/taco-bell/cinnabon-delights-coffee",
+        "category": "Beverages"
+      },
+      {
+        "name": "Coffee",
+        "url": "https://fastfoodnutrition.org/taco-bell/premium-roast-coffee-125-oz",
+        "category": "Beverages"
+      },
+      {
+        "name": "Coffee with Creamer",
+        "url": "https://fastfoodnutrition.org/taco-bell/premium-hot-coffee-with-creamer",
+        "category": "Beverages"
+      },
+      {
+        "name": "Diet Dr Pepper",
+        "url": "https://fastfoodnutrition.org/taco-bell/diet-dr-pepper",
+        "category": "Beverages"
+      },
+      {
+        "name": "Diet Mountain Dew",
+        "url": "https://fastfoodnutrition.org/taco-bell/diet-mountain-dew",
+        "category": "Beverages"
+      },
+      {
+        "name": "Diet Mountain Dew Baja Blast",
+        "url": "https://fastfoodnutrition.org/taco-bell/diet-mountain-dew-baja-blast",
+        "category": "Beverages"
+      },
+      {
+        "name": "Diet Pepsi",
+        "url": "https://fastfoodnutrition.org/taco-bell/diet-pepsi",
+        "category": "Beverages"
+      },
+      {
+        "name": "Dr Pepper",
+        "url": "https://fastfoodnutrition.org/taco-bell/dr-pepper",
+        "category": "Beverages"
+      },
+      {
+        "name": "Gatorade G2 Fruit Punch",
+        "url": "https://fastfoodnutrition.org/taco-bell/gatorade-g2-fruit-punch",
+        "category": "Beverages"
+      },
+      {
+        "name": "Iced Coffee",
+        "url": "https://fastfoodnutrition.org/taco-bell/premium-iced-coffee",
+        "category": "Beverages"
+      },
+      {
+        "name": "Lipton Unsweetened Iced Tea",
+        "url": "https://fastfoodnutrition.org/taco-bell/brisk-iced-tea-and-lemonade",
+        "category": "Beverages"
+      },
+      {
+        "name": "Mountain Dew",
+        "url": "https://fastfoodnutrition.org/taco-bell/mountain-dew",
+        "category": "Beverages"
+      },
+      {
+        "name": "Mountain Dew Baja Blast",
+        "url": "https://fastfoodnutrition.org/taco-bell/mountain-dew-baja-blast",
+        "category": "Beverages"
+      },
+      {
+        "name": "Mountain Dew Baja Blast Freeze",
+        "url": "https://fastfoodnutrition.org/taco-bell/mountain-dew-baja-blast-freeze",
+        "category": "Beverages"
+      },
+      {
+        "name": "Mountain Dew Baja Blast Zero Sugar",
+        "url": "https://fastfoodnutrition.org/taco-bell/mountain-dew-baja-blast-zero-sugar",
+        "category": "Beverages"
+      },
+      {
+        "name": "Mug Root Beer",
+        "url": "https://fastfoodnutrition.org/taco-bell/mug-root-beer",
+        "category": "Beverages"
+      },
+      {
+        "name": "Orange Juice",
+        "url": "https://fastfoodnutrition.org/taco-bell/orange-juice-10-oz",
+        "category": "Beverages"
+      },
+      {
+        "name": "Pepsi",
+        "url": "https://fastfoodnutrition.org/taco-bell/pepsi",
+        "category": "Beverages"
+      },
+      {
+        "name": "Pepsi Zero Sugar",
+        "url": "https://fastfoodnutrition.org/taco-bell/pepsi-zero-sugar",
+        "category": "Beverages"
+      },
+      {
+        "name": "Sierra Mist",
+        "url": "https://fastfoodnutrition.org/taco-bell/sierra-mist",
+        "category": "Beverages"
+      },
+      {
+        "name": "Tropicana Pink Lemonade",
+        "url": "https://fastfoodnutrition.org/taco-bell/tropicana-pink-lemonade",
+        "category": "Beverages"
+      },
+      {
+        "name": "Watermelon Berry Freeze",
+        "url": "https://fastfoodnutrition.org/taco-bell/watermelon-berry-freeze",
+        "category": "Beverages"
+      },
+      {
+        "name": "Wild Cherry Breeze Freeze",
+        "url": "https://fastfoodnutrition.org/taco-bell/wild-cherry-breeze-freeze",
+        "category": "Beverages"
+      },
+      {
+        "name": "Wild Cherry Freeze",
+        "url": "https://fastfoodnutrition.org/taco-bell/wild-cherry-freeze",
+        "category": "Beverages"
+      },
+      {
+        "name": "Wild Cherry Pepsi",
+        "url": "https://fastfoodnutrition.org/taco-bell/pepsi-wild-cherry",
+        "category": "Beverages"
+      },
+      {
+        "name": "Wild Strawberry Creme Delight Freeze",
+        "url": "https://fastfoodnutrition.org/taco-bell/wild-strawberry-creme-delight-freeze",
+        "category": "Beverages"
+      },
+      {
+        "name": "Wild Strawberry Freeze",
+        "url": "https://fastfoodnutrition.org/taco-bell/wild-strawberry-freeze",
+        "category": "Beverages"
+      },
+      {
+        "name": "Breakfast California Crunchwrap",
+        "url": "https://fastfoodnutrition.org/taco-bell/breakfast-california-crunchwrap",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Breakfast Crunchwrap - Bacon",
+        "url": "https://fastfoodnutrition.org/taco-bell/am-crunchwrap-bacon",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Breakfast Crunchwrap - Sausage",
+        "url": "https://fastfoodnutrition.org/taco-bell/am-crunchwrap-sausage",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Breakfast Crunchwrap - Steak",
+        "url": "https://fastfoodnutrition.org/taco-bell/am-crunchwrap-steak",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Breakfast Quesadilla",
+        "url": "https://fastfoodnutrition.org/taco-bell/breakfast-quesadilla",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Cheesy Toasted Breakfast Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/cheesy-toasted-breakfast-burrito",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Cinnabon Delights",
+        "url": "https://fastfoodnutrition.org/taco-bell/cinnabon-delights",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Grande Toasted Breakfast Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/grande-toasted-breakfast-burrito",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Hash Brown",
+        "url": "https://fastfoodnutrition.org/taco-bell/hash-brown",
+        "category": "Breakfast"
+      },
+      {
+        "name": "Caliente Cantina Chicken Bowl",
+        "url": "https://fastfoodnutrition.org/taco-bell/caliente-cantina-chicken-bowl",
+        "category": "Cantina Chicken"
+      },
+      {
+        "name": "Caliente Cantina Chicken Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/caliente-cantina-chicken-burrito",
+        "category": "Cantina Chicken"
+      },
+      {
+        "name": "Caliente Cantina Chicken Crispy Taco",
+        "url": "https://fastfoodnutrition.org/taco-bell/caliente-cantina-chicken-crispy-taco",
+        "category": "Cantina Chicken"
+      },
+      {
+        "name": "Caliente Cantina Chicken Nacho Fries",
+        "url": "https://fastfoodnutrition.org/taco-bell/caliente-cantina-chicken-nacho-fries",
+        "category": "Cantina Chicken"
+      },
+      {
+        "name": "Caliente Cantina Chicken Quesadilla",
+        "url": "https://fastfoodnutrition.org/taco-bell/caliente-cantina-chicken-quesadilla",
+        "category": "Cantina Chicken"
+      },
+      {
+        "name": "Caliente Cantina Chicken Soft Taco",
+        "url": "https://fastfoodnutrition.org/taco-bell/caliente-cantina-chicken-soft-taco",
+        "category": "Cantina Chicken"
+      },
+      {
+        "name": "Cantina Chicken Bowl",
+        "url": "https://fastfoodnutrition.org/taco-bell/cantina-chicken-bowl",
+        "category": "Cantina Chicken"
+      },
+      {
+        "name": "Cantina Chicken Burrito",
+        "url": "https://fastfoodnutrition.org/taco-bell/cantina-chicken-burrito",
+        "category": "Cantina Chicken"
+      },
+      {
+        "name": "Cantina Chicken Quesadilla",
+        "url": "https://fastfoodnutrition.org/taco-bell/cantina-chicken-quesadilla",
+        "category": "Cantina Chicken"
+      },
+      {
+        "name": "Cantina Chicken Soft Taco",
+        "url": "https://fastfoodnutrition.org/taco-bell/cantina-chicken-soft-taco",
+        "category": "Cantina Chicken"
+      },
+      {
+        "name": "Cantina Crispy Chicken Taco",
+        "url": "https://fastfoodnutrition.org/taco-bell/cantina-crispy-chicken-taco",
+        "category": "Cantina Chicken"
+      },
+      {
+        "name": "Black Bean Chalupa",
+        "url": "https://fastfoodnutrition.org/taco-bell/black-bean-chalupa",
+        "category": "Chalupas"
+      },
+      {
+        "name": "Chalupa Supreme - Chicken",
+        "url": "https://fastfoodnutrition.org/taco-bell/chalupa-supreme-chicken",
+        "category": "Chalupas"
+      },
+      {
+        "name": "Chalupa Supreme - Steak",
+        "url": "https://fastfoodnutrition.org/taco-bell/chalupa-supreme-steak",
+        "category": "Chalupas"
+      },
+      {
+        "name": "Chalupa Supreme – Beef",
+        "url": "https://fastfoodnutrition.org/taco-bell/chalupa-supremebeef",
+        "category": "Chalupas"
+      },
+      {
+        "name": "Toasted Cheddar Street Chalupa",
+        "url": "https://fastfoodnutrition.org/taco-bell/toasted-cheddar-street-chalupa",
+        "category": "Chalupas"
+      },
+      {
+        "name": "Breakfast Salsa",
+        "url": "https://fastfoodnutrition.org/taco-bell/breakfast-salsa",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Cilantro Dressing",
+        "url": "https://fastfoodnutrition.org/taco-bell/cilantro-dressing",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Creamy Jalapeno Sauce",
+        "url": "https://fastfoodnutrition.org/taco-bell/creamy-jalapeno-sauce",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Diablo Sauce",
+        "url": "https://fastfoodnutrition.org/taco-bell/diablo-sauce",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Fire Sauce",
+        "url": "https://fastfoodnutrition.org/taco-bell/fire-sauce",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Green Tomatillo Sauce",
+        "url": "https://fastfoodnutrition.org/taco-bell/green-tomatillo-sauce",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Guacamole",
+        "url": "https://fastfoodnutrition.org/taco-bell/guacamole",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Hot Sauce",
+        "url": "https://fastfoodnutrition.org/taco-bell/hot-sauce",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Mild Sauce",
+        "url": "https://fastfoodnutrition.org/taco-bell/mild-sauce",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Nacho Cheese Dip",
+        "url": "https://fastfoodnutrition.org/taco-bell/nacho-cheese-dip",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Nugget Dipping Sauce",
+        "url": "https://fastfoodnutrition.org/taco-bell/nugget-dipping-sauce",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Pepper Jack Sauce",
+        "url": "https://fastfoodnutrition.org/taco-bell/pepper-jack-sauce",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Pico de Gallo",
+        "url": "https://fastfoodnutrition.org/taco-bell/pico-de-gallo",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Pizza Sauce",
+        "url": "https://fastfoodnutrition.org/taco-bell/pizza-sauce",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Premium Guacamole Dip",
+        "url": "https://fastfoodnutrition.org/taco-bell/premium-guacamole-dip",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Red Sauce",
+        "url": "https://fastfoodnutrition.org/taco-bell/red-sauce",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Reduced Fat Sour Cream",
+        "url": "https://fastfoodnutrition.org/taco-bell/reduced-fat-sour-cream",
+        "category": "Condiments & Sauces"
+      },
+      {
+        "name": "Reduced-Fat Sour Cream Dip",
+        "url": "https://fastfoodnutrition.org/taco-bell/reduced-fat-sour-cream-dip",
+        "category": "Condiments & Sauces"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+
+{
+    "_id": "str_32323",
+    "restaurant_brand_id": "str_32323",
+    "name": "str_32323",
+    "description": "str_32323",
+    "menu_item_image_url": "str_32323",
+    "category": "str_32323",
+    "allergens": ["str_32323"],
+    "dietary_labels": ["str_32323"],
+    "is_active": true
+  }
+  
+  
+
+// To do: fix duplication in testing, and add brand_id to the menu items and menu item variations

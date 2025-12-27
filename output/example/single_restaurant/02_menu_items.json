@@ -1,0 +1,258 @@
+{
+  "McDonald's": {
+    "url": "https://fastfoodnutrition.org/mcdonalds",
+    "restaurant_logo": "https://fastfoodnutrition.org/logos/mcdonalds.jpg",
+    "items": [
+      {
+        "name": "Bacon Buffalo Ranch Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-buffalo-ranch-deluxe-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon Buffalo Ranch McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-buffalo-ranch-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon McDouble",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-mcdouble",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon Ranch Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-ranch-deluxe-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon Ranch McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-ranch-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon Special Edition Gold Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-special-edition-gold-deluxe-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Bacon Special Edition Gold McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-special-edition-gold-mccrispy",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Big Mac",
+        "url": "https://fastfoodnutrition.org/mcdonalds/big-mac",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Big Mac Bacon",
+        "url": "https://fastfoodnutrition.org/mcdonalds/big-mac-bacon",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Cardi B & Offset Meal",
+        "url": "https://fastfoodnutrition.org/mcdonalds/cardi-b-offset-meal",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Cheeseburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/cheeseburger",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Cheesy Jalapeno Bacon Quarter Pounder",
+        "url": "https://fastfoodnutrition.org/mcdonalds/cheesy-jalapeno-bacon-quarter-pounder",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Chicken Big Mac",
+        "url": "https://fastfoodnutrition.org/mcdonalds/chicken-big-mac",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Daily Double",
+        "url": "https://fastfoodnutrition.org/mcdonalds/daily-double",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/deluxe-crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Double Cheeseburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-cheeseburger",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Double Filet-O-Fish",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-filet-o-fish",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Double Hamburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-hamburger",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Double Quarter Pounder with Cheese",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-quarter-pounder-with-cheese",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Double Quarter Pounder with Cheese Deluxe",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-quarter-pounder-with-cheese-deluxe",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Filet-O-Fish®",
+        "url": "https://fastfoodnutrition.org/mcdonalds/filet-o-fish",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Hamburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hamburger",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Hot 'n Spicy McChicken",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hot-n-spicy-mcchicken",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "McChicken",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mcchicken",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "McCrispy Chicken Sandwich",
+        "url": "https://fastfoodnutrition.org/mcdonalds/crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "McDouble",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mcdouble",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "McRib",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mcrib",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Minecraft Movie Meal",
+        "url": "https://fastfoodnutrition.org/mcdonalds/minecraft-movie-meal",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Quarter Pounder Bacon",
+        "url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-bacon",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Quarter Pounder Deluxe",
+        "url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-deluxe",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Quarter Pounder® with Cheese",
+        "url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-with-cheese",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Smoky BLT Quarter Pounder with Cheese",
+        "url": "https://fastfoodnutrition.org/mcdonalds/smoky-blt-quarter-pounder-with-cheese",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Spicy Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/spicy-deluxe-crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Spicy McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/spicy-crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "Triple Cheeseburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/triple-cheeseburger",
+        "category": "Burgers & Sandwiches"
+      },
+      {
+        "name": "1% Low Fat Milk Jug",
+        "url": "https://fastfoodnutrition.org/mcdonalds/1-low-fat-milk-jug",
+        "category": "Beverages"
+      },
+      {
+        "name": "Apple Juice Box",
+        "url": "https://fastfoodnutrition.org/mcdonalds/minute-maid-apple-juice-box",
+        "category": "Beverages"
+      },
+      {
+        "name": "Coca-Cola Classic",
+        "url": "https://fastfoodnutrition.org/mcdonalds/coca-cola-classic",
+        "category": "Beverages"
+      },
+      {
+        "name": "Dasani© Water",
+        "url": "https://fastfoodnutrition.org/mcdonalds/dasanicopy-water",
+        "category": "Beverages"
+      },
+      {
+        "name": "Diet Coke",
+        "url": "https://fastfoodnutrition.org/mcdonalds/diet-coke",
+        "category": "Beverages"
+      },
+      {
+        "name": "Diet Dr Pepper",
+        "url": "https://fastfoodnutrition.org/mcdonalds/diet-dr-pepper",
+        "category": "Beverages"
+      },
+      {
+        "name": "Dr Pepper",
+        "url": "https://fastfoodnutrition.org/mcdonalds/dr-pepper",
+        "category": "Beverages"
+      },
+      {
+        "name": "Fanta Orange",
+        "url": "https://fastfoodnutrition.org/mcdonalds/fanta-orange",
+        "category": "Beverages"
+      },
+      {
+        "name": "Fat Free Chocolate Milk Jug",
+        "url": "https://fastfoodnutrition.org/mcdonalds/fat-free-chocolate-milk-jug",
+        "category": "Beverages"
+      },
+      {
+        "name": "Hi-C Orange Lavaburst",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hi-c-orange-lavaburst",
+        "category": "Beverages"
+      },
+      {
+        "name": "Iced Tea",
+        "url": "https://fastfoodnutrition.org/mcdonalds/iced-tea",
+        "category": "Beverages"
+      },
+      {
+        "name": "Lemonade",
+        "url": "https://fastfoodnutrition.org/mcdonalds/lemonade",
+        "category": "Beverages"
+      },
+      {
+        "name": "Mango Pineapple Smoothie",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mango-pineapple-smoothie",
+        "category": "Beverages"
+      },
+      {
+        "name": "Minute Maid Orange Juice",
+        "url": "https://fastfoodnutrition.org/mcdonalds/minute-maid-orange-juice",
+        "category": "Beverages"
+      },
+      {
+        "name": "Sprite",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sprite",
+        "category": "Beverages"
+      }
+    ]
+  }
+}

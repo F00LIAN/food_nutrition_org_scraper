@@ -1,0 +1,18 @@
+{
+  "total_items": 80,
+  "processed": 80,
+  "skipped": 0,
+  "no_nutrition_data": 0,
+  "errors": 0,
+  "ratio_stats": {
+    "excellent": 1,
+    "good": 26,
+    "poor": 53
+  },
+  "ratio_distribution": {
+    "min": 0.0,
+    "max": 2.0,
+    "average": 0.289,
+    "median": 0.333
+  }
+}

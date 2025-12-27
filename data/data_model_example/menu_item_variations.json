@@ -1,0 +1,11 @@
+{
+    "_id": "str_32323",
+    "menu_item_id": "str_32323",
+    "restaurant_brand_id": "str_32323",
+    "label": "str_32323", // "Small", "12 oz", "Combo", etc.
+    "serving": { "grams": 420, "ounces": 14 }, // optional
+    "nutrition": { "calories": 820, "protein_g": 48, "carbs_g": 70, "fat_g": 28 }, // per serving
+    "is_active": true,
+    "created_at": "datetime",
+    "updated_at": "datetime"
+}

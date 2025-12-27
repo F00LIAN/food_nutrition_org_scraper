@@ -1,0 +1,8 @@
+{
+    "_id": "str_32323", 
+    "brand_name": "str_32323",
+    "brand_image_url": "str_32323",
+    "eatery_full_verification_status": "bool",
+    "creation_date": "datetime",
+    "last_updated": "datetime"
+}

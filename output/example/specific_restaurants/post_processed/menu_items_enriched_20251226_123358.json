@@ -1,0 +1,776 @@
+[
+  {
+    "_id": "690cdc5a-ad3a-4a10-987c-0156356b64a1",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Apple Pie Honeybar",
+    "description": "Tender apple slices baked in a flaky crust, drizzled with honey for a sweet finish to this classic dessert.",
+    "category": "Honeybar Desserts",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/apple-pie-honeybar",
+    "estimated_price": "6.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Dessert"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "319.0",
+        "protein": "1.5g",
+        "total_carbohydrates": "58.0g",
+        "total_fat": "5.0g",
+        "sodium": "205.0mg",
+        "sugar": "45.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "Low Protein",
+      "High Carb",
+      "Low Fat",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ]
+  },
+  {
+    "_id": "defd393b-ac82-4fd5-ae22-e87ceb6d68c0",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Brownie Crumble Honeybar",
+    "description": "Rich chocolate brownie topped with a crunchy crumble, harmonized with a touch of honey for an irresistible treat.",
+    "category": "Honeybar Desserts",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/brownie-crumble-honeybar",
+    "estimated_price": "6.99",
+    "cuisine_types": [
+      "American",
+      "Dessert",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "289.0",
+        "protein": "1.0g",
+        "total_carbohydrates": "48.0g",
+        "total_fat": "7.0g",
+        "sodium": "92.0mg",
+        "sugar": "46.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "Low Protein",
+      "High Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ]
+  },
+  {
+    "_id": "4497e3b8-8ce1-473e-a6d3-8cff4d29aa14",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Cheesecake Honeybar",
+    "description": "Silky cream cheese filling nestled in a honey-drizzled crust, creating a dreamy balance of sweetness and tang.",
+    "category": "Honeybar Desserts",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/cheesecake-honeybar",
+    "estimated_price": "6.99",
+    "cuisine_types": [
+      "American",
+      "International",
+      "Dessert"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "300.0",
+        "protein": "3.0g",
+        "total_carbohydrates": "32.0g",
+        "total_fat": "18.0g",
+        "sodium": "330.0mg",
+        "sugar": "19.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "Low Protein",
+      "High Fat",
+      "Low Calorie"
+    ]
+  },
+  {
+    "_id": "008617f6-f64f-4143-b5d3-fe55554e0a32",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Cobbler Honeybar",
+    "description": "Warm, spiced fruit filling enveloped in a golden crust, served with a honey glaze that enhances its comforting flavors.",
+    "category": "Honeybar Desserts",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/cobbler-honeybar",
+    "estimated_price": "6.50",
+    "cuisine_types": [
+      "American",
+      "Dessert",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "190.0",
+        "protein": "4.0g",
+        "total_carbohydrates": "32.0g",
+        "total_fat": "5.0g",
+        "sodium": "173.0mg",
+        "sugar": "21.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Carb",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ]
+  },
+  {
+    "_id": "652bb673-e9a1-47a1-a142-4be839638392",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Fruit + Granola Honeybar",
+    "description": "A delightful blend of fresh fruits and crunchy granola, lightly sweetened with honey for a refreshing and wholesome dessert.",
+    "category": "Honeybar Desserts",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/fruit-granola-honeybar",
+    "estimated_price": "6.99",
+    "cuisine_types": [
+      "American",
+      "Mediterranean",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "253.0",
+        "protein": "1.0g",
+        "total_carbohydrates": "46.0g",
+        "total_fat": "4.5g",
+        "sodium": "65.0mg",
+        "sugar": "45.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "Low Protein",
+      "High Carb",
+      "Low Fat",
+      "Low Calorie",
+      "Low Sodium",
+      "High Sugar"
+    ]
+  },
+  {
+    "_id": "eb22f643-b572-4972-b322-8f6598f0098f",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Asian Sesame Ginger Salad",
+    "description": "Crisp greens tossed with tender sesame ginger chicken, colorful veggies, and a zesty sesame dressing for an Asian-inspired delight.",
+    "category": "Salads",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/asian-sesame-ginger-salad",
+    "estimated_price": "9.99",
+    "cuisine_types": [
+      "Japanese",
+      "Chinese",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "550.0",
+        "protein": "30.0g",
+        "total_carbohydrates": "46.0g",
+        "total_fat": "32.0g",
+        "sodium": "988.0mg",
+        "sugar": "7.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "91e20654-bd94-437d-b53f-9b0cd8cbc79c",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Classic Shrimp Caesar Salad",
+    "description": "Juicy shrimp atop crisp romaine, tossed with creamy Caesar dressing, crunchy croutons, and a sprinkle of Parmesan for classic flavor.",
+    "category": "Salads",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/classic-shrimp-caesar-salad",
+    "estimated_price": "12.99",
+    "cuisine_types": [
+      "American",
+      "Mediterranean",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "322.0",
+        "protein": "25.0g",
+        "total_carbohydrates": "24.0g",
+        "total_fat": "15.0g",
+        "sodium": "1121.0mg",
+        "sugar": "2.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "Low Calorie",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "28daa3de-c33d-4f3b-a273-52ca6d1e40c2",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Cobb Salad",
+    "description": "A hearty mix of greens, diced turkey, bacon, eggs, and cheese, all drizzled with a tangy vinaigrette for a satisfying bite.",
+    "category": "Salads",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/cobb-salad",
+    "estimated_price": "10.99",
+    "cuisine_types": [
+      "American",
+      "Mediterranean",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "610.0",
+        "protein": "34.0g",
+        "total_carbohydrates": "18.0g",
+        "total_fat": "45.0g",
+        "sodium": "1133.0mg",
+        "sugar": "9.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "Low Carb",
+      "High Fat",
+      "High Sodium"
+    ]
+  },
+  {
+    "_id": "1e23f8fd-e629-4229-bb89-b29912680fcc",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Greek Out Salad",
+    "description": "Fresh greens combined with ripe tomatoes, cucumbers, olives, and feta, dressed in a light vinaigrette for a refreshing Greek experience.",
+    "category": "Salads",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/greek-out-salad",
+    "estimated_price": "9.99",
+    "cuisine_types": [
+      "Mediterranean",
+      "Greek",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "529.0",
+        "protein": "32.0g",
+        "total_carbohydrates": "32.0g",
+        "total_fat": "30.0g",
+        "sodium": "1730.0mg",
+        "sugar": "3.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "High Fat",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "79dd324b-b3b8-4e4e-b5dc-f1874f6eb772",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "High Protein Salad",
+    "description": "Packed with grilled chicken, quinoa, chickpeas, and vibrant veggies, this salad is a protein powerhouse drizzled with a zesty dressing.",
+    "category": "Salads",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/high-protein-salad",
+    "estimated_price": "10.99",
+    "cuisine_types": [
+      "American",
+      "Mediterranean",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "533.0",
+        "protein": "33.0g",
+        "total_carbohydrates": "12.0g",
+        "total_fat": "37.0g",
+        "sodium": "923.0mg",
+        "sugar": "4.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "Low Carb",
+      "High Fat",
+      "High Sodium",
+      "Low Sugar",
+      "Keto Friendly"
+    ]
+  },
+  {
+    "_id": "4f63447d-f73f-4dd5-83d5-36c0a48d9589",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Kale Chicken Caesar Salad",
+    "description": "Crisp kale tossed with tender chicken, creamy Caesar dressing, and topped with shavings of Parmesan for a fresh, flavorful bite.",
+    "category": "Salads",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/kale-chicken-caesar-salad",
+    "estimated_price": "10.99",
+    "cuisine_types": [
+      "American",
+      "Mediterranean",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "379.0",
+        "protein": "29.0g",
+        "total_carbohydrates": "27.0g",
+        "total_fat": "18.0g",
+        "sodium": "1523.0mg",
+        "sugar": "1.5g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "8cf621d5-ddfb-4e97-b728-d2cd5a2ce3c4",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Keto Salad",
+    "description": "A vibrant mix of fresh greens, avocado, and crunchy nuts, drizzled with zesty lemon vinaigrette for a satisfying, low-carb delight.",
+    "category": "Salads",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/keto-salad",
+    "estimated_price": "9.99",
+    "cuisine_types": [
+      "American",
+      "Mediterranean",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "431.0",
+        "protein": "30.0g",
+        "total_carbohydrates": "15.0g",
+        "total_fat": "29.0g",
+        "sodium": "1241.0mg",
+        "sugar": "1.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "Low Carb",
+      "High Fat",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "565ec5fc-dabe-4aa0-a45a-1e1714da3658",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Paleo Salad",
+    "description": "A hearty blend of leafy greens, roasted veggies, and grilled chicken, all tossed in a tangy dressing, perfect for the paleo enthusiast.",
+    "category": "Salads",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/paleo-salad",
+    "estimated_price": "10.99",
+    "cuisine_types": [
+      "American",
+      "Mediterranean",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "557.0",
+        "protein": "27.0g",
+        "total_carbohydrates": "26.0g",
+        "total_fat": "41.0g",
+        "sodium": "857.0mg",
+        "sugar": "6.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "Low Carb",
+      "High Fat",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "5245a7d3-9984-4d00-8477-4cd7474ba2cb",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Whole Salad",
+    "description": "A wholesome salad featuring an array of seasonal vegetables, grains, and protein, generously dressed for a fulfilling meal.",
+    "category": "Salads",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/whole-salad",
+    "estimated_price": "9.99",
+    "cuisine_types": [
+      "American",
+      "Mediterranean",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "221.0",
+        "protein": "17.0g",
+        "total_carbohydrates": "16.0g",
+        "total_fat": "10.0g",
+        "sodium": "327.0mg",
+        "sugar": "3.5g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "Low Carb",
+      "Low Calorie",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "29f3cc99-2e61-4821-8e2c-9a661f5c8da4",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Chesapeake Crab Stir-Fry",
+    "description": "Succulent crab meat stir-fried with vibrant bell peppers and snap peas, finished with a savory blend of garlic and spices.",
+    "category": "Stir-Fry",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/chesapeake-crab-stir-fry",
+    "estimated_price": "15.99",
+    "cuisine_types": [
+      "American",
+      "Seafood",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "546.0",
+        "protein": "22.0g",
+        "total_carbohydrates": "86.0g",
+        "total_fat": "9.0g",
+        "sodium": "1656.0mg",
+        "sugar": "2.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Carb",
+      "Low Fat",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "8f44b1b5-9129-4aa2-ac53-c5b513033914",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Garlic Butter Chicken Stir-Fry",
+    "description": "Juicy chicken sautéed in rich garlic butter, combined with fresh vegetables for a comforting and flavorful stir-fry.",
+    "category": "Stir-Fry",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/garlic-butter-chicken-stir-fry",
+    "estimated_price": "12.99",
+    "cuisine_types": [
+      "Chinese",
+      "Thai",
+      "Asian"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "746.0",
+        "protein": "33.0g",
+        "total_carbohydrates": "84.0g",
+        "total_fat": "26.0g",
+        "sodium": "1978.0mg",
+        "sugar": "3.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "High Calorie",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "f81b4841-9477-4d99-977f-2a5106cd7eb3",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Garlic Butter Shrimp Stir-Fry",
+    "description": "Tender shrimp cooked in velvety garlic butter, tossed with seasonal vegetables for a quick, decadent seafood dish.",
+    "category": "Stir-Fry",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/garlic-butter-shrimp-stir-fry",
+    "estimated_price": "12.99",
+    "cuisine_types": [
+      "Thai",
+      "Chinese",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "704.0",
+        "protein": "28.0g",
+        "total_carbohydrates": "84.0g",
+        "total_fat": "24.0g",
+        "sodium": "1592.0mg",
+        "sugar": "3.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "High Calorie",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "a262e42f-0718-4486-8ee5-3c72da9fae5e",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "High Protein Stir-Fry",
+    "description": "A protein-packed medley of chicken, beef, and assorted veggies stir-fried to perfection in a savory sauce, ideal for power diners.",
+    "category": "Stir-Fry",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/high-protein-stir-fry",
+    "estimated_price": "12.99",
+    "cuisine_types": [
+      "Chinese",
+      "Thai",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "820.0",
+        "protein": "33.0g",
+        "total_carbohydrates": "20.0g",
+        "total_fat": "68.0g",
+        "sodium": "665.0mg",
+        "sugar": "8.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "Low Carb",
+      "High Fat",
+      "High Calorie",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "5dc3a16e-a017-414f-b48d-ccfee34b4c21",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Kids Garlic Butter & Parm Stir-Fry",
+    "description": "Kid-friendly garlic butter chicken mixed with colorful veggies, creating a delightful stir-fry that's both tasty and wholesome.",
+    "category": "Stir-Fry",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/kids-garlic-butter-parm-stir-fry",
+    "estimated_price": "7.99",
+    "cuisine_types": [
+      "American",
+      "Italian",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "448.0",
+        "protein": "13.0g",
+        "total_carbohydrates": "45.0g",
+        "total_fat": "19.0g",
+        "sodium": "1155.0mg",
+        "sugar": "8.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "248675f7-3428-474b-ba19-4a431945fc8c",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Paleo Stir-Fry",
+    "description": "Fresh vegetables and protein of your choice stir-fried in a fragrant blend of herbs and spices, honoring the paleo lifestyle.",
+    "category": "Stir-Fry",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/paleo-stir-fry",
+    "estimated_price": "12.99",
+    "cuisine_types": [
+      "American",
+      "Asian",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "271.0",
+        "protein": "22.0g",
+        "total_carbohydrates": "19.0g",
+        "total_fat": "11.0g",
+        "sodium": "1022.0mg",
+        "sugar": "10.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "Low Carb",
+      "Low Calorie",
+      "High Sodium"
+    ]
+  },
+  {
+    "_id": "d2c854f5-1047-4a67-aa7e-26513b58f809",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Red Coconut Curry Stir-Fry",
+    "description": "A fragrant blend of red coconut milk and fresh vegetables, this stir-fry offers a rich, creamy flavor with a hint of spice.",
+    "category": "Stir-Fry",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/red-coconut-curry-stir-fry",
+    "estimated_price": "12.99",
+    "cuisine_types": [
+      "Thai",
+      "Indian",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "362.0",
+        "protein": "13.0g",
+        "total_carbohydrates": "51.0g",
+        "total_fat": "13.0g",
+        "sodium": "390.0mg",
+        "sugar": "12.0g"
+      }
+    },
+    "macronutrient_profile": []
+  },
+  {
+    "_id": "6ecba9ca-396b-4422-b7c2-7a2adee068fc",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Sesame Garlic Stir-Fry",
+    "description": "Crunchy vegetables and tender tofu are tossed in a savory sesame garlic sauce, delivering a delightful umami experience.",
+    "category": "Stir-Fry",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/sesame-garlic-stir-fry",
+    "estimated_price": "12.99",
+    "cuisine_types": [
+      "Chinese",
+      "Japanese",
+      "Asian"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "742.0",
+        "protein": "31.0g",
+        "total_carbohydrates": "84.0g",
+        "total_fat": "34.0g",
+        "sodium": "717.0mg",
+        "sugar": "6.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "High Calorie",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  },
+  {
+    "_id": "e05c4fcf-7238-4254-b55c-2c8829c3ab50",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Spicy Garlic Stir-Fry",
+    "description": "Bold flavors of garlic and heat come together in this stir-fry, featuring vibrant vegetables for a satisfying kick.",
+    "category": "Stir-Fry",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/spicy-garlic-stir-fry",
+    "estimated_price": "12.99",
+    "cuisine_types": [
+      "Chinese",
+      "Thai",
+      "Asian"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "669.0",
+        "protein": "32.0g",
+        "total_carbohydrates": "102.0g",
+        "total_fat": "12.0g",
+        "sodium": "1790.0mg",
+        "sugar": "18.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "High Carb",
+      "Low Fat",
+      "High Sodium"
+    ]
+  },
+  {
+    "_id": "0c8ae281-6ab9-40c0-9f72-a2977e4e23e7",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Sweet Soy Five Spice Stir-Fry",
+    "description": "A harmonious mix of sweet soy sauce and aromatic five spices, this stir-fry balances flavors for a truly enticing dish.",
+    "category": "Stir-Fry",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/sweet-soy-five-spice-stir-fry",
+    "estimated_price": "12.99",
+    "cuisine_types": [
+      "Chinese",
+      "Thai",
+      "Asian"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "428.0",
+        "protein": "24.0g",
+        "total_carbohydrates": "45.0g",
+        "total_fat": "15.0g",
+        "sodium": "1308.0mg",
+        "sugar": "14.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Sodium",
+      "Balanced"
+    ]
+  },
+  {
+    "_id": "7adfe3c9-5667-4920-861f-861f9f1cfc4e",
+    "restaurant_brand_id": "a5a67e2b-d866-4ba2-93f5-8728dfad1eb1",
+    "name": "Vegan Sesame Garlic Stir-Fry",
+    "description": "Fresh vegetables and tofu are sautéed in a rich vegan sesame garlic sauce, offering a hearty, plant-based delight.",
+    "category": "Stir-Fry",
+    "is_active": true,
+    "source_url": "https://fastfoodnutrition.org/honeygrow/vegan-sesame-garlic-stir-fry",
+    "estimated_price": "10.99",
+    "cuisine_types": [
+      "Chinese",
+      "Thai",
+      "International"
+    ],
+    "nutritional_values": {
+      "nutrition": {
+        "calories": "524.0",
+        "protein": "25.0g",
+        "total_carbohydrates": "85.0g",
+        "total_fat": "14.0g",
+        "sodium": "707.0mg",
+        "sugar": "6.0g"
+      }
+    },
+    "macronutrient_profile": [
+      "High Protein",
+      "High Carb",
+      "High Sodium",
+      "Low Sugar"
+    ]
+  }
+]

@@ -1,0 +1,3503 @@
+{
+  "McDonald's": {
+    "url": "https://fastfoodnutrition.org/mcdonalds",
+    "restaurant_logo": "https://fastfoodnutrition.org/logos/mcdonalds.jpg",
+    "items": [
+      {
+        "name": "Bacon Buffalo Ranch Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-buffalo-ranch-deluxe-mccrispy",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "660",
+                "total_fat": "37g",
+                "saturated_fat": "8g",
+                "trans_fat": "0g",
+                "cholesterol": "90mg",
+                "sodium": "1610mg",
+                "total_carbohydrates": "50g",
+                "dietary_fiber": "2g",
+                "sugars": "11g",
+                "added_sugars": null,
+                "protein": "33g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": "580mg",
+                "calories_from_fat": "333"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x320/176219431863748.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Bacon Buffalo Ranch Deluxe McCrispy from McDonald's contains the following ingredients: Crispy Chicken Fillet Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin. Contains: Wheat. Potato Roll Ingredients: Enriched Flour (wheat Flour, Malted Barley, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Flour (wheat Flour, Malted Barley Flour), Water, Sugar, Yeast, Potato Flour, Wheat Gluten, Soybean Oil, Contains 2% Or Less: Honey, Salt, Vinegar, Ascorbic Acid, Enzymes, Inactive Yeast, Datem, Natural Flavors, Vegetable Proteins (pea, Potato, Faba Bean), Vegetable Oil (canola And Or Sunflower Oil), Wheat Starch, Dextrose, Colors (turmeric, Paprika), Dextrose, Acetic Acid, Maltodextrin, Wheat Protein. Contains: Wheat. May Contain: Sesame. Buffalo Ranch Ingredients: Soybean Oil, Water, Distilled Vinegar, Cultured Lowfat Buttermilk, Aged Cayenne Red Pepper, Egg Yolks, Sugar, Salt, Contains 2% Or Less: Garlic*, Onion*, Oleoresin Paprika (color), Xanthan Gum, Lemon Juice Concentrate, Propylene Glycol Alginate, Sodium Benzoate And Potassium Sorbate (as Preservatives), Natural Flavors, Lactic Acid, Spice, Calcium Disodium Edta (to Protect Flavor). *dehydrated Contains: Milk, Egg. Roma Tomato Ingredients: Tomato. Thick Cut Applewood Smoked Bacon Ingredients: Pork Bellies Cured With Water, Salt, Sugar, Natural Smoke Flavor, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite. Shredded Lettuce Ingredients: Lettuce."
+      },
+      {
+        "name": "Bacon Buffalo Ranch McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-buffalo-ranch-mccrispy",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "650",
+                "total_fat": "37g",
+                "saturated_fat": "8g",
+                "trans_fat": "0g",
+                "cholesterol": "90mg",
+                "sodium": "1730mg",
+                "total_carbohydrates": "49g",
+                "dietary_fiber": "2g",
+                "sugars": "10g",
+                "added_sugars": null,
+                "protein": "32g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": "510mg",
+                "calories_from_fat": "333"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x293/176219433813318.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Bacon Buffalo Ranch McCrispy from McDonald's contains the following ingredients: Crispy Chicken Fillet Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin. Contains: Wheat. Potato Roll Ingredients: Enriched Flour (wheat Flour, Malted Barley, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Flour (wheat Flour, Malted Barley Flour), Water, Sugar, Yeast, Potato Flour, Wheat Gluten, Soybean Oil, Contains 2% Or Less: Honey, Salt, Vinegar, Ascorbic Acid, Enzymes, Inactive Yeast, Datem, Natural Flavors, Vegetable Proteins (pea, Potato, Faba Bean), Vegetable Oil (canola And Or Sunflower Oil), Wheat Starch, Dextrose, Colors (turmeric, Paprika), Dextrose, Acetic Acid, Maltodextrin, Wheat Protein. Contains: Wheat. May Contain: Sesame. Buffalo Ranch Ingredients: Soybean Oil, Water, Distilled Vinegar, Cultured Lowfat Buttermilk, Aged Cayenne Red Pepper, Egg Yolks, Sugar, Salt, Contains 2% Or Less: Garlic*, Onion*, Oleoresin Paprika (color), Xanthan Gum, Lemon Juice Concentrate, Propylene Glycol Alginate, Sodium Benzoate And Potassium Sorbate (as Preservatives), Natural Flavors, Lactic Acid, Spice, Calcium Disodium Edta (to Protect Flavor). *dehydrated Contains: Milk, Egg. Thick Cut Applewood Smoked Bacon Ingredients: Pork Bellies Cured With Water, Salt, Sugar, Natural Smoke Flavor, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite. Crinkle Cut Pickle Ingredients: Cucumbers, Water, Salt, Distilled Vinegar, Contains 2% Or Less: Calcium Chloride, Natural Flavors, Sodium Benzoate (preservative), Polysorbate 80, Turmeric (color)."
+      },
+      {
+        "name": "Bacon McDouble",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-mcdouble",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "165 g",
+                "calories": "460",
+                "total_fat": "24g",
+                "saturated_fat": "10.0g",
+                "trans_fat": "1.0g",
+                "cholesterol": "85mg",
+                "sodium": "1120mg",
+                "total_carbohydrates": "34g",
+                "dietary_fiber": "2g",
+                "sugars": "7g",
+                "added_sugars": null,
+                "protein": "28g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "210"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [],
+          "unknown": [],
+          "allergy_information": ""
+        },
+        "ingredients": ""
+      },
+      {
+        "name": "Bacon Ranch Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-ranch-deluxe-mccrispy",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "660",
+                "total_fat": "37g",
+                "saturated_fat": "8g",
+                "trans_fat": "2g",
+                "cholesterol": "80mg",
+                "sodium": "1490mg",
+                "total_carbohydrates": "50g",
+                "dietary_fiber": "2g",
+                "sugars": "12g",
+                "added_sugars": null,
+                "protein": "33g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "333"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x323/167797398828051.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Bacon Ranch Deluxe McCrispy from McDonald's contains the following ingredients: Crispy Chicken Fillet Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin. Contains: Wheat. Potato Roll Ingredients: Enriched Flour (Wheat Flour, Malted Barley, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Flour (Wheat Flour, Malted Barley Flour), Water, Sugar, Yeast, Potato Flour, Wheat Gluten, Soybean Oil, Contains 2% or Less: Honey, Salt, Vinegar, Ascorbic Acid, Enzymes, Inactive Yeast, DATEM, Natural Flavors, Vegetable Proteins (Pea, Potato, Faba Bean), Vegetable Oil (Canola and/ or Sunflower Oil), Wheat Starch, Dextrose, Colors (turmeric, Paprika), Dextrose, Acetic Acid, Maltodextrin, Wheat Protein. Contains: Wheat. May Contain: Sesame. Roma Tomato Ingredients: Tomato. Buttermilk Ranch Sauce Ingredients: Soybean Oil, Cultured Buttermilk (low Fat Milk, Salt, Natural Flavor), Cultured Sour Cream (cultured Milk, Cream, Whey, Modified Corn Starch, Sodium Phosphate, Guar Gum, Carrageenan, Calcium Sulfate, Carob Bean Gum, Potassium Sorbate [preservative]), Water, Vinegar, Sugar, Contains 2% Or Less: Salt, Sour Cream Powder (cultured Sour Cream, Skim Milk Solids, Whey, Sugar, Citric Acid, Lactic Acid), Spices, Whey Protein Concentrate, Onion Powder, Garlic Powder, Lactic Acid, Preservatives (potassium Sorbate, Sodium Benzoate), Xanthan Gum, Yeast Extract, Dehydrated Parsley, Dehydrated Chives, Modified Guar Gum, Calcium Disodium Edta. Contains: Egg. Thick Cut Applewood Smoked Bacon Ingredients: Pork Bellies Cured With Water, Salt, Sugar, Natural Smoke Flavor, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite. Shredded Lettuce Ingredients: Lettuce."
+      },
+      {
+        "name": "Bacon Ranch McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-ranch-mccrispy",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "650",
+                "total_fat": "36g",
+                "saturated_fat": "8g",
+                "trans_fat": "2g",
+                "cholesterol": "80mg",
+                "sodium": "1610mg",
+                "total_carbohydrates": "49g",
+                "dietary_fiber": "2g",
+                "sugars": "11g",
+                "added_sugars": null,
+                "protein": "33g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "324"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x309/167797307932007.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Bacon Ranch McCrispy from McDonald's contains the following ingredients: Crispy Chicken Fillet Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin. Contains: Wheat. Potato Roll Ingredients: Enriched Flour (Wheat Flour, Malted Barley, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Flour (Wheat Flour, Malted Barley Flour), Water, Sugar, Yeast, Potato Flour, Wheat Gluten, Soybean Oil, Contains 2% or Less: Honey, Salt, Vinegar, Ascorbic Acid, Enzymes, Inactive Yeast, DATEM, Natural Flavors, Vegetable Proteins (Pea, Potato, Faba Bean), Vegetable Oil (Canola and/ or Sunflower Oil), Wheat Starch, Dextrose, Colors (turmeric, Paprika), Dextrose, Acetic Acid, Maltodextrin, Wheat Protein. Contains: Wheat. May Contain: Sesame. Buttermilk Ranch Sauce Ingredients: Soybean Oil, Cultured Buttermilk (low Fat Milk, Salt, Natural Flavor), Cultured Sour Cream (cultured Milk, Cream, Whey, Modified Corn Starch, Sodium Phosphate, Guar Gum, Carrageenan, Calcium Sulfate, Carob Bean Gum, Potassium Sorbate [preservative]), Water, Vinegar, Sugar, Contains 2% Or Less: Salt, Sour Cream Powder (cultured Sour Cream, Skim Milk Solids, Whey, Sugar, Citric Acid, Lactic Acid), Spices, Whey Protein Concentrate, Onion Powder, Garlic Powder, Lactic Acid, Preservatives (potassium Sorbate, Sodium Benzoate), Xanthan Gum, Yeast Extract, Dehydrated Parsley, Dehydrated Chives, Modified Guar Gum, Calcium Disodium Edta. Contains: Egg. Thick Cut Applewood Smoked Bacon Ingredients: Pork Bellies Cured With Water, Salt, Sugar, Natural Smoke Flavor, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite. Crinkle Cut Pickle Ingredients: Cucumbers, Water, Salt, Distilled Vinegar, Contains 2% Or Less: Calcium Chloride, Natural Flavors, Sodium Benzoate (Preservative), Polysorbate 80, Turmeric (Color)."
+      },
+      {
+        "name": "Bacon Special Edition Gold Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-special-edition-gold-deluxe-mccrispy",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "650",
+                "total_fat": "34g",
+                "saturated_fat": "7g",
+                "trans_fat": "0g",
+                "cholesterol": "85mg",
+                "sodium": "1640mg",
+                "total_carbohydrates": "55g",
+                "dietary_fiber": "2g",
+                "sugars": "17g",
+                "added_sugars": null,
+                "protein": "33g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": "590mg",
+                "calories_from_fat": "306"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x317/175771002670095.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Bacon Special Edition Gold Deluxe McCrispy from McDonald's contains the following ingredients: Crispy Chicken Fillet Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin. Contains: Wheat. Potato Roll Ingredients: Enriched Flour (wheat Flour, Malted Barley, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Flour (wheat Flour, Malted Barley Flour), Water, Sugar, Yeast, Potato Flour, Wheat Gluten, Soybean Oil, Contains 2% Or Less: Honey, Salt, Vinegar, Ascorbic Acid, Enzymes, Inactive Yeast, Datem, Natural Flavors, Vegetable Proteins (pea, Potato, Faba Bean), Vegetable Oil (canola And Or Sunflower Oil), Wheat Starch, Dextrose, Colors (turmeric, Paprika), Dextrose, Acetic Acid, Maltodextrin, Wheat Protein. Contains: Wheat. May Contain: Sesame. Special Edition Gold Ingredients: Soybean Oil, Sugar, Water, Distilled Vinegar, Tomato Paste, Egg Yolks, Salt, Contains 2% Or Less: Honey, Mustard Seed, Invert Sugar, Turmeric, Paprika, Spices, Lemon Juice Concentrate, Xanthan Gum, Sodium Benzoate And Potassium Sorbate (preservatives), Natural Flavors, Garlic*, Onion*, Calcium Disodium Edta (protect Flavor), Extractives Of Paprika And Turmeric. *dehydrated Contains: Egg. Roma Tomato Ingredients: Tomato. Thick Cut Applewood Smoked Bacon Ingredients: Pork Bellies Cured With Water, Salt, Sugar, Natural Smoke Flavor, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite. Shredded Lettuce Ingredients: Lettuce."
+      },
+      {
+        "name": "Bacon Special Edition Gold McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/bacon-special-edition-gold-mccrispy",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "640",
+                "total_fat": "34g",
+                "saturated_fat": "7g",
+                "trans_fat": "0g",
+                "cholesterol": "85mg",
+                "sodium": "1760mg",
+                "total_carbohydrates": "54g",
+                "dietary_fiber": "2g",
+                "sugars": "16g",
+                "added_sugars": null,
+                "protein": "32g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": "520mg",
+                "calories_from_fat": "306"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x286/175770979893305.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Bacon Special Edition Gold McCrispy from McDonald's contains the following ingredients: Crispy Chicken Fillet Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (Baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (Color), Natural Flavors, Gum Arabic, Maltodextrin. Contains: Wheat. Potato Roll Ingredients: Enriched Flour (wheat Flour, Malted Barley, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Flour (wheat Flour, Malted Barley Flour), Water, Sugar, Yeast, Potato Flour, Wheat Gluten, Soybean Oil, Contains 2% Or Less: Honey, Salt, Vinegar, Ascorbic Acid, Enzymes, Inactive Yeast, Datem, Natural Flavors, Vegetable Proteins (pea, Potato, Faba Bean), Vegetable Oil (canola And Or Sunflower Oil), Wheat Starch, Dextrose, Colors (turmeric, Paprika), Dextrose, Acetic Acid, Maltodextrin, Wheat Protein. Contains: Wheat. May Contain: Sesame. Special Edition Gold Ingredients: Soybean Oil, Sugar, Water, Distilled Vinegar, Tomato Paste, Egg Yolks, Salt, Contains 2% Or Less: Honey, Mustard Seed, Invert Sugar, Turmeric, Paprika, Spices, Lemon Juice Concentrate, Xanthan Gum, Sodium Benzoate And Potassium Sorbate (preservatives), Natural Flavors, Garlic*, Onion*, Calcium Disodium Edta (protect Flavor), Extractives Of Paprika And Turmeric. *dehydrated Contains: Egg. Thick Cut Applewood Smoked Bacon Ingredients: Pork Bellies Cured With Water, Salt, Sugar, Natural Smoke Flavor, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite. Crinkle Cut Pickle Ingredients: Cucumbers, Water, Salt, Distilled Vinegar, Contains 2% Or Less: Calcium Chloride, Natural Flavors, Sodium Benzoate (preservative), Polysorbate 80, Turmeric (color)."
+      },
+      {
+        "name": "Big Mac",
+        "url": "https://fastfoodnutrition.org/mcdonalds/big-mac",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 Burger",
+                "calories": "540",
+                "total_fat": "28g",
+                "saturated_fat": "10.0g",
+                "trans_fat": "1.0g",
+                "cholesterol": "80mg",
+                "sodium": "950mg",
+                "total_carbohydrates": "46g",
+                "dietary_fiber": "3g",
+                "sugars": "9g",
+                "added_sugars": null,
+                "protein": "25g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "250"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x433/825_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Big Mac from McDonald's contains the following ingredients: BIG MAC BUN Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Salt, Wheat Gluten, Sesame Seeds, Potato Flour, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Calcium Propionate (Preservative). Contains: WHEAT. 100% BEEF PATTY Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper). SHREDDED LETTUCE Ingredients: Lettuce. BIG MAC SAUCE Ingredients: Soybean Oil, Pickle Relish (Diced Pickles, High Fructose Corn Syrup, Sugar, Vinegar, Corn Syrup, Salt, Calcium Chloride, Xanthan Gum, Potassium Sorbate [Preservative], Spice Extractives, Polysorbate 80), Distilled Vinegar, Water, Egg Yolks, Onion Powder, Spices, Salt, Propylene Glycol Alginate, Sodium Benzoate (Preservative), Mustard Bran, Sugar, Garlic Powder, Vegetable Protein (Hydrolyzed Corn, Soy and Wheat), Caramel Color, Extractives of Paprika, Soy Lecithin, Turmeric (Color), Calcium Disodium EDTA (Protect Flavor). Contains: WHEAT, EGG, SOY. PASTEURIZED PROCESS AMERICAN CHEESE Ingredients: Milk, Cream, Water, Sodium Citrate, Cheese Cultures, Salt, Color Added, Sorbic Acid (Preservative), Citric Acid, Lactic Acid, Acetic Acid, Enzymes, Soy Lecithin. Contains: MILK, SOY. PICKLE SLICES Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). ONIONS Ingredients: Onions."
+      },
+      {
+        "name": "Big Mac Bacon",
+        "url": "https://fastfoodnutrition.org/mcdonalds/big-mac-bacon",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 burger",
+                "calories": "610",
+                "total_fat": "33g",
+                "saturated_fat": "12g",
+                "trans_fat": "1g",
+                "cholesterol": "95mg",
+                "sodium": "1210mg",
+                "total_carbohydrates": "47g",
+                "dietary_fiber": "3g",
+                "sugars": "9g",
+                "added_sugars": null,
+                "protein": "30g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "300"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "sesame",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Big Mac Bacon from McDonald's contains the following ingredients: BIG MAC BUN Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Salt, Wheat Gluten, Sesame Seeds, Potato Flour, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Vinegar. Contains: WHEAT. 100% BEEF PATTY Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper). SHREDDED LETTUCE Ingredients: Lettuce. BIG MAC SAUCE Ingredients: Soybean Oil, Sweet Relish (Diced Pickles, Sugar, High Fructose Corn Syrup, Distilled Vinegar, Salt, Corn Syrup, Xanthan Gum, Calcium Chloride, Spice Extractives), Water, Egg Yolks, Distilled Vinegar, Spices, Onion Powder, Salt, Propylene Glycol Alginate, Garlic Powder, Vegetable Protein (Hydrolyzed Corn, Soy and Wheat), Sugar, Caramel Color, Turmeric, Extractives of Paprika, Soy Lecithin. Contains: EGG, SOY, WHEAT. THICK CUT APPLEWOOD SMOKED BACON Ingredients: Pork Cured with Water, Salt, Sugar, Natural Smoke Flavor, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite. PASTEURIZED PROCESS AMERICAN CHEESE Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: MILK, SOY. PICKLE SLICES Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). ONIONS Ingredients: Onions."
+      },
+      {
+        "name": "Cardi B & Offset Meal",
+        "url": "https://fastfoodnutrition.org/mcdonalds/cardi-b-offset-meal",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "Entire Meal",
+                "calories": "2190",
+                "total_fat": "75g",
+                "saturated_fat": "29g",
+                "trans_fat": "2g",
+                "cholesterol": "140mg",
+                "sodium": "2410mg",
+                "total_carbohydrates": "336g",
+                "dietary_fiber": "15g",
+                "sugars": "193g",
+                "added_sugars": null,
+                "protein": "55g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "680"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x275/167640437022172.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [],
+          "unknown": [],
+          "allergy_information": ""
+        },
+        "ingredients": ""
+      },
+      {
+        "name": "Cheeseburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/cheeseburger",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 Cheeseburger",
+                "calories": "300",
+                "total_fat": "12g",
+                "saturated_fat": "6g",
+                "trans_fat": "0.5g",
+                "cholesterol": "40mg",
+                "sodium": "680mg",
+                "total_carbohydrates": "33g",
+                "dietary_fiber": "2g",
+                "sugars": "7g",
+                "added_sugars": null,
+                "protein": "15g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "110"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/1823.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Cheeseburger from McDonald's contains the following ingredients: Regular Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Salt, Wheat Gluten, Potato Flour, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Vinegar. Contains: Wheat. 100% Beef Patty Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper). Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Ketchup Ingredients: Tomato Concentrate from Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Water, Salt, Natural Flavors. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). Onions Ingredients: Onions. Mustard Ingredients: Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika, Spice Extractive."
+      },
+      {
+        "name": "Cheesy Jalapeno Bacon Quarter Pounder",
+        "url": "https://fastfoodnutrition.org/mcdonalds/cheesy-jalapeno-bacon-quarter-pounder",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Single",
+              "nutrition": {
+                "serving_size": "1 burger",
+                "calories": "650",
+                "total_fat": "38g",
+                "saturated_fat": "17g",
+                "trans_fat": "1.5g",
+                "cholesterol": "120mg",
+                "sodium": "1760mg",
+                "total_carbohydrates": "41g",
+                "dietary_fiber": "2g",
+                "sugars": "8g",
+                "added_sugars": null,
+                "protein": "37g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "342"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x291/168900861367415.jpg"
+            },
+            {
+              "size_label": "Double",
+              "nutrition": {
+                "serving_size": "1 burger",
+                "calories": "870",
+                "total_fat": "54g",
+                "saturated_fat": "24g",
+                "trans_fat": "2.5g",
+                "cholesterol": "190mg",
+                "sodium": "1970mg",
+                "total_carbohydrates": "41g",
+                "dietary_fiber": "2g",
+                "sugars": "8g",
+                "added_sugars": null,
+                "protein": "55g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "486"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x291/168900861367415.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "sesame",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Double Cheesy Jalapeno Bacon Quarter Pounder from McDonald's contains the following ingredients: Quarter Pound 100% Beef Patty* Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared With Grill Seasoning (Salt, Black Pepper). *weight Before Cooking 4 Oz. Quarter Pound Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Sesame Seeds, Salt, Wheat Gluten, Dextrose, Guar Gum, Vinegar, Vegetable Proteins (Pea, Potato, Rice), Sunflower and/or Canola Oil, Maltodextrin, Natural Flavors, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Modified Food Starch. Contains: Wheat, Sesame. Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Thick Cut Applewood Smoked Bacon Ingredients: Pork Bellies Cured With Water, Salt, Sugar, Natural Smoke Flavor, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite. Cheddar Cheese Sauce Ingredients: Water, Cheddar Cheese (pasteurized Milk, Cheese Culture, Salt, Enzymes), Interesterified Soybean Oil, Whey, Maltodextrin, Sodium Phosphate, Contains 2% Or Less: Cheeses (cheddar, Granular, Semisoft, And Blue Cheese [pasteurized Milk, Cheese Cultures, Salt, Enzymes]), Corn Syrup Solids, Salt, Lactic Acid, Sodium Alginate, Sorbic Acid And Potassium Sorbate (preservatives), Xanthan Gum, Autolyzed Yeast Extract, Natural Flavor, Apo-carotenal (color), Coconut Oil, Citric Acid. Contains: Milk."
+      },
+      {
+        "name": "Chicken Big Mac",
+        "url": "https://fastfoodnutrition.org/mcdonalds/chicken-big-mac",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "700",
+                "total_fat": "37g",
+                "saturated_fat": "8g",
+                "trans_fat": "0g",
+                "cholesterol": "60mg",
+                "sodium": "1410mg",
+                "total_carbohydrates": "61g",
+                "dietary_fiber": "2g",
+                "sugars": "7g",
+                "added_sugars": null,
+                "protein": "25g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": "8mg",
+                "calories_from_fat": "333"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x355/172970936644841.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "sesame",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Chicken Big Mac from McDonald's contains the following ingredients: Chicken Big Mac Patty Ingredients: White Boneless, Skinless Chicken, Water, Seasoning (rice Starch, Pea Starch, Lemon Juice Solids, Salt, Natural Flavors), Salt, Seasoning (wheat Starch, Yeast Extract, Salt, Flavors).battered And Breaded With: Water, Enriched Bleached Wheat Flour (flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Yellow Corn Flour, Bleached Wheat Flour, Modified Corn Starch, Leavening (baking Soda, Sodium Acid Pyrophosphate, Sodium Aluminum Phosphate, Monocalcium Phosphate, Calcium Lactate), Salt, Spices, Wheat Starch, Dextrose, Corn Starch. Breading Set In Vegetable Oil. Contains: Wheat. Big Mac Bun Ingredients: Enriched Flour (wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% Or Less: Sesame Seeds, Potato Starch, Salt, Dextrose, Corn Starch, Modified Food Starch, Vinegar, Vegetable Proteins (pea, Potato, Rice And/or Faba Bean), Sunflower And/or Canola Oil, Maltodextrin, Wheat Gluten, Natural Flavors, Dough Conditioners (enzymes, Ascorbic Acid). Contains: Wheat, Sesame. Shredded Lettuce Ingredients: Lettuce. Big Mac Sauce Ingredients: Soybean Oil, Sweet Relish (diced Pickles, Sugar, High Fructose Corn Syrup, Distilled Vinegar, Salt, Corn Syrup, Xanthan Gum, Calcium Chloride, Spice Extractives), Water, Egg Yolks, Distilled Vinegar, Spices, Onion Powder, Salt, Propylene Glycol Alginate, Garlic Powder, Vegetable Protein (hydrolyzed Corn, Soy And Wheat), Sugar, Caramel Color, Turmeric, Extractives Of Paprika, Soy Lecithin. Contains: Egg, Soy, Wheat. Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (preservative), Natural Flavors, Polysorbate 80, Extractives Of Turmeric (color)"
+      },
+      {
+        "name": "Daily Double",
+        "url": "https://fastfoodnutrition.org/mcdonalds/daily-double",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "194g",
+                "calories": "440",
+                "total_fat": "24g",
+                "saturated_fat": "9.0g",
+                "trans_fat": "1.5g",
+                "cholesterol": "70mg",
+                "sodium": "770mg",
+                "total_carbohydrates": "33g",
+                "dietary_fiber": "2g",
+                "sugars": "7g",
+                "added_sugars": null,
+                "protein": "23g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "220"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [],
+          "unknown": [],
+          "allergy_information": ""
+        },
+        "ingredients": ""
+      },
+      {
+        "name": "Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/deluxe-crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "530",
+                "total_fat": "26g",
+                "saturated_fat": "4g",
+                "trans_fat": "0g",
+                "cholesterol": "65mg",
+                "sodium": "1040mg",
+                "total_carbohydrates": "47g",
+                "dietary_fiber": "2g",
+                "sugars": "10g",
+                "added_sugars": null,
+                "protein": "27g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "234"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/161353478436185.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "MSG",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Deluxe McCrispy from McDonald's contains the following ingredients: Crispy Chicken Fillet Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (color), Natural Flavors, Gum Arabic, Maltodextrin. Contains: Wheat. Potato Roll Ingredients: Water, Flour (wheat, Malted Barley), Enriched Flour (wheat Flour, Malted Barley, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Potato Flour, Yeast, Wheat Gluten, Soybean Oil, Contains 2% Or Less: Honey, Natural Flavors, Salt, Corn Flour, Colors (turmeric, Paprika), Vinegar, Dextrose, Corn Starch, Maltodextrin, Ascorbic Acid, Dextrin, Triglycerides, Enzymes, Vegetable Proteins (pea, Potato, Faba), Modified Food Starch. Contains: Wheat. Crinkle Cut Pickle Ingredients: Cucumbers, Water, Salt, Distilled Vinegar, Calcium Chloride, Natural Flavors, Sodium Benzoate (preservative), Polysorbate 80. Roma Tomato Ingredients: Tomato. Shredded Lettuce Ingredients: Lettuce. Mayonnaise Ingredients: Soybean Oil, Egg Yolk, Water, Distilled Vinegar, Salt, Sugar, Spice, Lemon Juice Concentrate. Contains: Egg."
+      },
+      {
+        "name": "Double Cheeseburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-cheeseburger",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 Double Cheeseburger",
+                "calories": "440",
+                "total_fat": "22g",
+                "saturated_fat": "11.0g",
+                "trans_fat": "1.0g",
+                "cholesterol": "85mg",
+                "sodium": "1050mg",
+                "total_carbohydrates": "34g",
+                "dietary_fiber": "2g",
+                "sugars": "7g",
+                "added_sugars": null,
+                "protein": "25g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "200"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/820_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Double Cheeseburger from McDonald's contains the following ingredients: 100% Beef Patty Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper). Regular Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Salt, Wheat Gluten, Potato Flour, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Vinegar. Contains: Wheat. Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). Ketchup Ingredients: Tomato Concentrate from Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Water, Salt, Natural Flavors. Onions Ingredients: Onions. Mustard Ingredients: Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika, Spice Extractive."
+      },
+      {
+        "name": "Double Filet-O-Fish",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-filet-o-fish",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "540",
+                "total_fat": "26g",
+                "saturated_fat": "6g",
+                "trans_fat": "0g",
+                "cholesterol": "80mg",
+                "sodium": "790mg",
+                "total_carbohydrates": "47g",
+                "dietary_fiber": "2g",
+                "sugars": "5g",
+                "added_sugars": null,
+                "protein": "28g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "230"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/160524388426452.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Double Filet-O-Fish from McDonald's contains the following ingredients: Fish Filet Patty Ingredients: Pollock, Water, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Wheat Flour, Modified Food Starch, Contains 2% or Less: Yellow Corn Flour, Bleached Wheat Flour, Salt, Whey (Milk), Dextrose, Dried Yeast, Sugar, Cellulose Gum, Paprika and Turmeric Extract (Color), Natural Flavors. Contains: Fish (Pollock), Wheat, Milk Regular Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Salt, Wheat Gluten, Potato Flour, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Vinegar. Contains: Wheat. Tartar Sauce Ingredients: Soybean Oil, Pickle Relish (Diced Pickles, Vinegar, Salt, Capers, Xanthan Gum, Potassium Sorbate [Preservative], Calcium Chloride, Spice Extractives, Polysorbate 80), Egg Yolks, Water, Onions, Distilled Vinegar, Sugar, Spice, Salt, Xanthan Gum, Potassium Sorbate (Preservative), Parsley. Contains: Egg Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy."
+      },
+      {
+        "name": "Double Hamburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-hamburger",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 burger",
+                "calories": "330",
+                "total_fat": "14g",
+                "saturated_fat": "6g",
+                "trans_fat": "1g",
+                "cholesterol": "55mg",
+                "sodium": "650mg",
+                "total_carbohydrates": "32g",
+                "dietary_fiber": "2g",
+                "sugars": "6g",
+                "added_sugars": null,
+                "protein": "20g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "130"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Double Hamburger from McDonald's contains the following ingredients: 100% Beef Patty Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper). Regular Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Salt, Wheat Gluten, Potato Flour, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Vinegar. Contains: Wheat. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). Ketchup Ingredients: Tomato Concentrate from Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Water, Salt, Natural Flavors. Onions Ingredients: Onions. Mustard Ingredients: Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika, Spice Extractive."
+      },
+      {
+        "name": "Double Quarter Pounder with Cheese",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-quarter-pounder-with-cheese",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 Burger",
+                "calories": "780",
+                "total_fat": "45g",
+                "saturated_fat": "21.0g",
+                "trans_fat": "2.5g",
+                "cholesterol": "175mg",
+                "sodium": "1310mg",
+                "total_carbohydrates": "43g",
+                "dietary_fiber": "3g",
+                "sugars": "10g",
+                "added_sugars": null,
+                "protein": "51g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "410"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/823_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Double Quarter Pounder with Cheese from McDonald's contains the following ingredients: Quarter Pound 100% Beef Patty* Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper).*Weight Before Cooking 4 oz. Quarter Pound Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Sesame Seeds, Salt, Wheat Gluten, Dextrose, Guar Gum, Vinegar, Vegetable Proteins (Pea, Potato, Rice), Sunflower and/or Canola Oil, Maltodextrin, Natural Flavors, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Modified Food Starch. Contains: Wheat. Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Ketchup Ingredients: Tomato Concentrate from Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Water, Salt, Natural Flavors. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). Onions Ingredients: Onions. Mustard Ingredients: Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika, Spice Extractive."
+      },
+      {
+        "name": "Double Quarter Pounder with Cheese Deluxe",
+        "url": "https://fastfoodnutrition.org/mcdonalds/double-quarter-pounder-with-cheese-deluxe",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 burger",
+                "calories": "650",
+                "total_fat": "39g",
+                "saturated_fat": "15g",
+                "trans_fat": "1.5g",
+                "cholesterol": "110mg",
+                "sodium": "1180mg",
+                "total_carbohydrates": "44g",
+                "dietary_fiber": "3g",
+                "sugars": "11g",
+                "added_sugars": null,
+                "protein": "32g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "350"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/8738_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Double Quarter Pounder with Cheese Deluxe from McDonald's contains the following ingredients: Quarter Pound 100% Beef Patty* Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper).*Weight Before Cooking 4 oz. Quarter Pound Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Sesame Seeds, Salt, Wheat Gluten, Dextrose, Guar Gum, Vinegar, Vegetable Proteins (Pea, Potato, Rice), Sunflower and/or Canola Oil, Maltodextrin, Natural Flavors, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Modified Food Starch. Contains: Wheat. Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Roma Tomato Ingredients: Tomato. Ketchup Ingredients: Tomato Concentrate from Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Water, Salt, Natural Flavors. Mayonnaise Ingredients: Soybean Oil, Egg Yolk, Water, Distilled Vinegar, Salt, Sugar, Spice, Lemon Juice Concentrate. Contains: Egg. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). Premium Lettuce Ingredients: Leaf Lettuce. Onions Ingredients: Onions. Mustard Ingredients: Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika, Spice Extractive."
+      },
+      {
+        "name": "Filet-O-Fish®",
+        "url": "https://fastfoodnutrition.org/mcdonalds/filet-o-fish",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "390",
+                "total_fat": "19g",
+                "saturated_fat": "4.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "45mg",
+                "sodium": "560mg",
+                "total_carbohydrates": "38g",
+                "dietary_fiber": "2g",
+                "sugars": "5g",
+                "added_sugars": null,
+                "protein": "17g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "170"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/1826.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Filet-O-Fish® from McDonald's contains the following ingredients: FISH FILET PATTY Ingredients: Pollock, Water, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Wheat Flour, Modified Food Starch, Contains 2% or Less: Yellow Corn Flour, Bleached Wheat Flour, Salt, Whey (Milk), Dextrose, Dried Yeast, Sugar, Cellulose Gum, Paprika and Turmeric Extract (Color), Natural Flavors. Contains: FISH (POLLOCK), WHEAT, MILK REGULAR BUN Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Salt, Wheat Gluten, Potato Flour, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Vinegar. Contains: WHEAT. TARTAR SAUCE Ingredients: Soybean Oil, Pickle Relish (Diced Pickles, Vinegar, Salt, Capers, Xanthan Gum, Potassium Sorbate [Preservative], Calcium Chloride, Spice Extractives, Polysorbate 80), Egg Yolks, Water, Onions, Distilled Vinegar, Sugar, Spice, Salt, Xanthan Gum, Potassium Sorbate (Preservative), Parsley. Contains: EGG PASTEURIZED PROCESS AMERICAN CHEESE HALF SLICE Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: MILK, SOY."
+      },
+      {
+        "name": "Hamburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hamburger",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 hamburger",
+                "calories": "250",
+                "total_fat": "8g",
+                "saturated_fat": "3.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "30mg",
+                "sodium": "480mg",
+                "total_carbohydrates": "31g",
+                "dietary_fiber": "2g",
+                "sugars": "6g",
+                "added_sugars": null,
+                "protein": "13g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "70"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/1822.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Hamburger from McDonald's contains the following ingredients: REGULAR BUN Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Salt, Wheat Gluten, Potato Flour, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Calcium Propionate (Preservative). Contains: WHEAT. 100% BEEF PATTY Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper). KETCHUP Ingredients: Tomato Concentrate from Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Water, Salt, Natural Flavors. PICKLE SLICES Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). ONIONS Ingredients: Onions. MUSTARD Ingredients: Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika, Spice Extractive."
+      },
+      {
+        "name": "Hot 'n Spicy McChicken",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hot-n-spicy-mcchicken",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "146g",
+                "calories": "380",
+                "total_fat": "17g",
+                "saturated_fat": "3.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "35mg",
+                "sodium": "1030mg",
+                "total_carbohydrates": "41g",
+                "dietary_fiber": "2g",
+                "sugars": "22g",
+                "added_sugars": null,
+                "protein": "15g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "160"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [],
+          "unknown": [],
+          "allergy_information": ""
+        },
+        "ingredients": ""
+      },
+      {
+        "name": "McChicken",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mcchicken",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "410",
+                "total_fat": "22g",
+                "saturated_fat": "4g",
+                "trans_fat": "0.0g",
+                "cholesterol": "45mg",
+                "sodium": "590mg",
+                "total_carbohydrates": "39g",
+                "dietary_fiber": "2g",
+                "sugars": "5g",
+                "added_sugars": null,
+                "protein": "15g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "190"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/1836.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A McChicken from McDonald's contains the following ingredients: McChicken Patty Ingredients: Boneless Chicken, Bleached Wheat Flour, Water, Vegetable Oil (Canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Wheat Flour, Modified Corn Starch, Sea Salt, Spice, Potassium Chloride, Salt, Paprika, Dextrose, Sodium Phosphates, Leavening (Ammonium Bicarbonate, Sodium Acid Pyrophosphate, Baking Soda, Monocalcium Phosphate), Wheat Gluten, Natural Flavors with Extractives of Paprika, Yeast, Corn Starch, Garlic Powder. Contains: Wheat. Cooked in the same fryer that we use for Buttermilk Crispy Chicken which contains a milk allergen Regular Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Salt, Wheat Gluten, Potato Flour, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Vinegar. Contains: Wheat. Shredded Lettuce Ingredients: Lettuce. Mayonnaise Ingredients: Soybean Oil, Egg Yolk, Water, Distilled Vinegar, Salt, Sugar, Spice, Lemon Juice Concentrate. Contains: Egg."
+      },
+      {
+        "name": "McCrispy Chicken Sandwich",
+        "url": "https://fastfoodnutrition.org/mcdonalds/crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "470",
+                "total_fat": "20g",
+                "saturated_fat": "5g",
+                "trans_fat": "0g",
+                "cholesterol": "65mg",
+                "sodium": "1100mg",
+                "total_carbohydrates": "45g",
+                "dietary_fiber": "1g",
+                "sugars": "9g",
+                "added_sugars": null,
+                "protein": "27g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "180"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/161353448979398.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "MSG",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A McCrispy Chicken Sandwich from McDonald's contains the following ingredients: Crispy Chicken Fillet Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (color), Natural Flavors, Gum Arabic, Maltodextrin. Contains: Wheat. Potato Roll Ingredients: Water, Flour (wheat, Malted Barley), Enriched Flour (wheat Flour, Malted Barley, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Potato Flour, Yeast, Wheat Gluten, Soybean Oil, Contains 2% Or Less: Honey, Natural Flavors, Salt, Corn Flour, Colors (turmeric, Paprika), Vinegar, Dextrose, Corn Starch, Maltodextrin, Ascorbic Acid, Dextrin, Triglycerides, Enzymes, Vegetable Proteins (pea, Potato, Faba), Modified Food Starch. Contains: Wheat. Crinkle Cut Pickle Ingredients: Cucumbers, Water, Salt, Distilled Vinegar, Calcium Chloride, Natural Flavors, Sodium Benzoate (preservative), Polysorbate 80. Salted Butter Ingredients: Cream, Salt. Contains: Milk"
+      },
+      {
+        "name": "McDouble",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mcdouble",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 burger",
+                "calories": "390",
+                "total_fat": "18g",
+                "saturated_fat": "8.0g",
+                "trans_fat": "1.0g",
+                "cholesterol": "70mg",
+                "sodium": "850mg",
+                "total_carbohydrates": "33g",
+                "dietary_fiber": "2g",
+                "sugars": "7g",
+                "added_sugars": null,
+                "protein": "22g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "160"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/1825.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A McDouble from McDonald's contains the following ingredients: 100% Beef Patty Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper). Regular Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Salt, Wheat Gluten, Potato Flour, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Vinegar. Contains: Wheat. Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). Ketchup Ingredients: Tomato Concentrate from Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Water, Salt, Natural Flavors. Onions Ingredients: Onions. Mustard Ingredients: Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika, Spice Extractive."
+      },
+      {
+        "name": "McRib",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mcrib",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "520",
+                "total_fat": "28g",
+                "saturated_fat": "9g",
+                "trans_fat": "0.0g",
+                "cholesterol": "75mg",
+                "sodium": "890mg",
+                "total_carbohydrates": "46g",
+                "dietary_fiber": "2g",
+                "sugars": "13g",
+                "added_sugars": null,
+                "protein": "24g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "252"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/160761381083267i.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A McRib from McDonald's contains the following ingredients: McRib Pork Patty Ingredients: Pork, Water, Salt, Dextrose, Rosemary Extract. Homestyle Bun Ingredients: Enriched Flour (wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Contains 2% Or Less: Corn Meal, Salt, Soybean Oil, Wheat Gluten, Mono And Diglycerides, Enzymes, Ascorbic Acid, Vinegar. Contains: Wheat. McRib Sauce Ingredients: Water, High Fructose Corn Syrup, Tomato Paste, Distilled Vinegar, Molasses, Natural Smoke Flavor, Modified Food Starch, Salt, Sugar, Spices, Soybean Oil, Xanthan Gum, Onion Powder, Garlic Powder, Chili Pepper, Sodium Benzoate (preservative), Caramel Color, Beet Powder. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). Onions Ingredients: Onions."
+      },
+      {
+        "name": "Minecraft Movie Meal",
+        "url": "https://fastfoodnutrition.org/mcdonalds/minecraft-movie-meal",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "McNuggets",
+              "nutrition": {
+                "serving_size": "1 meal",
+                "calories": "755",
+                "total_fat": "39g",
+                "saturated_fat": "6g",
+                "trans_fat": "0g",
+                "cholesterol": "65mg",
+                "sodium": "1610mg",
+                "total_carbohydrates": "75g",
+                "dietary_fiber": "4g",
+                "sugars": "5g",
+                "added_sugars": null,
+                "protein": "28g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": "1045mg",
+                "calories_from_fat": "351"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x400/174363058134415i.png"
+            },
+            {
+              "size_label": "Big Mac",
+              "nutrition": {
+                "serving_size": "1 meal",
+                "calories": "900",
+                "total_fat": "49g",
+                "saturated_fat": "13g",
+                "trans_fat": "1g",
+                "cholesterol": "85mg",
+                "sodium": "1320mg",
+                "total_carbohydrates": "88g",
+                "dietary_fiber": "7g",
+                "sugars": "7g",
+                "added_sugars": null,
+                "protein": "30g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": "1020mg",
+                "calories_from_fat": "441"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x400/174363026767625i.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "sesame",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Big Mac Minecraft Movie Meal from McDonald's contains the following ingredients: Big Mac Big Mac Bun Ingredients: Enriched Flour (wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% Or Less: Sesame Seeds, Potato Starch, Salt, Dextrose, Corn Starch, Modified Food Starch, Vinegar, Vegetable Proteins (pea, Potato, Rice And/or Faba Bean), Sunflower And/or Canola Oil, Maltodextrin, Wheat Gluten, Natural Flavors, Dough Conditioners (enzymes, Ascorbic Acid). Contains: Wheat, Sesame. 100% Beef Patty Ingredients: 100% Pure Usda Inspected Beef; No Fillers, No Extenders. Prepared With Grill Seasoning (salt, Black Pepper). Shredded Lettuce Ingredients: Lettuce. Big Mac Sauce Ingredients: Soybean Oil, Sweet Relish (diced Pickles, Sugar, High Fructose Corn Syrup, Distilled Vinegar, Salt, Corn Syrup, Xanthan Gum, Calcium Chloride, Spice Extractives), Water, Egg Yolks, Distilled Vinegar, Spices, Onion Powder, Salt, Propylene Glycol Alginate, Garlic Powder, Vegetable Protein (hydrolyzed Corn, Soy And Wheat), Sugar, Caramel Color, Turmeric, Extractives Of Paprika, Soy Lecithin. Contains: Egg, Soy, Wheat. Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (preservative), Natural Flavors, Polysorbate 80, Extractives Of Turmeric (color). Onions Ingredients: Onions. Medium French Fries French Fries Ingredients: Potatoes, Vegetable Oil (canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil, Natural Beef Flavor [wheat And Milk Derivatives]*), Dextrose, Sodium Acid Pyrophosphate (maintain Color), Salt. *natural Beef Flavor Contains Hydrolyzed Wheat And Hydrolyzed Milk As Starting Ingredients. Contains: Wheat, Milk."
+      },
+      {
+        "name": "Quarter Pounder Bacon",
+        "url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-bacon",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 burger",
+                "calories": "640",
+                "total_fat": "34g",
+                "saturated_fat": "16g",
+                "trans_fat": "1.5g",
+                "cholesterol": "125mg",
+                "sodium": "1480mg",
+                "total_carbohydrates": "44g",
+                "dietary_fiber": "3g",
+                "sugars": "11g",
+                "added_sugars": null,
+                "protein": "39g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "310"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/12469.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "sesame",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Quarter Pounder Bacon from McDonald's contains the following ingredients: Quarter Pound 100% Beef Patty* Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper).*Weight Before Cooking 4 oz. Quarter Pound Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Sesame Seeds, Salt, Wheat Gluten, Dextrose, Guar Gum, Vinegar, Vegetable Proteins (Pea, Potato, Rice), Sunflower and/or Canola Oil, Maltodextrin, Natural Flavors, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Modified Food Starch. Contains: Wheat. Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Thick Cut Applewood Smoked Bacon Ingredients: Pork Bellies Cured with Water, Salt, Sugar, Natural Smoke Flavor, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite. Ketchup Ingredients: Tomato Concentrate from Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Water, Salt, Natural Flavors. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). Onions Ingredients: Onions. Mustard Ingredients: Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika, Spice Extractive."
+      },
+      {
+        "name": "Quarter Pounder Deluxe",
+        "url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-deluxe",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 burger",
+                "calories": "650",
+                "total_fat": "39g",
+                "saturated_fat": "15g",
+                "trans_fat": "1.5g",
+                "cholesterol": "110mg",
+                "sodium": "1180mg",
+                "total_carbohydrates": "44g",
+                "dietary_fiber": "3g",
+                "sugars": "11g",
+                "added_sugars": null,
+                "protein": "32g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "350"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/6000.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Quarter Pounder Deluxe from McDonald's contains the following ingredients: Quarter Pound 100% Beef Patty* Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper).*Weight Before Cooking 4 oz. Quarter Pound Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Sesame Seeds, Salt, Wheat Gluten, Dextrose, Guar Gum, Vinegar, Vegetable Proteins (Pea, Potato, Rice), Sunflower and/or Canola Oil, Maltodextrin, Natural Flavors, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Modified Food Starch. Contains: Wheat. Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Roma Tomato Ingredients: Tomato. Ketchup Ingredients: Tomato Concentrate from Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Water, Salt, Natural Flavors. Mayonnaise Ingredients: Soybean Oil, Egg Yolk, Water, Distilled Vinegar, Salt, Sugar, Spice, Lemon Juice Concentrate. Contains: Egg. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). Premium Lettuce Ingredients: Leaf Lettuce. Onions Ingredients: Onions. Mustard Ingredients: Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika, Spice Extractive."
+      },
+      {
+        "name": "Quarter Pounder® with Cheese",
+        "url": "https://fastfoodnutrition.org/mcdonalds/quarter-pounder-with-cheese",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "540",
+                "total_fat": "28g",
+                "saturated_fat": "13.0g",
+                "trans_fat": "1.5g",
+                "cholesterol": "100mg",
+                "sodium": "1120mg",
+                "total_carbohydrates": "42g",
+                "dietary_fiber": "3g",
+                "sugars": "10g",
+                "added_sugars": null,
+                "protein": "31g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "250"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/824_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Quarter Pounder® with Cheese from McDonald's contains the following ingredients: Quarter Pound 100% Beef Patty* Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper).*Weight Before Cooking 4 oz. Quarter Pound Bun Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Sesame Seeds, Salt, Wheat Gluten, Dextrose, Guar Gum, Vinegar, Vegetable Proteins (Pea, Potato, Rice), Sunflower and/or Canola Oil, Maltodextrin, Natural Flavors, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Modified Food Starch. Contains: Wheat. Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Ketchup Ingredients: Tomato Concentrate from Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Water, Salt, Natural Flavors. Pickle Slices Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). Onions Ingredients: Onions. Mustard Ingredients: Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika, Spice Extractive."
+      },
+      {
+        "name": "Smoky BLT Quarter Pounder with Cheese",
+        "url": "https://fastfoodnutrition.org/mcdonalds/smoky-blt-quarter-pounder-with-cheese",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Single",
+              "nutrition": {
+                "serving_size": "1 burger",
+                "calories": "770",
+                "total_fat": "51g",
+                "saturated_fat": "18g",
+                "trans_fat": "2g",
+                "cholesterol": "115mg",
+                "sodium": "1410mg",
+                "total_carbohydrates": "41g",
+                "dietary_fiber": "3g",
+                "sugars": "9g",
+                "added_sugars": null,
+                "protein": "36g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "459"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x338/166905220792191i.png"
+            },
+            {
+              "size_label": "Double",
+              "nutrition": {
+                "serving_size": "1 burger",
+                "calories": "990",
+                "total_fat": "67g",
+                "saturated_fat": "25g",
+                "trans_fat": "3g",
+                "cholesterol": "185mg",
+                "sodium": "1620mg",
+                "total_carbohydrates": "42g",
+                "dietary_fiber": "3g",
+                "sugars": "9g",
+                "added_sugars": null,
+                "protein": "54g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "603"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x371/166905249190062i.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Double Smoky BLT Quarter Pounder with Cheese from McDonald's contains the following ingredients: Quarter Pound 100% Beef Patty* Ingredients: 100% Pure Usda Inspected Beef; No Fillers, No Extenders. Prepared With Grill Seasoning (salt, Black Pepper). *weight Before Cooking 4 Oz. Quarter Pound Bun Ingredients: Enriched Flour (wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% Or Less: Sesame Seeds, Salt, Wheat Gluten, Dextrose, Guar Gum, Vinegar, Vegetable Proteins (pea, Potato, Rice), Sunflower And/or Canola Oil, Maltodextrin, Natural Flavors, May Contain One Or More Dough Conditioners (datem, Ascorbic Acid, Mono And Diglycerides, Enzymes), Modified Food Starch. Contains: Wheat. Pasteurized Process American Cheese Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: Milk, Soy. Smoky Sauce Ingredients: Soybean Oil, Water, Vinegar, Cultured Sour Cream (Cultured Milk, Cream, Whey, Modified Corn Starch, Sodium Phosphate, Guar Gum, Carrageenan, Calcium Sulfate, Carob Bean Gum, Potassium Sorbate [Preservative]), Sugar, Egg Yolks, Contains 2% or Less: Salt, Natural Smoke Flavor, Garlic Powder, Xanthan Gum, Whey Protein Concentrate, Lactic Acid, Potassium Sorbate and Sodium Benzoate (Preservatives), Yeast Extract, Lemon Juice Concentrate, Wheat Starch, Spice, Paprika, Natural Flavors, Dehydrated Parsley, Modified Guar Gum, Tapioca Dextrin, Glutamic Acid, Grill Flavor (from Sunflower Oil), Calcium Disodium EDTA (Protect Flavor), Potato Maltodextrin. Contains: Milk, Egg, Wheat. Roma Tomato Ingredients: Tomato. Thick Cut Applewood Smoked Bacon Ingredients: Pork Bellies Cured With Water, Salt, Sugar, Natural Smoke Flavor, Sodium Phosphate, Sodium Erythorbate, Sodium Nitrite. Shredded Lettuce Ingredients: Lettuce."
+      },
+      {
+        "name": "Spicy Deluxe McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/spicy-deluxe-crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "530",
+                "total_fat": "26g",
+                "saturated_fat": "4g",
+                "trans_fat": "0g",
+                "cholesterol": "65mg",
+                "sodium": "1200mg",
+                "total_carbohydrates": "49g",
+                "dietary_fiber": "2g",
+                "sugars": "10g",
+                "added_sugars": null,
+                "protein": "27g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "234"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x312/167167831842086.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Spicy Deluxe McCrispy from McDonald's contains the following ingredients: Crispy Chicken Fillet Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (color), Natural Flavors, Gum Arabic, Maltodextrin. Contains: Wheat. Potato Roll Ingredients: Enriched Flour (wheat Flour, Malted Barley, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Flour (wheat Flour, Malted Barley Flour), Water, Sugar, Yeast, Potato Flour, Wheat Gluten, Soybean Oil, Contains 2% Or Less: Honey, Salt, Vinegar, Ascorbic Acid, Enzymes, Inactive Yeast, Datem, Natural Flavors, Vegetable Proteins (pea, Potato, Faba Bean), Vegetable Oil (canola And Or Sunflower Oil), Wheat Starch, Dextrose, Colors (turmeric, Paprika), Dextrose, Acetic Acid, Maltodextrin, Wheat Protein. Contains: Wheat Roma Tomato Ingredients: Tomato. Spicy Pepper Sauce Ingredients: Soybean Oil, Water, Distilled Vinegar, Egg Yolk, Habanero Pepper, Salt, Sugar, Contains 2% Or Less: Mustard Seed, Garlic, Onion, Xantham Gum, Red Bell Pepper, Lactic Acid, Propylene Glycol Alginate, Spice, Natural Flavor, Oleoresin Paprika (color), Preservatives (sodium Benzoate, Potassium Sorbate), Paprika, Turmeric, Calcium Disodium Edta (protect Flavor). Contains: Egg. Shredded Lettuce Ingredients: Lettuce."
+      },
+      {
+        "name": "Spicy McCrispy",
+        "url": "https://fastfoodnutrition.org/mcdonalds/spicy-crispy-chicken-sandwich",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 sandwich",
+                "calories": "530",
+                "total_fat": "26g",
+                "saturated_fat": "4g",
+                "trans_fat": "0g",
+                "cholesterol": "65mg",
+                "sodium": "1230mg",
+                "total_carbohydrates": "47g",
+                "dietary_fiber": "1g",
+                "sugars": "9g",
+                "added_sugars": null,
+                "protein": "27g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "234"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/161353465962204.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "egg",
+            "gluten",
+            "milk",
+            "MSG",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "fish",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Spicy McCrispy from McDonald's contains the following ingredients: Crispy Chicken Fillet Ingredients: Chicken Breast Fillets With Rib Meat, Water, Wheat Flour, Vegetable Oil (canola Oil, Corn Oil, Soybean Oil, Hydrogenated Soybean Oil), Sugar, Salt, Modified Food Starch, Leavening (baking Soda, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Yellow Corn Flour, Modified Corn Starch, Sodium Phosphate, Spices, Wheat Gluten, Yeast Extract, Monosodium Glutamate, Extractives Of Paprika (color), Natural Flavors, Gum Arabic, Maltodextrin. Contains: Wheat. Potato Roll Ingredients: Water, Flour (wheat, Malted Barley), Enriched Flour (wheat Flour, Malted Barley, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Potato Flour, Yeast, Wheat Gluten, Soybean Oil, Contains 2% Or Less: Honey, Natural Flavors, Salt, Corn Flour, Colors (turmeric, Paprika), Vinegar, Dextrose, Corn Starch, Maltodextrin, Ascorbic Acid, Dextrin, Triglycerides, Enzymes, Vegetable Proteins (pea, Potato, Faba), Modified Food Starch. Contains: Wheat. Original Spicy Sauce Ingredients: Soybean Oil, Water, Distilled Vinegar, Egg Yolk, Habanero Pepper, Salt, Sugar, Contains 2% Or Less: Mustard Seed, Garlic, Onion, Xantham Gum, Red Bell Pepper, Lactic Acid, Propylene Glycol Alginate, Spice, Natural Flavor, Oleoresin Paprika (color), Preservatives (sodium Benzoate, Potassium Sorbate), Calcium Disodium Edta (protect Flavor). Contains: Egg. Crinkle Cut Pickle Ingredients: Cucumbers, Water, Salt, Distilled Vinegar, Calcium Chloride, Natural Flavors, Sodium Benzoate (preservative), Polysorbate 80. Salted Butter Ingredients: Cream, Salt. Contains: Milk"
+      },
+      {
+        "name": "Triple Cheeseburger",
+        "url": "https://fastfoodnutrition.org/mcdonalds/triple-cheeseburger",
+        "category": "Burgers & Sandwiches",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 triple cheeseburger",
+                "calories": "520",
+                "total_fat": "28g",
+                "saturated_fat": "14g",
+                "trans_fat": "1.5g",
+                "cholesterol": "110mg",
+                "sodium": "1180mg",
+                "total_carbohydrates": "35g",
+                "dietary_fiber": "2g",
+                "sugars": "7g",
+                "added_sugars": null,
+                "protein": "32g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "250"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x325/12493.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "gluten",
+            "milk",
+            "mustard",
+            "soy",
+            "wheat"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "peanuts",
+            "shellfish",
+            "tree nuts"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Triple Cheeseburger from McDonald's contains the following ingredients: 100% BEEF PATTY Ingredients: 100% Pure USDA Inspected Beef; No Fillers, No Extenders. Prepared with Grill Seasoning (Salt, Black Pepper). REGULAR BUN Ingredients: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Soybean Oil, Contains 2% or Less: Salt, Wheat Gluten, Potato Flour, May Contain One or More Dough Conditioners (DATEM, Ascorbic Acid, Mono and Diglycerides, Enzymes), Vinegar. Contains: WHEAT. PASTEURIZED PROCESS AMERICAN CHEESE Ingredients: Milk, Cream, Water, Sodium Citrate, Salt, Cheese Cultures, Citric Acid, Enzymes, Soy Lecithin, Color Added. Contains: MILK, SOY. PICKLE SLICES Ingredients: Cucumbers, Water, Distilled Vinegar, Salt, Calcium Chloride, Alum, Potassium Sorbate (Preservative), Natural Flavors, Polysorbate 80, Extractives of Turmeric (Color). KETCHUP Ingredients: Tomato Concentrate from Red Ripe Tomatoes, Distilled Vinegar, High Fructose Corn Syrup, Corn Syrup, Water, Salt, Natural Flavors. ONIONS Ingredients: Onions. MUSTARD Ingredients: Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika, Spice Extractive."
+      },
+      {
+        "name": "1% Low Fat Milk Jug",
+        "url": "https://fastfoodnutrition.org/mcdonalds/1-low-fat-milk-jug",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "236 mL",
+                "calories": "100",
+                "total_fat": "3g",
+                "saturated_fat": "1.5g",
+                "trans_fat": "0.0g",
+                "cholesterol": "10mg",
+                "sodium": "125mg",
+                "total_carbohydrates": "12g",
+                "dietary_fiber": "0g",
+                "sugars": "12g",
+                "added_sugars": null,
+                "protein": "8g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "20"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/1895.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "milk"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A 1% Low Fat Milk Jug from McDonald's contains the following ingredients: Low Fat Milk, Vitamin A Palmitate, Vitamin D3."
+      },
+      {
+        "name": "Apple Juice Box",
+        "url": "https://fastfoodnutrition.org/mcdonalds/minute-maid-apple-juice-box",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "200 ml",
+                "calories": "35",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "10mg",
+                "total_carbohydrates": "9g",
+                "dietary_fiber": "0g",
+                "sugars": "8g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/592_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Apple Juice Box from McDonald's contains the following ingredients: Appley Ever After Ingredients: Filtered Water, Organic Apple Juice from Concentrate, Natural Flavors, Vitamin C (Ascorbic Acid), Organic Natural Flavors, Citric Acid (Provides Tartness)."
+      },
+      {
+        "name": "Coca-Cola Classic",
+        "url": "https://fastfoodnutrition.org/mcdonalds/coca-cola-classic",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Extra Small",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "110",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "35mg",
+                "total_carbohydrates": "31g",
+                "dietary_fiber": "0g",
+                "sugars": "31g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/589_s.jpg"
+            },
+            {
+              "size_label": "Small",
+              "nutrition": {
+                "serving_size": "16 oz",
+                "calories": "150",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "40mg",
+                "total_carbohydrates": "39g",
+                "dietary_fiber": "0g",
+                "sugars": "39g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/589_s.jpg"
+            },
+            {
+              "size_label": "Medium",
+              "nutrition": {
+                "serving_size": "21 fl oz",
+                "calories": "220",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "55mg",
+                "total_carbohydrates": "59g",
+                "dietary_fiber": "0g",
+                "sugars": "59g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/589_s.jpg"
+            },
+            {
+              "size_label": "Large",
+              "nutrition": {
+                "serving_size": "30 oz",
+                "calories": "290",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "85mg",
+                "total_carbohydrates": "80g",
+                "dietary_fiber": "0g",
+                "sugars": "80g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/589_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Large Coca-Cola Classic from McDonald's contains the following ingredients: COCA-COLA Ingredients: Carbonated Water, High Fructose Corn Syrup, Caramel Color, Natural Flavors, Caffeine. ICE Ingredients: Ice"
+      },
+      {
+        "name": "Dasani© Water",
+        "url": "https://fastfoodnutrition.org/mcdonalds/dasanicopy-water",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "16.9 fl oz",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "0mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/1898.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "MSG",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": ""
+      },
+      {
+        "name": "Diet Coke",
+        "url": "https://fastfoodnutrition.org/mcdonalds/diet-coke",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Medium",
+              "nutrition": {
+                "serving_size": "21 fl oz",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "70mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/587_s.jpg"
+            },
+            {
+              "size_label": "Extra Small",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "35mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/587_s.jpg"
+            },
+            {
+              "size_label": "Small",
+              "nutrition": {
+                "serving_size": "16 oz",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "50mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/587_s.jpg"
+            },
+            {
+              "size_label": "Large",
+              "nutrition": {
+                "serving_size": "30 oz",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "95mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/587_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Large Diet Coke from McDonald's contains the following ingredients: DIET COKE Ingredients: Carbonated Water, Caramel Color, Phosphoric Acid, Sodium Saccharin, Potassium Benzoate (To Protect Taste), Natural Flavors, Citric Acid, Caffeine, Potassium Citrate, Aspartame ICE Ingredients: Ice"
+      },
+      {
+        "name": "Diet Dr Pepper",
+        "url": "https://fastfoodnutrition.org/mcdonalds/diet-dr-pepper",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Medium",
+              "nutrition": {
+                "serving_size": "21 fl oz",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "45mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            },
+            {
+              "size_label": "Extra Small",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "25mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            },
+            {
+              "size_label": "Small",
+              "nutrition": {
+                "serving_size": "16 oz",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "25mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            },
+            {
+              "size_label": "Large",
+              "nutrition": {
+                "serving_size": "30 oz",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "65mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Large Diet Dr Pepper from McDonald's contains the following ingredients: Ingredients: Carbonated Water, Caramel Color, Phosphoric Acid, Aspartame, Sodium Citrate, Sodium Benzoate (Preservative), Caffeine, Acesulfame Potassium, Sucralose, Natural and Artificial Flavors, Dimethylpolysiloxane (Antifoaming Agent). PHENYLKETONURICS: CONTAINS PHENYLALANINE"
+      },
+      {
+        "name": "Dr Pepper",
+        "url": "https://fastfoodnutrition.org/mcdonalds/dr-pepper",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Extra Small",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "120",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "40mg",
+                "total_carbohydrates": "32g",
+                "dietary_fiber": "0g",
+                "sugars": "32g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/586_s.jpg"
+            },
+            {
+              "size_label": "Small",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "170",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "55mg",
+                "total_carbohydrates": "46g",
+                "dietary_fiber": "0g",
+                "sugars": "45g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/586_s.jpg"
+            },
+            {
+              "size_label": "Medium",
+              "nutrition": {
+                "serving_size": "21 fl oz",
+                "calories": "210",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "70mg",
+                "total_carbohydrates": "58g",
+                "dietary_fiber": "0g",
+                "sugars": "57g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/586_s.jpg"
+            },
+            {
+              "size_label": "Large",
+              "nutrition": {
+                "serving_size": "30 oz",
+                "calories": "290",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "95mg",
+                "total_carbohydrates": "79g",
+                "dietary_fiber": "0g",
+                "sugars": "78g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/586_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Large Dr Pepper from McDonald's contains the following ingredients: High Fructose Corn Syrup, Water, Caramel Color, Phosphoric Acid, Caffeine, Sodium Benzoate (Preservative), Natural and Artificial Flavors, Dimethypolysiloxane."
+      },
+      {
+        "name": "Fanta Orange",
+        "url": "https://fastfoodnutrition.org/mcdonalds/fanta-orange",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Small",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "150",
+                "total_fat": "0g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "40mg",
+                "total_carbohydrates": "39g",
+                "dietary_fiber": "0g",
+                "sugars": "38g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/8556_s.jpg"
+            },
+            {
+              "size_label": "Medium",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "210",
+                "total_fat": "0g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "60mg",
+                "total_carbohydrates": "56g",
+                "dietary_fiber": "0g",
+                "sugars": "55g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/8556_s.jpg"
+            },
+            {
+              "size_label": "Large",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "300",
+                "total_fat": "0g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "80mg",
+                "total_carbohydrates": "78g",
+                "dietary_fiber": "0g",
+                "sugars": "76g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/8556_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Large Fanta Orange from McDonald's contains the following ingredients: Fanta Orange Ingredients: Carbonated Water, High Fructose Corn Syrup, Citric Acid, Potassium Benzoate (To Protect Taste), Natural Flavors, Modified Food Starch, Glycerol Ester of Rosin, Yellow 6, Sucrose Acetate Isobutyrate, Red 40. Ice Ingredients: Ice."
+      },
+      {
+        "name": "Fat Free Chocolate Milk Jug",
+        "url": "https://fastfoodnutrition.org/mcdonalds/fat-free-chocolate-milk-jug",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "1 jug",
+                "calories": "130",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "5mg",
+                "sodium": "135mg",
+                "total_carbohydrates": "23g",
+                "dietary_fiber": "0g",
+                "sugars": "22g",
+                "added_sugars": null,
+                "protein": "9g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/6081.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [
+            "milk"
+          ],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Fat Free Chocolate Milk Jug from McDonald's contains the following ingredients: Nonfat Milk, Liquid Sucrose, Fructose, Cocoa, Cocoa (Processed with Alkali), Natural Flavor, Salt, Carrageenan, Vitamin A Palmitate, Vitamin D3."
+      },
+      {
+        "name": "Hi-C Orange Lavaburst",
+        "url": "https://fastfoodnutrition.org/mcdonalds/hi-c-orange-lavaburst",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Extra Small",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "110",
+                "total_fat": "0g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "30mg",
+                "total_carbohydrates": "29g",
+                "dietary_fiber": "0g",
+                "sugars": "29g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            },
+            {
+              "size_label": "Small",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "160",
+                "total_fat": "0g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "40mg",
+                "total_carbohydrates": "40g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": null,
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            },
+            {
+              "size_label": "Medium",
+              "nutrition": {
+                "serving_size": "21 fl oz",
+                "calories": "240",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "10mg",
+                "total_carbohydrates": "64g",
+                "dietary_fiber": "0g",
+                "sugars": "64g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            },
+            {
+              "size_label": "Large",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "310",
+                "total_fat": "0g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "80mg",
+                "total_carbohydrates": "80g",
+                "dietary_fiber": "0g",
+                "sugars": "80g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/200x150/595_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Large Hi-C Orange Lavaburst from McDonald's contains the following ingredients: Water, High Fructose Corn Syrup, Citric Acid, Ascorbic Acid (vitamin C), Potassium Benzoate (to Protect Taste), Modified Food Starch, Natural Flavors, Glycerol Ester Of Wood Rosin, Yellow 6, Sucrose Acetate Isobutyrate, Red 40."
+      },
+      {
+        "name": "Iced Tea",
+        "url": "https://fastfoodnutrition.org/mcdonalds/iced-tea",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Medium",
+              "nutrition": {
+                "serving_size": "21 fl oz",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "15mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "1g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/583_s.jpg"
+            },
+            {
+              "size_label": "Extra Small",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "15mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "1g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/583_s.jpg"
+            },
+            {
+              "size_label": "Small",
+              "nutrition": {
+                "serving_size": "16 oz",
+                "calories": "0",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "10mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/583_s.jpg"
+            },
+            {
+              "size_label": "Large",
+              "nutrition": {
+                "serving_size": "30 oz",
+                "calories": "5",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "20mg",
+                "total_carbohydrates": "0g",
+                "dietary_fiber": "0g",
+                "sugars": "0g",
+                "added_sugars": null,
+                "protein": "1g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/583_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Large Iced Tea from McDonald's contains the following ingredients: Water, Orange Pekoe and Pekoe Cut Black Tea."
+      },
+      {
+        "name": "Lemonade",
+        "url": "https://fastfoodnutrition.org/mcdonalds/lemonade",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Small",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "150",
+                "total_fat": "0g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "10mg",
+                "total_carbohydrates": "37g",
+                "dietary_fiber": "0g",
+                "sugars": "34g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x578/167822780088745.png"
+            },
+            {
+              "size_label": "Medium",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "230",
+                "total_fat": "0g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "20mg",
+                "total_carbohydrates": "58g",
+                "dietary_fiber": "0g",
+                "sugars": "54g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x578/167822780088745.png"
+            },
+            {
+              "size_label": "Large",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "320",
+                "total_fat": "0g",
+                "saturated_fat": "0g",
+                "trans_fat": "0g",
+                "cholesterol": "0mg",
+                "sodium": "25mg",
+                "total_carbohydrates": "81g",
+                "dietary_fiber": "0g",
+                "sugars": "75g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x578/167822780088745.png"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "sesame",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Large Lemonade from McDonald's contains the following ingredients: Water, Cane Sugar, Lemon Juice From Concentrate, Lemon Pulp, Natural Flavors."
+      },
+      {
+        "name": "Mango Pineapple Smoothie",
+        "url": "https://fastfoodnutrition.org/mcdonalds/mango-pineapple-smoothie",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Small",
+              "nutrition": {
+                "serving_size": "12 oz",
+                "calories": "200",
+                "total_fat": "1g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "5mg",
+                "sodium": "35mg",
+                "total_carbohydrates": "45g",
+                "dietary_fiber": "1g",
+                "sugars": "42g",
+                "added_sugars": null,
+                "protein": "2g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "5"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/4386_s.jpg"
+            },
+            {
+              "size_label": "Medium",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "250",
+                "total_fat": "1g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "5mg",
+                "sodium": "45mg",
+                "total_carbohydrates": "57g",
+                "dietary_fiber": "1g",
+                "sugars": "52g",
+                "added_sugars": null,
+                "protein": "3g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "5"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/4386_s.jpg"
+            },
+            {
+              "size_label": "Large",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "340",
+                "total_fat": "1g",
+                "saturated_fat": "0.5g",
+                "trans_fat": "0.0g",
+                "cholesterol": "5mg",
+                "sodium": "60mg",
+                "total_carbohydrates": "78g",
+                "dietary_fiber": "2g",
+                "sugars": "72g",
+                "added_sugars": null,
+                "protein": "4g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "10"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/4386_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "MSG",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Large Mango Pineapple Smoothie from McDonald's contains the following ingredients: Water, Clarified Demineralized Pineapple Juice Concentrate, Mango Puree Concentrate, Pineapple Juice Concentrate, Orange Juice Concentrate, Pineapple Puree (Pineapple and Ascorbic Acid), Apple Juice Concentrate, Contains Less than 1%: Cellulose Powder, Natural and Artificial Flavors, Xanthan Gum, Pectin, Citric Acid, Fruit and Vegetable Juice for Color, Turmeric Extract (Color). Dispensed from equipment that also dispenses milk ingredients (yogurt)."
+      },
+      {
+        "name": "Minute Maid Orange Juice",
+        "url": "https://fastfoodnutrition.org/mcdonalds/minute-maid-orange-juice",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "1 serving",
+              "nutrition": {
+                "serving_size": "16 fl oz",
+                "calories": "190",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "0mg",
+                "total_carbohydrates": "39g",
+                "dietary_fiber": "0g",
+                "sugars": "39g",
+                "added_sugars": null,
+                "protein": "3g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x222/590_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Minute Maid Orange Juice from McDonald's contains the following ingredients: Filtered Water, Orange Juice Concentrate."
+      },
+      {
+        "name": "Sprite",
+        "url": "https://fastfoodnutrition.org/mcdonalds/sprite",
+        "category": "Beverages",
+        "nutritional_values": {
+          "serving_sizes": [
+            {
+              "size_label": "Extra Small",
+              "nutrition": {
+                "serving_size": "1 serving",
+                "calories": "90",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "50mg",
+                "total_carbohydrates": "27g",
+                "dietary_fiber": "0g",
+                "sugars": "27g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/581_s.jpg"
+            },
+            {
+              "size_label": "Small",
+              "nutrition": {
+                "serving_size": "16 oz",
+                "calories": "150",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "70mg",
+                "total_carbohydrates": "39g",
+                "dietary_fiber": "0g",
+                "sugars": "38g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/581_s.jpg"
+            },
+            {
+              "size_label": "Medium",
+              "nutrition": {
+                "serving_size": "21 fl oz",
+                "calories": "210",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "95mg",
+                "total_carbohydrates": "55g",
+                "dietary_fiber": "0g",
+                "sugars": "54g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/581_s.jpg"
+            },
+            {
+              "size_label": "Large",
+              "nutrition": {
+                "serving_size": "30 oz",
+                "calories": "280",
+                "total_fat": "0g",
+                "saturated_fat": "0.0g",
+                "trans_fat": "0.0g",
+                "cholesterol": "0mg",
+                "sodium": "130mg",
+                "total_carbohydrates": "74g",
+                "dietary_fiber": "0g",
+                "sugars": "73g",
+                "added_sugars": null,
+                "protein": "0g",
+                "vitamin_d": null,
+                "calcium": null,
+                "iron": null,
+                "potassium": null,
+                "calories_from_fat": "0"
+              },
+              "image_url": "https://fastfoodnutrition.org/item-photos/400x228/581_s.jpg"
+            }
+          ]
+        },
+        "allergens": {
+          "contains": [],
+          "does_not_contain": [
+            "egg",
+            "fish",
+            "gluten",
+            "milk",
+            "peanuts",
+            "shellfish",
+            "soy",
+            "tree nuts",
+            "wheat"
+          ],
+          "unknown": [
+            "glutamates",
+            "MSG",
+            "mustard",
+            "nitrates",
+            "seeds",
+            "sesame",
+            "sulfites"
+          ],
+          "allergy_information": "* Please keep in mind that most fast food restaurants cannot guarantee that any product is free of allergens as they use shared equipment for prepping foods."
+        },
+        "ingredients": "A Large Sprite from McDonald's contains the following ingredients: Carbonated Water, High Fructose Corn Syrup, Citric Acid, Natural Flavors, Sodium Benzoate (To Protect Taste)"
+      }
+    ]
+  }
+}
